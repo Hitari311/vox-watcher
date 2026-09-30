@@ -495,26 +495,24 @@
       "changed": "2026-09-30T19:45:12+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "b99af3c8472a45e76b9198a8a1e6546089420bd3e784386d0606087738ef50b3",
+      "hash": "be8e3c384ca07c24f9ded037fedc6b4ecbf9c5bd73724714070f5d19122427da",
       "slugs": [
         "coyote-vs-acme",
         "heart-of-the-beast",
         "mahmoud-el-tany-arabic",
-        "pressure",
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
         "the-odyssey"
       ],
-      "changed": "2026-09-30T21:45:11+03:00"
+      "changed": "2026-09-30T22:00:11+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "773bf47c1ed8f79f9a3dfed5394fb8b58cdffebcf650624a742b70eedca26a1c",
+      "hash": "2c4abc16334fee0c19fd765c86c5c18ed8b8dd5b60d1333d6c0cb5c566c1e9c5",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
-        "coyote-vs-acme",
         "crawlers",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
@@ -524,11 +522,10 @@
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic",
-        "spider-island",
         "spider-man-brand-new-day",
         "the-odyssey"
       ],
-      "changed": "2026-09-30T21:00:13+03:00"
+      "changed": "2026-09-30T22:00:11+03:00"
     }
   }
 }
