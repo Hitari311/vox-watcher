@@ -52,14 +52,6 @@
         "showtimes:mall-of-egypt": "2026-09-30T15:15:17+03:00"
       }
     },
-    "crawlers": {
-      "title": "Crawlers",
-      "first_seen": "2026-09-30T15:15:17+03:00",
-      "seen_in": {
-        "whatson": "2026-09-30T15:15:17+03:00",
-        "showtimes:mall-of-egypt": "2026-09-30T15:15:17+03:00"
-      }
-    },
     "digger": {
       "title": "Digger",
       "first_seen": "2026-09-30T15:15:17+03:00",
@@ -416,7 +408,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "4467198ff43ca297631538ad376ec406becdcbdd3f2290aaba66498035b4d9cf",
+      "hash": "0000000000000000000000000000000000000000000000000000000000000000",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
@@ -424,7 +416,6 @@
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "cahim-2-turkish",
         "coyote-vs-acme",
-        "crawlers",
         "digger",
         "el-gawahergy-arabic",
         "fall-2-deadpoint",
