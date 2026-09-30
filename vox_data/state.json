@@ -484,12 +484,19 @@
       "changed": "2026-09-30T23:15:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "092d9c216910f453d577d4984ab1ee68ff5a9c3f4882092fc9dc08dbe08dc533",
+      "hash": "b35e190302f2ea925d06c3ca440ab0df9caf3bf4dfa93a4085dd9ad3cbc33d77",
       "slugs": [
+        "avengers-endgame-encore-infinity-vision",
+        "el-gawahergy-arabic",
+        "heart-of-the-beast",
         "mahmoud-el-tany-arabic",
-        "resident-evil"
+        "red-flag-arabic",
+        "resident-evil",
+        "shish-dou-arabic",
+        "spider-man-brand-new-day",
+        "the-odyssey"
       ],
-      "changed": "2026-10-01T00:15:14+03:00"
+      "changed": "2026-10-01T01:00:14+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "bf51266b756016116295b7ed166ba59da1b4ffd0f7511f37ed11acff2fe3f347",
