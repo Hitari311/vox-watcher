@@ -415,7 +415,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "f658f36b25f772f1155f69017d6a188c27d12b182f57b5b89d3109578a74a882",
+      "hash": "72a12b6fc5efde7f7019203169c4938b6d11e2a469f0d3003bbed6277986d2d4",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
@@ -423,7 +423,6 @@
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "cahim-2-turkish",
         "coyote-vs-acme",
-        "crawlers",
         "digger",
         "el-gawahergy-arabic",
         "gator-face",
@@ -442,7 +441,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-09-30T21:45:11+03:00"
+      "changed": "2026-09-30T23:30:14+03:00"
     },
     "comingsoon": {
       "hash": "ecbbd6e514595b6a1e3f626e497f5b573fe5e9532d6e419d8120d3eab110667b",
@@ -476,39 +475,35 @@
       "changed": "2026-09-30T23:15:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "5c09999d20c1f980d5e45ae9f2ff599e121cb39a5a2d60099bc23f4b7850b865",
+      "hash": "0419ba2b0bab5f258d1a202cd84ad4c8392b26b0a4338ddb7c74a7ae57cf5af3",
       "slugs": [
-        "avengers-endgame-encore-infinity-vision",
         "heart-of-the-beast",
         "mahmoud-el-tany-arabic",
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic"
       ],
-      "changed": "2026-09-30T23:00:12+03:00"
+      "changed": "2026-09-30T23:30:14+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "7e24b0b53a4f08d615e849c70c72c6f3fffeb2b8089bcfe335d0ca2c9c19da3a",
+      "hash": "e044b0bcea49848058fb8cdcf8d3e07d94f31f04ebcd2264cb71ef7e3c77f927",
       "slugs": [
         "heart-of-the-beast",
-        "mahmoud-el-tany-arabic",
         "red-flag-arabic",
         "resident-evil"
       ],
-      "changed": "2026-09-30T23:00:12+03:00"
+      "changed": "2026-09-30T23:30:14+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "81dcf85536bc0ff89c7b3361bc2e55df511385627b00a4b5a87526f510c85a21",
+      "hash": "6f88d3c1caf4353b989457732ca553a673cf25457c6d69d77165808b62a4b424",
       "slugs": [
         "crawlers",
-        "heart-of-the-beast",
         "insidious-out-of-the-further",
-        "khali-balak-min-nafsik-arabic",
         "mahmoud-el-tany-arabic",
         "red-flag-arabic",
         "resident-evil"
       ],
-      "changed": "2026-09-30T23:00:12+03:00"
+      "changed": "2026-09-30T23:30:14+03:00"
     }
   }
 }
