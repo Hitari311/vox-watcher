@@ -415,7 +415,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "bb6a24d49fa29b32cee12217d11769770f69ba651bc431e788a1406dee882f0e",
+      "hash": "ada082164ba3f61d3de4df015b70d5186815016ed0662ff228b7022bde1de4a5",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
@@ -432,7 +432,6 @@
         "khali-balak-min-nafsik-arabic",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
-        "paw-patrol-the-dino-movie",
         "practical-magic-2",
         "pressure",
         "red-flag-arabic",
@@ -446,7 +445,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-09-30T20:00:11+03:00"
+      "changed": "2026-09-30T20:15:11+03:00"
     },
     "comingsoon": {
       "hash": "95e634452b7c8348d106f6bb79c9460408020c8e17285b11e1b0698219a7fbe1",
@@ -499,7 +498,7 @@
       "changed": "2026-09-30T19:45:12+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "8bcf7dcdced3941aca6d93d0943b04d1dda92528c45c010d3d528c7875d7f6fe",
+      "hash": "0ebf7306dd0127f63c46818816ab8c6f7cd8bdd8e7ae4ed160dfb379b876911c",
       "slugs": [
         "coyote-vs-acme",
         "el-gawahergy-arabic",
@@ -511,20 +510,18 @@
         "resident-evil",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
-        "the-odyssey",
-        "the-smurfs-timeless-adventure-volume-2"
+        "the-odyssey"
       ],
-      "changed": "2026-09-30T19:15:11+03:00"
+      "changed": "2026-09-30T20:15:11+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "79e113bed3a5260e0007a5ce9e5bf11000da9e98468857828ccd12a9782f5df0",
+      "hash": "1e79e1c08d2c46f476fa4ac38fb6743cf66ac5dca19a63815d30b95aea1ac9fc",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
         "coyote-vs-acme",
         "crawlers",
         "el-gawahergy-arabic",
-        "fall-2-deadpoint",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
         "khali-balak-min-nafsik-arabic",
@@ -538,7 +535,7 @@
         "spider-man-brand-new-day",
         "the-odyssey"
       ],
-      "changed": "2026-09-30T19:45:12+03:00"
+      "changed": "2026-09-30T20:15:11+03:00"
     }
   }
 }
