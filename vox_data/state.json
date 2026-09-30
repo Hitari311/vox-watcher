@@ -404,11 +404,18 @@
       "seen_in": {
         "comingsoon": "2026-09-30T15:15:17+03:00"
       }
+    },
+    "crawlers": {
+      "title": "Crawlers",
+      "first_seen": "2026-09-30T15:19:07+03:00",
+      "seen_in": {
+        "whatson": "2026-09-30T15:19:07+03:00"
+      }
     }
   },
   "sources": {
     "whatson": {
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "hash": "4467198ff43ca297631538ad376ec406becdcbdd3f2290aaba66498035b4d9cf",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
@@ -416,6 +423,7 @@
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "cahim-2-turkish",
         "coyote-vs-acme",
+        "crawlers",
         "digger",
         "el-gawahergy-arabic",
         "fall-2-deadpoint",
@@ -439,7 +447,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-09-30T15:15:17+03:00"
+      "changed": "2026-09-30T15:19:07+03:00"
     },
     "comingsoon": {
       "hash": "95e634452b7c8348d106f6bb79c9460408020c8e17285b11e1b0698219a7fbe1",
@@ -494,9 +502,8 @@
       "changed": "2026-09-30T15:15:17+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "7a37d19a4920e5a388eff1d2bf60dbf9a3fd5d82441a86831746c52b1a0f85a8",
+      "hash": "02fed3842e796992bc92b3e7de54588c381c1faeb13157f77985d4ac1853587a",
       "slugs": [
-        "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
         "coyote-vs-acme",
         "el-gawahergy-arabic",
@@ -515,7 +522,7 @@
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2"
       ],
-      "changed": "2026-09-30T15:15:17+03:00"
+      "changed": "2026-09-30T15:19:07+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "6326d245cee272094e29aa64d1e62096abea02049041b041c86aaacc2478a9f5",
