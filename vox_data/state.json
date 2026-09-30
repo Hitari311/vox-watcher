@@ -78,15 +78,6 @@
         "showtimes:mall-of-egypt": "2026-09-30T14:57:32+03:00"
       }
     },
-    "fall-2-deadpoint": {
-      "title": "Fall 2: Deadpoint",
-      "first_seen": "2026-09-30T14:57:32+03:00",
-      "seen_in": {
-        "whatson": "2026-09-30T14:57:32+03:00",
-        "showtimes:city-centre-almaza": "2026-09-30T14:57:32+03:00",
-        "showtimes:mall-of-egypt": "2026-09-30T14:57:32+03:00"
-      }
-    },
     "gator-face": {
       "title": "Gator Face",
       "first_seen": "2026-09-30T14:57:32+03:00",
@@ -509,7 +500,6 @@
         "avengers-endgame-encore-infinity-vision",
         "coyote-vs-acme",
         "el-gawahergy-arabic",
-        "fall-2-deadpoint",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
         "khali-balak-min-nafsik-arabic",
