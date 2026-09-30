@@ -55,8 +55,8 @@ SOURCES = {
 }
 
 # --- Telegram alerts (env vars override these if set) ---
-TELEGRAM_BOT_TOKEN = ""      # left empty on purpose: set as GitHub Actions secrets
-TELEGRAM_CHAT_ID = ""        # (env vars of the same names are used instead)
+TELEGRAM_BOT_TOKEN = "8932607578:AAE_HP9LInOBgwHv_oXdugCK4GtJ93kvr90"
+TELEGRAM_CHAT_ID = "8000836290"
 
 INTERVAL_MIN = 15            # minutes between checks (keep it polite)
 JITTER_SEC = 90              # random extra wait so requests aren't perfectly periodic
@@ -233,6 +233,7 @@ def best_title(state, slug, movies):
 def check_once(state):
     first_run = not state["sources"]
     ts = now().isoformat(timespec="seconds")
+    ok = changed = 0
 
     for name, url in SOURCES.items():
         try:
@@ -240,6 +241,7 @@ def check_once(state):
         except Exception as e:
             print(f"[{now():%H:%M}] {name}: fetch failed ({e})")
             continue
+        ok += 1
 
         movies = extract_movies(html)
         if not movies:
@@ -250,6 +252,7 @@ def check_once(state):
         prev = state["sources"].get(name, {"hash": None, "slugs": []})
         if digest == prev["hash"]:
             continue
+        changed += 1
 
         old = set(prev["slugs"])
         added = sorted(set(movies) - old)
@@ -284,6 +287,8 @@ def check_once(state):
     if first_run:
         print(f"Baseline saved: {len(state['movies'])} movies. "
               "You'll be alerted about anything new from now on.")
+    print(f"[{now():%Y-%m-%d %H:%M}] {ok}/{len(SOURCES)} pages OK, "
+          f"{changed} changed, {len(state['movies'])} movies known")
     save_state(state)
 
 
