@@ -61,7 +61,8 @@
         "whatson": "2026-09-30T15:15:17+03:00",
         "comingsoon": "2026-09-30T15:15:17+03:00",
         "showtimes:city-centre-almaza": "2026-10-01T00:15:14+03:00",
-        "showtimes:mall-of-egypt": "2026-10-01T00:15:14+03:00"
+        "showtimes:mall-of-egypt": "2026-10-01T00:15:14+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-01T02:15:09+03:00"
       }
     },
     "el-gawahergy-arabic": {
@@ -484,9 +485,10 @@
       "changed": "2026-09-30T23:15:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "b35e190302f2ea925d06c3ca440ab0df9caf3bf4dfa93a4085dd9ad3cbc33d77",
+      "hash": "55c845d1359b22beb089f4679dd74a1d1daa76363b1dfdf54518065974459fdb",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
+        "digger",
         "el-gawahergy-arabic",
         "heart-of-the-beast",
         "mahmoud-el-tany-arabic",
@@ -496,7 +498,7 @@
         "spider-man-brand-new-day",
         "the-odyssey"
       ],
-      "changed": "2026-10-01T01:00:14+03:00"
+      "changed": "2026-10-01T02:15:09+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "bf51266b756016116295b7ed166ba59da1b4ffd0f7511f37ed11acff2fe3f347",
