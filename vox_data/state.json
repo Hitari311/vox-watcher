@@ -415,7 +415,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "846344533739beac99171967ad6671777b634d4d496e2a3138b98e782609f9f3",
+      "hash": "51279751f041a3e8f19022179fbd7d3528e79a0ff798f43b44b00955ffe39fcd",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
@@ -437,14 +437,13 @@
         "resident-evil",
         "sacrifice",
         "shish-dou-arabic",
-        "spider-island",
         "spider-man-brand-new-day",
         "tad-and-the-magic-lamp",
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-09-30T21:00:13+03:00"
+      "changed": "2026-09-30T21:30:10+03:00"
     },
     "comingsoon": {
       "hash": "95e634452b7c8348d106f6bb79c9460408020c8e17285b11e1b0698219a7fbe1",
