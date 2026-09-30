@@ -445,7 +445,7 @@
       "changed": "2026-09-30T21:45:11+03:00"
     },
     "comingsoon": {
-      "hash": "95e634452b7c8348d106f6bb79c9460408020c8e17285b11e1b0698219a7fbe1",
+      "hash": "6cd437b6855a513d882e7bd90584100ee3e278db50257ab3cdd62a59c526b3d5",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-doomsday",
@@ -454,7 +454,6 @@
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "cahim-2-turkish",
         "children-of-blood-and-bone",
-        "digger",
         "enhypen-world-tour-blood-saga",
         "gator-face",
         "godzilla-minus-zero-japanese",
@@ -472,42 +471,37 @@
         "the-influencer-project",
         "the-mongoose",
         "tomorrow-x-together-world-tour-act-tomorrow",
-        "verity",
         "violent-night-2",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-09-30T15:15:17+03:00"
+      "changed": "2026-09-30T23:00:12+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "b2d019aa1831335660a067179463deb937ecc60102ba149d8d6429ab25f6f238",
+      "hash": "5c09999d20c1f980d5e45ae9f2ff599e121cb39a5a2d60099bc23f4b7850b865",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "heart-of-the-beast",
         "mahmoud-el-tany-arabic",
         "red-flag-arabic",
         "resident-evil",
-        "shish-dou-arabic",
-        "the-odyssey"
+        "shish-dou-arabic"
       ],
-      "changed": "2026-09-30T22:15:15+03:00"
+      "changed": "2026-09-30T23:00:12+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "49a0292f0c476195b3a643e3ae975df18353bb26bd56bf669dd875ba53336d81",
+      "hash": "7e24b0b53a4f08d615e849c70c72c6f3fffeb2b8089bcfe335d0ca2c9c19da3a",
       "slugs": [
         "heart-of-the-beast",
         "mahmoud-el-tany-arabic",
         "red-flag-arabic",
-        "resident-evil",
-        "shish-dou-arabic",
-        "spider-man-brand-new-day",
-        "the-odyssey"
+        "resident-evil"
       ],
-      "changed": "2026-09-30T22:45:11+03:00"
+      "changed": "2026-09-30T23:00:12+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "ae92e906fc0be7703883595fd33987a109b9417c742ed3787f56f9c0a310c632",
+      "hash": "81dcf85536bc0ff89c7b3361bc2e55df511385627b00a4b5a87526f510c85a21",
       "slugs": [
         "crawlers",
         "heart-of-the-beast",
@@ -515,10 +509,9 @@
         "khali-balak-min-nafsik-arabic",
         "mahmoud-el-tany-arabic",
         "red-flag-arabic",
-        "resident-evil",
-        "shish-dou-arabic"
+        "resident-evil"
       ],
-      "changed": "2026-09-30T22:45:11+03:00"
+      "changed": "2026-09-30T23:00:12+03:00"
     }
   }
 }
