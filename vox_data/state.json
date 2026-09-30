@@ -501,15 +501,12 @@
       "changed": "2026-09-30T16:52:56+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "3fdc9641e0e8a3024594ccb5658faebed873883a576d772c5eee392255ee7719",
+      "hash": "8bcf7dcdced3941aca6d93d0943b04d1dda92528c45c010d3d528c7875d7f6fe",
       "slugs": [
-        "avengers-endgame-encore-infinity-vision",
         "coyote-vs-acme",
         "el-gawahergy-arabic",
         "fall-2-deadpoint",
         "heart-of-the-beast",
-        "insidious-out-of-the-further",
-        "khali-balak-min-nafsik-arabic",
         "mahmoud-el-tany-arabic",
         "pressure",
         "red-flag-arabic",
@@ -519,7 +516,7 @@
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2"
       ],
-      "changed": "2026-09-30T18:00:12+03:00"
+      "changed": "2026-09-30T19:15:11+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "1c6f82ae433d09b93506e5ecefd30d89ba6898826b6ec3f85b07a15a5c9d6fb4",
