@@ -481,10 +481,9 @@
       "changed": "2026-09-30T15:15:17+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "a9529881e60a113f36a46aeedf0ca345c8714338f43f36f6de543474930fd986",
+      "hash": "b2d019aa1831335660a067179463deb937ecc60102ba149d8d6429ab25f6f238",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
-        "el-gawahergy-arabic",
         "heart-of-the-beast",
         "mahmoud-el-tany-arabic",
         "red-flag-arabic",
@@ -492,7 +491,7 @@
         "shish-dou-arabic",
         "the-odyssey"
       ],
-      "changed": "2026-09-30T19:45:12+03:00"
+      "changed": "2026-09-30T22:15:15+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "be8e3c384ca07c24f9ded037fedc6b4ecbf9c5bd73724714070f5d19122427da",
@@ -509,9 +508,8 @@
       "changed": "2026-09-30T22:00:11+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "2c4abc16334fee0c19fd765c86c5c18ed8b8dd5b60d1333d6c0cb5c566c1e9c5",
+      "hash": "c115bf94bcc231d51f66c2a77818eb38933e0fb14617df0bd852ac010c545e24",
       "slugs": [
-        "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
         "crawlers",
         "heart-of-the-beast",
@@ -522,10 +520,9 @@
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic",
-        "spider-man-brand-new-day",
         "the-odyssey"
       ],
-      "changed": "2026-09-30T22:00:11+03:00"
+      "changed": "2026-09-30T22:15:15+03:00"
     }
   }
 }
