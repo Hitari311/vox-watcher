@@ -1,0 +1,42 @@
+name: VOX watcher
+
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"   # every 15 min, off the hour (less queue delay)
+  workflow_dispatch:                # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write                   # needed to commit the state file back
+
+concurrency:                        # never let two runs overlap
+  group: vox-watcher
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests beautifulsoup4 curl_cffi tzdata
+
+      - name: Check VOX
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python vox_watcher.py --once
+
+      - name: Save state
+        run: |
+          git config user.name "vox-watcher"
+          git config user.email "actions@github.com"
+          git add -A
+          if ! git diff --staged --quiet; then
+            git commit -m "state $(date -u +%F\ %H:%M)"
+            git pull --rebase --autostash
+            git push
+          fi
