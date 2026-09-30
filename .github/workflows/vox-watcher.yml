@@ -24,6 +24,11 @@ jobs:
 
       - run: pip install requests beautifulsoup4 curl_cffi tzdata
 
+      - name: Check VOX
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python vox_watcher.py --once
 
       - name: Save state
         run: |
