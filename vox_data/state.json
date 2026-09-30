@@ -264,13 +264,6 @@
         "comingsoon": "2026-09-30T14:57:32+03:00"
       }
     },
-    "avengers-doomsday-infinity-vision": {
-      "title": "Avengers: Doomsday (Infinity Vision)",
-      "first_seen": "2026-09-30T14:57:32+03:00",
-      "seen_in": {
-        "comingsoon": "2026-09-30T14:57:32+03:00"
-      }
-    },
     "children-of-blood-and-bone": {
       "title": "Children of Blood and Bone",
       "first_seen": "2026-09-30T14:57:32+03:00",
@@ -446,7 +439,6 @@
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-doomsday",
-        "avengers-doomsday-infinity-vision",
         "bts-world-tour-arirang-in-buenos-aires-live",
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "cahim-2-turkish",
