@@ -486,12 +486,11 @@
       "changed": "2026-09-30T15:15:17+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "e569e94c1cbf67e5e816b2c8941beb76ce2a3bb31729801743d7ee90d89b065a",
+      "hash": "b35e190302f2ea925d06c3ca440ab0df9caf3bf4dfa93a4085dd9ad3cbc33d77",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "el-gawahergy-arabic",
         "heart-of-the-beast",
-        "insidious-out-of-the-further",
         "mahmoud-el-tany-arabic",
         "red-flag-arabic",
         "resident-evil",
@@ -499,10 +498,10 @@
         "spider-man-brand-new-day",
         "the-odyssey"
       ],
-      "changed": "2026-09-30T15:15:17+03:00"
+      "changed": "2026-09-30T16:52:56+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "02fed3842e796992bc92b3e7de54588c381c1faeb13157f77985d4ac1853587a",
+      "hash": "55a304f29d391014939b9fc4f8bdaea118931e76474269ec24777359da5b50ac",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "coyote-vs-acme",
@@ -512,7 +511,6 @@
         "insidious-out-of-the-further",
         "khali-balak-min-nafsik-arabic",
         "mahmoud-el-tany-arabic",
-        "paw-patrol-the-dino-movie",
         "practical-magic-2",
         "pressure",
         "red-flag-arabic",
@@ -522,7 +520,7 @@
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2"
       ],
-      "changed": "2026-09-30T15:19:07+03:00"
+      "changed": "2026-09-30T16:52:56+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "6326d245cee272094e29aa64d1e62096abea02049041b041c86aaacc2478a9f5",
