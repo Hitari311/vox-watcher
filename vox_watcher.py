@@ -55,8 +55,8 @@ SOURCES = {
 }
 
 # --- Telegram alerts (env vars override these if set) ---
-TELEGRAM_BOT_TOKEN = "8932607578:AAE_HP9LInOBgwHv_oXdugCK4GtJ93kvr90"
-TELEGRAM_CHAT_ID = "8000836290"
+TELEGRAM_BOT_TOKEN = ""      # left empty on purpose: set as GitHub Actions secrets
+TELEGRAM_CHAT_ID = ""        # (env vars of the same names are used instead)
 
 INTERVAL_MIN = 15            # minutes between checks (keep it polite)
 JITTER_SEC = 90              # random extra wait so requests aren't perfectly periodic
