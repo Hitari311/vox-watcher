@@ -40,3 +40,4 @@ jobs:
             git pull --rebase --autostash
             git push
           fi
+
