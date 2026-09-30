@@ -475,32 +475,27 @@
       "changed": "2026-09-30T23:15:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "7e24b0b53a4f08d615e849c70c72c6f3fffeb2b8089bcfe335d0ca2c9c19da3a",
+      "hash": "f66d50c34280bfc461d3924496a59ed07399031b8eaab755a2e2415a0507d529",
       "slugs": [
-        "heart-of-the-beast",
         "mahmoud-el-tany-arabic",
         "red-flag-arabic",
         "resident-evil"
       ],
-      "changed": "2026-09-30T23:45:12+03:00"
+      "changed": "2026-10-01T00:00:11+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "007e7186fcaffd68bbea196f5f87c7e5eb60d113b4c11a69a88abf30cc1ab7cc",
+      "hash": "1e15acce5dee28e640998f544ab4cab9089d57cd8f83dcce0134bb373bb0c32e",
       "slugs": [
-        "red-flag-arabic",
         "resident-evil"
       ],
-      "changed": "2026-09-30T23:45:12+03:00"
+      "changed": "2026-10-01T00:00:11+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "8e64d4f4143d2950f20ca923eb3936846a5a410bfae195a6b8bb9c7b82b23588",
+      "hash": "0c109d842b690e15c0e172e4fc6f4ddf187285e6ea0ce76f4a5acaffc8560d2c",
       "slugs": [
-        "crawlers",
-        "insidious-out-of-the-further",
-        "mahmoud-el-tany-arabic",
-        "resident-evil"
+        "crawlers"
       ],
-      "changed": "2026-09-30T23:45:12+03:00"
+      "changed": "2026-10-01T00:00:11+03:00"
     }
   }
 }
