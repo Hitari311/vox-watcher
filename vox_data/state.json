@@ -502,15 +502,13 @@
       "changed": "2026-10-01T12:20:13+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "2f45b9b89d50621990568c50f7900909040fc01fcbddd0b05f6447364581892e",
+      "hash": "9ab908978e57f538d781ec8269a2711cde60bc2f501b273001ad8f6583c9dde1",
       "slugs": [
         "heart-of-the-beast",
         "mahmoud-el-tany-arabic",
-        "red-flag-arabic",
-        "spider-man-brand-new-day",
         "verity"
       ],
-      "changed": "2026-10-01T23:35:13+03:00"
+      "changed": "2026-10-01T23:51:21+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "a364018776b56e393e50c30cdd009415a763e0b5bb29d4d24a36ef7fb79b0d86",
