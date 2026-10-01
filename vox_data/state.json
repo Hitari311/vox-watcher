@@ -502,13 +502,12 @@
       "changed": "2026-10-01T12:20:13+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "9ab908978e57f538d781ec8269a2711cde60bc2f501b273001ad8f6583c9dde1",
+      "hash": "523c814a07f85f8ee98e3c8c2e181f6258655f99a2539495614dd9af6751aca5",
       "slugs": [
         "heart-of-the-beast",
-        "mahmoud-el-tany-arabic",
-        "verity"
+        "mahmoud-el-tany-arabic"
       ],
-      "changed": "2026-10-01T23:51:21+03:00"
+      "changed": "2026-10-02T00:00:10+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "a364018776b56e393e50c30cdd009415a763e0b5bb29d4d24a36ef7fb79b0d86",
