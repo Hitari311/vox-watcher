@@ -429,6 +429,13 @@
       "seen_in": {
         "comingsoon": "2026-10-01T12:15:10+03:00"
       }
+    },
+    "the-florist": {
+      "title": "The Florist",
+      "first_seen": "2026-10-01T12:20:13+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-01T12:20:13+03:00"
+      }
     }
   },
   "sources": {
@@ -462,7 +469,7 @@
       "changed": "2026-09-30T23:30:14+03:00"
     },
     "comingsoon": {
-      "hash": "4928b543cf33f037c1e4d77ca87b3536cec7cd74ba6d89cff056608f0604345d",
+      "hash": "b032bac578fc5c3118117226368b614750e1264efd7248c4f0fe04fb42a1d4f8",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-doomsday",
@@ -482,6 +489,7 @@
         "street-fighter",
         "the-cat-in-the-hat",
         "the-dino-family",
+        "the-florist",
         "the-hunger-games-sunrise-on-the-reaping",
         "the-influencer-project",
         "the-mongoose",
@@ -491,7 +499,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-01T12:15:10+03:00"
+      "changed": "2026-10-01T12:20:13+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "c527200f42a025ea1b8f75f52ee2fdd94043d18542cd5e7fba734109073e281a",
