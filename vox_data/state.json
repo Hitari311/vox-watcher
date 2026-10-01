@@ -523,15 +523,13 @@
       "changed": "2026-10-01T23:45:12+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "968f169fc4fc2ee9547abbbacd7ac120f5d7bc89ca6fb8532d477ad96cb2ab3d",
+      "hash": "22154fbf3b701c0a606daaf6eef2ea11ba0b2f3249b1aeb0cc255146febdcf4d",
       "slugs": [
         "cahim-2-turkish",
-        "heart-of-the-beast",
         "red-flag-arabic",
-        "resident-evil",
-        "shish-dou-arabic"
+        "resident-evil"
       ],
-      "changed": "2026-10-01T23:45:12+03:00"
+      "changed": "2026-10-01T23:55:09+03:00"
     }
   }
 }
