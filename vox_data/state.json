@@ -502,24 +502,18 @@
       "changed": "2026-10-01T12:20:13+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "523c814a07f85f8ee98e3c8c2e181f6258655f99a2539495614dd9af6751aca5",
+      "hash": "9864dbe5ac339803c2fc350aa77e4b23a8ad61c3bff604eb0d6eae796c55d179",
       "slugs": [
-        "heart-of-the-beast",
-        "mahmoud-el-tany-arabic"
+        "heart-of-the-beast"
       ],
-      "changed": "2026-10-02T00:00:10+03:00"
+      "changed": "2026-10-02T00:25:09+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "a364018776b56e393e50c30cdd009415a763e0b5bb29d4d24a36ef7fb79b0d86",
+      "hash": "1e15acce5dee28e640998f544ab4cab9089d57cd8f83dcce0134bb373bb0c32e",
       "slugs": [
-        "heart-of-the-beast",
-        "insidious-out-of-the-further",
-        "mahmoud-el-tany-arabic",
-        "red-flag-arabic",
-        "resident-evil",
-        "shish-dou-arabic"
+        "resident-evil"
       ],
-      "changed": "2026-10-01T23:45:12+03:00"
+      "changed": "2026-10-02T00:25:09+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "d88dcca7e1ce4ef3ef4cf9a7031eaa667c285a8ec52f7c243f840ac483a88758",
