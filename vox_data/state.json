@@ -258,7 +258,8 @@
         "whatson": "2026-09-30T15:15:17+03:00",
         "comingsoon": "2026-09-30T15:15:17+03:00",
         "showtimes:city-centre-almaza": "2026-10-01T00:15:14+03:00",
-        "showtimes:mall-of-egypt": "2026-10-01T00:15:14+03:00"
+        "showtimes:mall-of-egypt": "2026-10-01T00:15:14+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-01T10:00:12+03:00"
       }
     },
     "always-lalisa-english-korean-thai": {
@@ -485,7 +486,7 @@
       "changed": "2026-09-30T23:15:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "55c845d1359b22beb089f4679dd74a1d1daa76363b1dfdf54518065974459fdb",
+      "hash": "c527200f42a025ea1b8f75f52ee2fdd94043d18542cd5e7fba734109073e281a",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "digger",
@@ -496,9 +497,10 @@
         "resident-evil",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
-        "the-odyssey"
+        "the-odyssey",
+        "verity"
       ],
-      "changed": "2026-10-01T02:15:09+03:00"
+      "changed": "2026-10-01T10:00:12+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "bf51266b756016116295b7ed166ba59da1b4ffd0f7511f37ed11acff2fe3f347",
