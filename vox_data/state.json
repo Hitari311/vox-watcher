@@ -422,6 +422,13 @@
       "seen_in": {
         "whatson": "2026-09-30T15:19:07+03:00"
       }
+    },
+    "street-fighter": {
+      "title": "Street Fighter",
+      "first_seen": "2026-10-01T12:15:10+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-01T12:15:10+03:00"
+      }
     }
   },
   "sources": {
@@ -455,7 +462,7 @@
       "changed": "2026-09-30T23:30:14+03:00"
     },
     "comingsoon": {
-      "hash": "ecbbd6e514595b6a1e3f626e497f5b573fe5e9532d6e419d8120d3eab110667b",
+      "hash": "4928b543cf33f037c1e4d77ca87b3536cec7cd74ba6d89cff056608f0604345d",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-doomsday",
@@ -472,6 +479,7 @@
         "other-mommy",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
+        "street-fighter",
         "the-cat-in-the-hat",
         "the-dino-family",
         "the-hunger-games-sunrise-on-the-reaping",
@@ -483,7 +491,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-09-30T23:15:11+03:00"
+      "changed": "2026-10-01T12:15:10+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "c527200f42a025ea1b8f75f52ee2fdd94043d18542cd5e7fba734109073e281a",
