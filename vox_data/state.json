@@ -502,7 +502,7 @@
       "changed": "2026-10-01T12:20:13+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "624845b3ef070299968461e0ee228172c463e3a6977b03dbf8687df78a3a5494",
+      "hash": "2ed8f8d7f4d9c63da0332a3cd7f3e6c3ae1e17f3e3050cb28e907235d349e362",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "digger",
@@ -512,10 +512,9 @@
         "resident-evil",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
-        "the-odyssey",
         "verity"
       ],
-      "changed": "2026-10-01T16:45:13+03:00"
+      "changed": "2026-10-01T19:35:13+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "1c4ed063a928a10c962f1c1074ac0b0aee69a102e6a8d4887c5b048e7c29b74a",
@@ -536,7 +535,7 @@
       "changed": "2026-10-01T19:20:12+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "6a929bc67134c24b45354bf14a9da2120ce1d1fb155ac5d78bcb74e92bb87491",
+      "hash": "a03b1b6b4a0c2b581f8e38d1b407327c155624c2d4d05484faa278fd5512c7f5",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "cahim-2-turkish",
@@ -552,11 +551,12 @@
         "sacrifice",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
+        "tad-and-the-magic-lamp",
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-01T19:30:11+03:00"
+      "changed": "2026-10-01T19:35:13+03:00"
     }
   }
 }
