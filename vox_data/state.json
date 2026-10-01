@@ -502,7 +502,7 @@
       "changed": "2026-10-01T12:20:13+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "2ed8f8d7f4d9c63da0332a3cd7f3e6c3ae1e17f3e3050cb28e907235d349e362",
+      "hash": "f04df346c4ed27bda87d9dbe389ee982f4bc6a32716b02e5427706eeb27f411e",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "digger",
@@ -510,11 +510,10 @@
         "mahmoud-el-tany-arabic",
         "red-flag-arabic",
         "resident-evil",
-        "shish-dou-arabic",
         "spider-man-brand-new-day",
         "verity"
       ],
-      "changed": "2026-10-01T19:35:13+03:00"
+      "changed": "2026-10-01T21:45:10+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "e735ee761ba96477ce3ebf712c3de2eb13c740ad9d5bd9f1a3daec35b4c196bb",
