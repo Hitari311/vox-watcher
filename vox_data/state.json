@@ -522,17 +522,15 @@
       "changed": "2026-10-02T23:20:10+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "f0366a85dbdb856a4617c85888f1a7a0ce65e69ceb6546e95d960ca1dcdae272",
+      "hash": "6230174c2fd3f8067e329ef55e057553332fcb10459f2653486bbd2fb710f0af",
       "slugs": [
-        "digger",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
         "mahmoud-el-tany-arabic",
         "red-flag-arabic",
-        "resident-evil",
-        "verity"
+        "resident-evil"
       ],
-      "changed": "2026-10-02T23:20:10+03:00"
+      "changed": "2026-10-02T23:35:10+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "53f6bc9b7f8343f9bb29071c1b71534efe5f2a3f77f013fe9639900806b03549",
