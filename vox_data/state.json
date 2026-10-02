@@ -545,7 +545,7 @@
       "changed": "2026-10-02T17:05:18+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "daaa400a94e4caf03754cdfe990759d861510f3077a3bd0e21dabcab97b28252",
+      "hash": "148780cca77b8590ef5cbfcd367a0e434055aab92b32e144e55d52300a64104a",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "cahim-2-turkish",
@@ -561,12 +561,11 @@
         "resident-evil",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
-        "tad-and-the-magic-lamp",
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-02T19:20:10+03:00"
+      "changed": "2026-10-02T19:35:15+03:00"
     }
   }
 }
