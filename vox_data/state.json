@@ -436,6 +436,13 @@
       "seen_in": {
         "comingsoon": "2026-10-01T12:20:13+03:00"
       }
+    },
+    "day-drinker": {
+      "title": "Day Drinker",
+      "first_seen": "2026-10-02T10:05:11+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-02T10:05:11+03:00"
+      }
     }
   },
   "sources": {
@@ -469,7 +476,7 @@
       "changed": "2026-09-30T23:30:14+03:00"
     },
     "comingsoon": {
-      "hash": "b032bac578fc5c3118117226368b614750e1264efd7248c4f0fe04fb42a1d4f8",
+      "hash": "e0a6e593e113dff69b6d891f08f4bc677003650190cdb0008a6c610a33a7307c",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-doomsday",
@@ -477,6 +484,7 @@
         "bts-world-tour-arirang-in-buenos-aires-live",
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "children-of-blood-and-bone",
+        "day-drinker",
         "enhypen-world-tour-blood-saga",
         "godzilla-minus-zero-japanese",
         "hexed",
@@ -499,7 +507,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-01T12:20:13+03:00"
+      "changed": "2026-10-02T10:05:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "c527200f42a025ea1b8f75f52ee2fdd94043d18542cd5e7fba734109073e281a",
