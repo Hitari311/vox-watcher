@@ -530,13 +530,11 @@
       "changed": "2026-10-02T23:35:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "33cec50794f2864984317753794261f98fbbc0820393a8d71f63eb3bdfaa44c5",
+      "hash": "64bf03c54aa8cabd3aacd06710f38c5cc1ea91680a1a93521d10a69ab43e5c01",
       "slugs": [
-        "gator-face",
-        "red-flag-arabic",
-        "resident-evil"
+        "red-flag-arabic"
       ],
-      "changed": "2026-10-02T23:45:13+03:00"
+      "changed": "2026-10-03T00:05:09+03:00"
     }
   }
 }
