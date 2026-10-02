@@ -510,12 +510,11 @@
       "changed": "2026-10-02T10:05:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "624845b3ef070299968461e0ee228172c463e3a6977b03dbf8687df78a3a5494",
+      "hash": "b1890138c3d6c6b93eb727343852a124a4e14aeb96b1c7fd780b421ffad28723",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "digger",
         "heart-of-the-beast",
-        "mahmoud-el-tany-arabic",
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic",
@@ -523,7 +522,7 @@
         "the-odyssey",
         "verity"
       ],
-      "changed": "2026-10-02T16:50:11+03:00"
+      "changed": "2026-10-02T19:05:11+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "22dd88538ca2efd3a2eb2dcd0b02ec3695c6216bfc0396e5c3cd6da802cf4bf6",
