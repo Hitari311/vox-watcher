@@ -535,18 +535,17 @@
       "changed": "2026-10-02T23:20:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "564d3f9c16fad36094ab5cbc9dc22c05ece020f5ac2c120e414a814b6e9d6b1d",
+      "hash": "53f6bc9b7f8343f9bb29071c1b71534efe5f2a3f77f013fe9639900806b03549",
       "slugs": [
         "digger",
         "gator-face",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
-        "mahmoud-el-tany-arabic",
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic"
       ],
-      "changed": "2026-10-02T23:10:12+03:00"
+      "changed": "2026-10-02T23:30:13+03:00"
     }
   }
 }
