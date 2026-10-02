@@ -539,7 +539,7 @@
       "changed": "2026-10-02T22:50:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "f29024fff018f6d70223d16d4d99fdd8af4a3bb7784aa45d7814d98d258e8c93",
+      "hash": "42ef0042a7fadcb96daedb519fed11f389e3dc9ce80798170ce3101439381a38",
       "slugs": [
         "digger",
         "gator-face",
@@ -549,10 +549,9 @@
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic",
-        "spider-man-brand-new-day",
         "verity"
       ],
-      "changed": "2026-10-02T22:35:12+03:00"
+      "changed": "2026-10-02T22:54:19+03:00"
     }
   }
 }
