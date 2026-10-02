@@ -510,12 +510,11 @@
       "changed": "2026-10-02T10:05:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "4040de8c6f541eba0ed772efd9657b8566a91d5eb58724152c49b26bbf184b36",
+      "hash": "9864dbe5ac339803c2fc350aa77e4b23a8ad61c3bff604eb0d6eae796c55d179",
       "slugs": [
-        "heart-of-the-beast",
-        "shish-dou-arabic"
+        "heart-of-the-beast"
       ],
-      "changed": "2026-10-03T00:10:20+03:00"
+      "changed": "2026-10-03T00:25:13+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "1f3ea98fd4345091382de046a0008b0b6b141d2be4240440799bf6dc503ef22a",
