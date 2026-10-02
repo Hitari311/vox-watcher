@@ -542,10 +542,9 @@
       "changed": "2026-10-02T20:55:11+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "93dcf755f454cc3cd44299304182e7b3e602f5594d8c9f78b7ed24f32867fa6a",
+      "hash": "37faccdf4dddd66c752b6dca96e475cf6059cfd3ef9520f574f237356943ba51",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
-        "cahim-2-turkish",
         "coyote-vs-acme",
         "digger",
         "el-gawahergy-arabic",
@@ -561,7 +560,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-02T20:05:13+03:00"
+      "changed": "2026-10-02T21:50:12+03:00"
     }
   }
 }
