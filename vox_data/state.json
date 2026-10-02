@@ -541,10 +541,9 @@
       "changed": "2026-10-02T20:55:11+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "66b03361a00d1a179e1ab8ddb7f83263b11f0b103a414ced9c5aa5fc00e584ad",
+      "hash": "f29024fff018f6d70223d16d4d99fdd8af4a3bb7784aa45d7814d98d258e8c93",
       "slugs": [
         "digger",
-        "el-gawahergy-arabic",
         "gator-face",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
@@ -553,10 +552,9 @@
         "resident-evil",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
-        "the-odyssey",
         "verity"
       ],
-      "changed": "2026-10-02T22:20:15+03:00"
+      "changed": "2026-10-02T22:35:12+03:00"
     }
   }
 }
