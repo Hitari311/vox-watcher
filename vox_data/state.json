@@ -510,16 +510,15 @@
       "changed": "2026-10-02T10:05:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "b861651d9386d483c1f845f44757bb1f4d805135232d4e355b8d822d6f17e286",
+      "hash": "c4e464627927165c3f5edf01598b88831d0a1746b1907596d01f411615b59624",
       "slugs": [
-        "digger",
         "heart-of-the-beast",
         "red-flag-arabic",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
         "verity"
       ],
-      "changed": "2026-10-02T23:20:10+03:00"
+      "changed": "2026-10-02T23:40:11+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "6230174c2fd3f8067e329ef55e057553332fcb10459f2653486bbd2fb710f0af",
@@ -533,17 +532,15 @@
       "changed": "2026-10-02T23:35:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "53f6bc9b7f8343f9bb29071c1b71534efe5f2a3f77f013fe9639900806b03549",
+      "hash": "92656d253cd91a73c8675505a84d83757fa3fd9a678d7abe97b704c93d124fb8",
       "slugs": [
-        "digger",
         "gator-face",
         "heart-of-the-beast",
-        "insidious-out-of-the-further",
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic"
       ],
-      "changed": "2026-10-02T23:30:13+03:00"
+      "changed": "2026-10-02T23:40:11+03:00"
     }
   }
 }
