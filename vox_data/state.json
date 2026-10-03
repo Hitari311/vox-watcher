@@ -525,9 +525,8 @@
       "changed": "2026-10-03T19:00:14+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "c64c8a1d81c90ea72cc422563fa42d8e5c25e4c1dfdd3ad3bef3b0f3ee4402ac",
+      "hash": "a5b1c729984cc8faa219b5c9630aff83148d19d8562e97755ad22c0be19be2d0",
       "slugs": [
-        "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
         "digger",
         "heart-of-the-beast",
@@ -542,7 +541,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-03T17:10:09+03:00"
+      "changed": "2026-10-03T19:05:13+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "3caf0bd61d3264ac860d16451bd0ed03edae5e66e0b979dbd6269ba97a0d47b7",
