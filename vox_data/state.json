@@ -535,7 +535,7 @@
       "changed": "2026-10-03T22:30:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "d0c8c1fc057e5c67de79bb88c3703dd0a02716d60773f7ee45133b94f4ca86a8",
+      "hash": "a96ee1166098085c02e22098e18e3aa037a9d728e0f17eb9e9131621655464d0",
       "slugs": [
         "cahim-2-turkish",
         "digger",
@@ -547,10 +547,9 @@
         "resident-evil",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
-        "the-odyssey",
         "verity"
       ],
-      "changed": "2026-10-03T22:25:11+03:00"
+      "changed": "2026-10-03T22:45:10+03:00"
     }
   }
 }
