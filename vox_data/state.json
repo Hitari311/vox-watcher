@@ -520,9 +520,8 @@
       "changed": "2026-10-03T22:50:10+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "e99c2453ccf14550ef505c7e865266109bf4ba6d60e17aebb0c55d9ab24bf0dd",
+      "hash": "daa9f50da8413a636154cfb430349e6966c2da2b8818da9c01c7032a5a53ecc9",
       "slugs": [
-        "avengers-endgame-encore-infinity-vision",
         "digger",
         "heart-of-the-beast",
         "red-flag-arabic",
@@ -531,7 +530,7 @@
         "the-odyssey",
         "verity"
       ],
-      "changed": "2026-10-03T22:30:10+03:00"
+      "changed": "2026-10-03T23:00:12+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "f435d7cd5a0411767839dfa0919e4b839057a439cdb2eba891246c95480590f9",
