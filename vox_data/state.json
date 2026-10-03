@@ -519,17 +519,15 @@
       "changed": "2026-10-03T23:05:10+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "daa9f50da8413a636154cfb430349e6966c2da2b8818da9c01c7032a5a53ecc9",
+      "hash": "5d99320effc3d1d51a239669c67f9c73826b6942d488bb91d3db2d183effb5f2",
       "slugs": [
         "digger",
         "heart-of-the-beast",
         "red-flag-arabic",
         "shish-dou-arabic",
-        "spider-man-brand-new-day",
-        "the-odyssey",
         "verity"
       ],
-      "changed": "2026-10-03T23:00:12+03:00"
+      "changed": "2026-10-03T23:10:11+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "06d16848d03738956c29492e37cecbee54b5164fa83dc1cf5966eb96f4f436c3",
