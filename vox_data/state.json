@@ -510,14 +510,13 @@
       "changed": "2026-10-02T10:05:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "a3e05700c550536f865f8284d6fd174eaddc9cd732f932d5018761a306c7af68",
+      "hash": "9ab908978e57f538d781ec8269a2711cde60bc2f501b273001ad8f6583c9dde1",
       "slugs": [
         "heart-of-the-beast",
         "mahmoud-el-tany-arabic",
-        "spider-man-brand-new-day",
         "verity"
       ],
-      "changed": "2026-10-03T22:50:10+03:00"
+      "changed": "2026-10-03T23:05:10+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "daa9f50da8413a636154cfb430349e6966c2da2b8818da9c01c7032a5a53ecc9",
@@ -533,7 +532,7 @@
       "changed": "2026-10-03T23:00:12+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "f435d7cd5a0411767839dfa0919e4b839057a439cdb2eba891246c95480590f9",
+      "hash": "06d16848d03738956c29492e37cecbee54b5164fa83dc1cf5966eb96f4f436c3",
       "slugs": [
         "cahim-2-turkish",
         "digger",
@@ -542,10 +541,9 @@
         "mahmoud-el-tany-arabic",
         "red-flag-arabic",
         "resident-evil",
-        "shish-dou-arabic",
-        "verity"
+        "shish-dou-arabic"
       ],
-      "changed": "2026-10-03T22:50:10+03:00"
+      "changed": "2026-10-03T23:05:10+03:00"
     }
   }
 }
