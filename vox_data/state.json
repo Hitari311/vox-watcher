@@ -510,9 +510,8 @@
       "changed": "2026-10-02T10:05:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "a9123e8a33a811da00f5f862e3171a09cfc2e12da3d5619b93cd3cf0d10b10f1",
+      "hash": "68308128ca22ebdff3c3b6659d078b7ce264d85dc568f46081d488c8a18a3cb8",
       "slugs": [
-        "avengers-endgame-encore-infinity-vision",
         "digger",
         "heart-of-the-beast",
         "mahmoud-el-tany-arabic",
@@ -520,7 +519,7 @@
         "spider-man-brand-new-day",
         "verity"
       ],
-      "changed": "2026-10-03T21:40:09+03:00"
+      "changed": "2026-10-03T22:20:11+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "b1890138c3d6c6b93eb727343852a124a4e14aeb96b1c7fd780b421ffad28723",
