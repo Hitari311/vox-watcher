@@ -510,13 +510,11 @@
       "changed": "2026-10-02T10:05:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "9ab908978e57f538d781ec8269a2711cde60bc2f501b273001ad8f6583c9dde1",
+      "hash": "9864dbe5ac339803c2fc350aa77e4b23a8ad61c3bff604eb0d6eae796c55d179",
       "slugs": [
-        "heart-of-the-beast",
-        "mahmoud-el-tany-arabic",
-        "verity"
+        "heart-of-the-beast"
       ],
-      "changed": "2026-10-03T23:05:10+03:00"
+      "changed": "2026-10-03T23:30:09+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "5d99320effc3d1d51a239669c67f9c73826b6942d488bb91d3db2d183effb5f2",
@@ -530,17 +528,15 @@
       "changed": "2026-10-03T23:10:11+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "ab1df94934f9dfe8476c785ed6b785242c0bcdd4839da8112084da5d74d67479",
+      "hash": "968f169fc4fc2ee9547abbbacd7ac120f5d7bc89ca6fb8532d477ad96cb2ab3d",
       "slugs": [
         "cahim-2-turkish",
-        "digger",
         "heart-of-the-beast",
-        "insidious-out-of-the-further",
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic"
       ],
-      "changed": "2026-10-03T23:25:10+03:00"
+      "changed": "2026-10-03T23:30:09+03:00"
     }
   }
 }
