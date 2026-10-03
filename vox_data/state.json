@@ -517,13 +517,12 @@
       "changed": "2026-10-03T23:30:09+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "8c7d4aefe2fd68bfec20982c7eebd32a908812c71cc9eebe762d5d156c038c4c",
+      "hash": "44424dd97812b1945a649834b10b1ecbdaa5eecf9ec742c45fc0c0719de93214",
       "slugs": [
         "heart-of-the-beast",
-        "red-flag-arabic",
-        "shish-dou-arabic"
+        "red-flag-arabic"
       ],
-      "changed": "2026-10-03T23:40:09+03:00"
+      "changed": "2026-10-03T23:55:17+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "22154fbf3b701c0a606daaf6eef2ea11ba0b2f3249b1aeb0cc255146febdcf4d",
