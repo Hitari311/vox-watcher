@@ -510,9 +510,8 @@
       "changed": "2026-10-02T10:05:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "9bda99fd82bddd5b0dba5710c6f7f14ac593f11cfd9a9b4c606432d5b4e0ab97",
+      "hash": "5436ca608476ba2ed05c8554d11989ff519a3ce9a4f013f67af568b0e4cfa3e7",
       "slugs": [
-        "avengers-endgame-encore-infinity-vision",
         "digger",
         "el-gawahergy-arabic",
         "red-flag-arabic",
@@ -520,7 +519,7 @@
         "shish-dou-arabic",
         "verity"
       ],
-      "changed": "2026-10-04T21:25:09+03:00"
+      "changed": "2026-10-04T22:10:11+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "4c85f724b957da75e41837880c274c1e5778ba2a6400132e7dbb282b3f36fd29",
@@ -541,10 +540,8 @@
       "changed": "2026-10-04T21:00:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "37faccdf4dddd66c752b6dca96e475cf6059cfd3ef9520f574f237356943ba51",
+      "hash": "b52a429006273e23d72d2e142fee0b9c4ee2a742ab0eeec0de68b8d33d0f91b5",
       "slugs": [
-        "avengers-endgame-encore-infinity-vision",
-        "coyote-vs-acme",
         "digger",
         "el-gawahergy-arabic",
         "gator-face",
@@ -559,7 +556,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-04T21:55:10+03:00"
+      "changed": "2026-10-04T22:10:11+03:00"
     }
   }
 }
