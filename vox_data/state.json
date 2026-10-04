@@ -526,7 +526,7 @@
       "changed": "2026-10-04T16:10:11+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "22dd88538ca2efd3a2eb2dcd0b02ec3695c6216bfc0396e5c3cd6da802cf4bf6",
+      "hash": "bf51266b756016116295b7ed166ba59da1b4ffd0f7511f37ed11acff2fe3f347",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
@@ -537,13 +537,14 @@
         "mahmoud-el-tany-arabic",
         "red-flag-arabic",
         "resident-evil",
+        "sacrifice",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-04T17:15:10+03:00"
+      "changed": "2026-10-04T17:25:09+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "3caf0bd61d3264ac860d16451bd0ed03edae5e66e0b979dbd6269ba97a0d47b7",
