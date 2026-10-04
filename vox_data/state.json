@@ -518,7 +518,7 @@
       "changed": "2026-10-04T23:25:10+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "00123e13d92f5f16cb06795d60b8be3d8033ae09fd3a68750252599fdf114e18",
+      "hash": "f0366a85dbdb856a4617c85888f1a7a0ce65e69ceb6546e95d960ca1dcdae272",
       "slugs": [
         "digger",
         "heart-of-the-beast",
@@ -526,10 +526,9 @@
         "mahmoud-el-tany-arabic",
         "red-flag-arabic",
         "resident-evil",
-        "shish-dou-arabic",
         "verity"
       ],
-      "changed": "2026-10-04T23:05:11+03:00"
+      "changed": "2026-10-04T23:30:10+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "53f6bc9b7f8343f9bb29071c1b71534efe5f2a3f77f013fe9639900806b03549",
