@@ -510,17 +510,16 @@
       "changed": "2026-10-02T10:05:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "f026550b9828b4b4bb7c19326a757d211008124058004041ad3bd70c2dcdc89f",
+      "hash": "4288c4b39098c73cedaea0a6da117b1f618655c6a656fb1554ab24b007a91fa8",
       "slugs": [
-        "el-gawahergy-arabic",
         "resident-evil",
         "shish-dou-arabic",
         "verity"
       ],
-      "changed": "2026-10-04T22:55:10+03:00"
+      "changed": "2026-10-04T23:05:11+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "23a8cd2c6917350570ab80f33ec7e01dc6907e140e413b5d150d4c7cdcd9f90b",
+      "hash": "00123e13d92f5f16cb06795d60b8be3d8033ae09fd3a68750252599fdf114e18",
       "slugs": [
         "digger",
         "heart-of-the-beast",
@@ -529,14 +528,12 @@
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic",
-        "spider-man-brand-new-day",
-        "the-odyssey",
         "verity"
       ],
-      "changed": "2026-10-04T22:55:10+03:00"
+      "changed": "2026-10-04T23:05:11+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "42ef0042a7fadcb96daedb519fed11f389e3dc9ce80798170ce3101439381a38",
+      "hash": "564d3f9c16fad36094ab5cbc9dc22c05ece020f5ac2c120e414a814b6e9d6b1d",
       "slugs": [
         "digger",
         "gator-face",
@@ -545,10 +542,9 @@
         "mahmoud-el-tany-arabic",
         "red-flag-arabic",
         "resident-evil",
-        "shish-dou-arabic",
-        "verity"
+        "shish-dou-arabic"
       ],
-      "changed": "2026-10-04T22:55:10+03:00"
+      "changed": "2026-10-04T23:05:11+03:00"
     }
   }
 }
