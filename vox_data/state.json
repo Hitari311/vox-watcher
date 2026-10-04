@@ -525,11 +525,10 @@
       "changed": "2026-10-04T19:15:15+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "22dd88538ca2efd3a2eb2dcd0b02ec3695c6216bfc0396e5c3cd6da802cf4bf6",
+      "hash": "3832e4e51d63643f96fe3c1ad6fa1bbf8155ecf327a62890bcfeec8ae0443386",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
-        "cahim-2-turkish",
         "digger",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
@@ -542,7 +541,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-04T19:40:09+03:00"
+      "changed": "2026-10-04T19:45:10+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "148780cca77b8590ef5cbfcd367a0e434055aab92b32e144e55d52300a64104a",
