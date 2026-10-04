@@ -510,21 +510,18 @@
       "changed": "2026-10-02T10:05:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "9fd1da8be1fef9a21798c8259d74d9c007e3c1410d63207f4c5530829f45e490",
+      "hash": "f026550b9828b4b4bb7c19326a757d211008124058004041ad3bd70c2dcdc89f",
       "slugs": [
-        "digger",
         "el-gawahergy-arabic",
         "resident-evil",
         "shish-dou-arabic",
         "verity"
       ],
-      "changed": "2026-10-04T22:35:10+03:00"
+      "changed": "2026-10-04T22:55:10+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "4c85f724b957da75e41837880c274c1e5778ba2a6400132e7dbb282b3f36fd29",
+      "hash": "23a8cd2c6917350570ab80f33ec7e01dc6907e140e413b5d150d4c7cdcd9f90b",
       "slugs": [
-        "avengers-endgame-encore",
-        "avengers-endgame-encore-infinity-vision",
         "digger",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
@@ -536,10 +533,10 @@
         "the-odyssey",
         "verity"
       ],
-      "changed": "2026-10-04T21:00:10+03:00"
+      "changed": "2026-10-04T22:55:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "f29024fff018f6d70223d16d4d99fdd8af4a3bb7784aa45d7814d98d258e8c93",
+      "hash": "42ef0042a7fadcb96daedb519fed11f389e3dc9ce80798170ce3101439381a38",
       "slugs": [
         "digger",
         "gator-face",
@@ -549,10 +546,9 @@
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic",
-        "spider-man-brand-new-day",
         "verity"
       ],
-      "changed": "2026-10-04T22:45:12+03:00"
+      "changed": "2026-10-04T22:55:10+03:00"
     }
   }
 }
