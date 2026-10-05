@@ -559,14 +559,13 @@
       "changed": "2026-10-05T19:05:14+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "3caf0bd61d3264ac860d16451bd0ed03edae5e66e0b979dbd6269ba97a0d47b7",
+      "hash": "a03b1b6b4a0c2b581f8e38d1b407327c155624c2d4d05484faa278fd5512c7f5",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "cahim-2-turkish",
         "coyote-vs-acme",
         "digger",
         "el-gawahergy-arabic",
-        "gator-face",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
         "khali-balak-min-nafsik-arabic",
@@ -581,7 +580,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-05T15:20:11+03:00"
+      "changed": "2026-10-05T19:20:12+03:00"
     }
   }
 }
