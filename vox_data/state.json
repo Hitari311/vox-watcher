@@ -553,7 +553,7 @@
       "changed": "2026-10-05T21:50:15+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "5a69f8778b33a7376c1ce20fc490a75159a862e5c05797454432c0009c82ef1e",
+      "hash": "d0c8c1fc057e5c67de79bb88c3703dd0a02716d60773f7ee45133b94f4ca86a8",
       "slugs": [
         "cahim-2-turkish",
         "digger",
@@ -566,10 +566,9 @@
         "shish-dou-arabic",
         "spider-man-brand-new-day",
         "the-odyssey",
-        "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-05T22:00:16+03:00"
+      "changed": "2026-10-05T22:15:43+03:00"
     }
   }
 }
