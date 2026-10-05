@@ -525,9 +525,8 @@
       "changed": "2026-10-05T18:05:12+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "a9123e8a33a811da00f5f862e3171a09cfc2e12da3d5619b93cd3cf0d10b10f1",
+      "hash": "68308128ca22ebdff3c3b6659d078b7ce264d85dc568f46081d488c8a18a3cb8",
       "slugs": [
-        "avengers-endgame-encore-infinity-vision",
         "digger",
         "heart-of-the-beast",
         "mahmoud-el-tany-arabic",
@@ -535,7 +534,7 @@
         "spider-man-brand-new-day",
         "verity"
       ],
-      "changed": "2026-10-05T21:40:14+03:00"
+      "changed": "2026-10-05T22:00:16+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "624845b3ef070299968461e0ee228172c463e3a6977b03dbf8687df78a3a5494",
@@ -554,11 +553,9 @@
       "changed": "2026-10-05T21:50:15+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "fa67bd657d5ab33d6dc84dfb1c7dbb208c1bfc98c58fab519939daec13f77093",
+      "hash": "5a69f8778b33a7376c1ce20fc490a75159a862e5c05797454432c0009c82ef1e",
       "slugs": [
-        "avengers-endgame-encore-infinity-vision",
         "cahim-2-turkish",
-        "coyote-vs-acme",
         "digger",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
@@ -572,7 +569,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-05T21:30:12+03:00"
+      "changed": "2026-10-05T22:00:16+03:00"
     }
   }
 }
