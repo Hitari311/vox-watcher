@@ -450,6 +450,13 @@
       "seen_in": {
         "comingsoon": "2026-10-05T12:00:15+03:00"
       }
+    },
+    "the-shawshank-redemption-re-release": {
+      "title": "The Shawshank Redemption (Re-release)",
+      "first_seen": "2026-10-05T18:05:12+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-05T18:05:12+03:00"
+      }
     }
   },
   "sources": {
@@ -483,7 +490,7 @@
       "changed": "2026-09-30T23:30:14+03:00"
     },
     "comingsoon": {
-      "hash": "e0a6e593e113dff69b6d891f08f4bc677003650190cdb0008a6c610a33a7307c",
+      "hash": "30fdf71d63a6e7ebf43c84befd5ce63958231861398d5767431d8dcea126af0b",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-doomsday",
@@ -508,13 +515,14 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "the-influencer-project",
         "the-mongoose",
+        "the-shawshank-redemption-re-release",
         "tomorrow-x-together-world-tour-act-tomorrow",
         "violent-night-2",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-05T12:50:11+03:00"
+      "changed": "2026-10-05T18:05:12+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "624845b3ef070299968461e0ee228172c463e3a6977b03dbf8687df78a3a5494",
