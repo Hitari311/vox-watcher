@@ -577,7 +577,7 @@
       "changed": "2026-10-06T17:10:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "016091a8cd1eb7b23e4ea658ecade0a456b3eb399ed673808958df27917d3868",
+      "hash": "a4d6f42c3b34e2e2071cec3ccf40cc2b14287ae17c02238fec60c2c9f4d92a88",
       "slugs": [
         "cahim-2-turkish",
         "coyote-vs-acme",
@@ -589,7 +589,6 @@
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
         "resident-evil",
-        "sacrifice",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
         "tad-and-the-magic-lamp",
@@ -597,7 +596,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-06T19:20:11+03:00"
+      "changed": "2026-10-06T19:30:32+03:00"
     }
   }
 }
