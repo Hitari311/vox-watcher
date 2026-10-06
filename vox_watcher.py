@@ -47,6 +47,11 @@ except ImportError as e:
 # ----------------------------- config ---------------------------------------
 BASE = "https://egy.voxcinemas.com"
 CINEMAS = ["city-centre-alexandria", "city-centre-almaza", "mall-of-egypt"]
+CINEMA_NAMES = {                     # how cinemas are named in alerts
+    "city-centre-alexandria": "City Centre Alexandria",
+    "city-centre-almaza": "City Centre Almaza",
+    "mall-of-egypt": "Mall of Egypt",
+}
 
 SOURCES = {
     "whatson": f"{BASE}/movies/whatson",
@@ -234,6 +239,7 @@ def check_once(state):
     first_run = not state["sources"]
     ts = now().isoformat(timespec="seconds")
     ok = changed = 0
+    pending = {}     # slug -> {"first": bool, "cinemas": [...]} showtimes alerts for this run
 
     for name, url in SOURCES.items():
         try:
@@ -267,22 +273,34 @@ def check_once(state):
             rec = state["movies"].setdefault(slug, {"title": title, "first_seen": ts, "seen_in": {}})
             if is_fallback_title(slug, rec["title"]) and not is_fallback_title(slug, title):
                 rec["title"] = title
-            had_showtimes = any(s.startswith("showtimes:") for s in rec["seen_in"])
+            had_showtimes = any(x.startswith("showtimes:") for x in rec["seen_in"])
+            new_here = name not in rec["seen_in"]
             rec["seen_in"].setdefault(name, ts)
             title = best_title(state, slug, movies)
 
             if first_run:
                 continue
-            if not known:
+            if name.startswith("showtimes:"):
+                if new_here:       # first time this movie appears at this cinema
+                    cinema = name.split(":", 1)[1]
+                    entry = pending.setdefault(slug, {"first": not had_showtimes, "cinemas": []})
+                    entry["cinemas"].append(CINEMA_NAMES.get(cinema, cinema))
+            elif not known:
                 notify(f"🎬 NEW MOVIE on VOX Egypt ({name}): {title}\n{link}")
-            elif name.startswith("showtimes:") and not had_showtimes:
-                notify(f"🎟️ BOOKING OPEN: {title} now has showtimes at "
-                       f"{name.split(':', 1)[1]}\n{link}")
             elif name == "whatson" and "comingsoon" in rec["seen_in"]:
                 notify(f"▶️ Now showing: {title}\n{link}")
 
         state["sources"][name] = {"hash": digest, "slugs": sorted(movies), "changed": ts}
         time.sleep(random.uniform(3, 8))   # be gentle between pages
+
+    for slug, entry in pending.items():
+        title = best_title(state, slug, {})
+        where = ", ".join(entry["cinemas"])
+        link = f"{BASE}/movies/{slug}"
+        if entry["first"]:
+            notify(f"🎟️ BOOKING OPEN: {title} at {where}\n{link}")
+        else:
+            notify(f"📍 {title} now also showing at {where}\n{link}")
 
     if first_run:
         print(f"Baseline saved: {len(state['movies'])} movies. "
