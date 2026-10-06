@@ -464,6 +464,13 @@
       "seen_in": {
         "comingsoon": "2026-10-06T10:30:13+03:00"
       }
+    },
+    "the-beast": {
+      "title": "The Beast",
+      "first_seen": "2026-10-06T10:35:10+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-06T10:35:10+03:00"
+      }
     }
   },
   "sources": {
@@ -497,7 +504,7 @@
       "changed": "2026-09-30T23:30:14+03:00"
     },
     "comingsoon": {
-      "hash": "8b41225315be289d87b607ce726e4e187be9a903db0579ea6bfc659871250719",
+      "hash": "7dd461fa3e1affcfa987ea0406d463104ab5dd49339aa81510872ec783fbe297",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-doomsday",
@@ -517,6 +524,7 @@
         "sense-and-sensibility",
         "seventeen-world-tour-new",
         "street-fighter",
+        "the-beast",
         "the-cat-in-the-hat",
         "the-dino-family",
         "the-florist",
@@ -530,7 +538,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-06T10:30:13+03:00"
+      "changed": "2026-10-06T10:35:10+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "c527200f42a025ea1b8f75f52ee2fdd94043d18542cd5e7fba734109073e281a",
