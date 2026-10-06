@@ -137,7 +137,8 @@
       "first_seen": "2026-09-30T15:15:17+03:00",
       "seen_in": {
         "whatson": "2026-09-30T15:15:17+03:00",
-        "comingsoon": "2026-09-30T15:15:17+03:00"
+        "comingsoon": "2026-09-30T15:15:17+03:00",
+        "showtimes:mall-of-egypt": "2026-10-06T18:22:08+03:00"
       }
     },
     "paw-patrol-the-dino-movie": {
@@ -577,7 +578,7 @@
       "changed": "2026-10-06T17:10:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "3caf0bd61d3264ac860d16451bd0ed03edae5e66e0b979dbd6269ba97a0d47b7",
+      "hash": "09f302bcd684b4f1b7133a08dc568039ed4b5096a7f1939a2c9c1f0556c92fb0",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "cahim-2-turkish",
@@ -589,6 +590,7 @@
         "insidious-out-of-the-further",
         "khali-balak-min-nafsik-arabic",
         "mahmoud-el-tany-arabic",
+        "matloub-3a2eleyain-arabic",
         "red-flag-arabic",
         "resident-evil",
         "sacrifice",
@@ -599,7 +601,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-06T12:55:10+03:00"
+      "changed": "2026-10-06T18:22:08+03:00"
     }
   }
 }
