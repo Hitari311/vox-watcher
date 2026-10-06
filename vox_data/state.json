@@ -505,7 +505,7 @@
       "changed": "2026-09-30T23:30:14+03:00"
     },
     "comingsoon": {
-      "hash": "db0502512584371d327a12d3611c489c45360feb213b17439b02919c38fa88d9",
+      "hash": "7dd461fa3e1affcfa987ea0406d463104ab5dd49339aa81510872ec783fbe297",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-doomsday",
@@ -520,6 +520,7 @@
         "hexed",
         "hybe-cheering-party",
         "klara-and-the-sun",
+        "matloub-3a2eleyain-arabic",
         "other-mommy",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
@@ -538,17 +539,16 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-06T23:00:12+03:00"
+      "changed": "2026-10-06T23:05:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "f026550b9828b4b4bb7c19326a757d211008124058004041ad3bd70c2dcdc89f",
+      "hash": "4288c4b39098c73cedaea0a6da117b1f618655c6a656fb1554ab24b007a91fa8",
       "slugs": [
-        "el-gawahergy-arabic",
         "resident-evil",
         "shish-dou-arabic",
         "verity"
       ],
-      "changed": "2026-10-06T22:45:11+03:00"
+      "changed": "2026-10-06T23:05:11+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "00123e13d92f5f16cb06795d60b8be3d8033ae09fd3a68750252599fdf114e18",
