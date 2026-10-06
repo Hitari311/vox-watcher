@@ -581,12 +581,11 @@
       "changed": "2026-10-06T23:45:09+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "3a554966e274c895b55cccc2e1ccad3ab5677fefa760d2111e6601da7a64519d",
+      "hash": "fb13990984bd008288bb25364d5a4fe0ea16c895e3e07690e2c698b89343664f",
       "slugs": [
-        "gator-face",
-        "shish-dou-arabic"
+        "gator-face"
       ],
-      "changed": "2026-10-07T00:00:11+03:00"
+      "changed": "2026-10-07T00:10:11+03:00"
     }
   }
 }
