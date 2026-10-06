@@ -542,13 +542,12 @@
       "changed": "2026-10-06T23:05:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "4288c4b39098c73cedaea0a6da117b1f618655c6a656fb1554ab24b007a91fa8",
+      "hash": "5eea26c7aa6f77f8c5509569f1f48d7101cc3b419dd0c4664213a4474ef1940e",
       "slugs": [
         "resident-evil",
-        "shish-dou-arabic",
-        "verity"
+        "shish-dou-arabic"
       ],
-      "changed": "2026-10-06T23:05:11+03:00"
+      "changed": "2026-10-06T23:20:13+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "00123e13d92f5f16cb06795d60b8be3d8033ae09fd3a68750252599fdf114e18",
@@ -565,16 +564,14 @@
       "changed": "2026-10-06T23:00:12+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "a7cc981be6d889994edadc53d4586b1ca5a06189962870526cf52baa82331427",
+      "hash": "18fe13d97401187218b2e7b289803b07550d19ef4e436b78dfa1bf7a66eab146",
       "slugs": [
         "gator-face",
         "insidious-out-of-the-further",
         "mahmoud-el-tany-arabic",
-        "shish-dou-arabic",
-        "spider-man-brand-new-day",
-        "verity"
+        "shish-dou-arabic"
       ],
-      "changed": "2026-10-06T22:55:14+03:00"
+      "changed": "2026-10-06T23:20:13+03:00"
     }
   }
 }
