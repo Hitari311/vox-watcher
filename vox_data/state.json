@@ -6,7 +6,8 @@
       "seen_in": {
         "whatson": "2026-09-30T15:15:17+03:00",
         "showtimes:city-centre-almaza": "2026-09-30T15:15:17+03:00",
-        "showtimes:mall-of-egypt": "2026-09-30T15:15:17+03:00"
+        "showtimes:mall-of-egypt": "2026-09-30T15:15:17+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T00:00:11+03:00"
       }
     },
     "avengers-endgame-encore-infinity-vision": {
@@ -138,7 +139,8 @@
       "seen_in": {
         "whatson": "2026-09-30T15:15:17+03:00",
         "comingsoon": "2026-09-30T15:15:17+03:00",
-        "showtimes:mall-of-egypt": "2026-10-06T18:22:08+03:00"
+        "showtimes:mall-of-egypt": "2026-10-06T18:22:08+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T00:00:11+03:00"
       }
     },
     "paw-patrol-the-dino-movie": {
@@ -550,11 +552,22 @@
       "changed": "2026-10-06T23:05:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "1e15acce5dee28e640998f544ab4cab9089d57cd8f83dcce0134bb373bb0c32e",
+      "hash": "cf723c8c7a8afa1795746e7f80b2ff43f05acf87e55138a76a377d9cbbfbecfc",
       "slugs": [
-        "resident-evil"
+        "avengers-endgame-encore",
+        "digger",
+        "el-gawahergy-arabic",
+        "heart-of-the-beast",
+        "mahmoud-el-tany-arabic",
+        "matloub-3a2eleyain-arabic",
+        "red-flag-arabic",
+        "resident-evil",
+        "shish-dou-arabic",
+        "spider-man-brand-new-day",
+        "the-odyssey",
+        "verity"
       ],
-      "changed": "2026-10-06T23:35:10+03:00"
+      "changed": "2026-10-07T00:00:11+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "6230174c2fd3f8067e329ef55e057553332fcb10459f2653486bbd2fb710f0af",
@@ -568,13 +581,12 @@
       "changed": "2026-10-06T23:45:09+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "29507fd1136806f9cb7f442f0edd556b3428ff442d012df26645dd8fd7a91e1d",
+      "hash": "3a554966e274c895b55cccc2e1ccad3ab5677fefa760d2111e6601da7a64519d",
       "slugs": [
         "gator-face",
-        "insidious-out-of-the-further",
         "shish-dou-arabic"
       ],
-      "changed": "2026-10-06T23:40:12+03:00"
+      "changed": "2026-10-07T00:00:11+03:00"
     }
   }
 }
