@@ -457,6 +457,13 @@
       "seen_in": {
         "comingsoon": "2026-10-05T18:05:12+03:00"
       }
+    },
+    "beware-boiuna": {
+      "title": "Beware Boiuna",
+      "first_seen": "2026-10-06T10:30:13+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-06T10:30:13+03:00"
+      }
     }
   },
   "sources": {
@@ -490,11 +497,12 @@
       "changed": "2026-09-30T23:30:14+03:00"
     },
     "comingsoon": {
-      "hash": "30fdf71d63a6e7ebf43c84befd5ce63958231861398d5767431d8dcea126af0b",
+      "hash": "8b41225315be289d87b607ce726e4e187be9a903db0579ea6bfc659871250719",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
+        "beware-boiuna",
         "bts-world-tour-arirang-in-buenos-aires-live",
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "children-of-blood-and-bone",
@@ -522,7 +530,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-05T18:05:12+03:00"
+      "changed": "2026-10-06T10:30:13+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "c527200f42a025ea1b8f75f52ee2fdd94043d18542cd5e7fba734109073e281a",
