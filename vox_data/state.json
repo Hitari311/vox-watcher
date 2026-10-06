@@ -542,15 +542,14 @@
       "changed": "2026-10-06T10:35:10+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "9fd1da8be1fef9a21798c8259d74d9c007e3c1410d63207f4c5530829f45e490",
+      "hash": "f026550b9828b4b4bb7c19326a757d211008124058004041ad3bd70c2dcdc89f",
       "slugs": [
-        "digger",
         "el-gawahergy-arabic",
         "resident-evil",
         "shish-dou-arabic",
         "verity"
       ],
-      "changed": "2026-10-06T22:30:13+03:00"
+      "changed": "2026-10-06T22:45:11+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "4c85f724b957da75e41837880c274c1e5778ba2a6400132e7dbb282b3f36fd29",
