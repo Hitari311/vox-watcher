@@ -140,7 +140,8 @@
         "whatson": "2026-09-30T15:15:17+03:00",
         "comingsoon": "2026-09-30T15:15:17+03:00",
         "showtimes:mall-of-egypt": "2026-10-06T18:22:08+03:00",
-        "showtimes:city-centre-alexandria": "2026-10-07T00:00:11+03:00"
+        "showtimes:city-centre-alexandria": "2026-10-07T00:00:11+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T00:25:10+03:00"
       }
     },
     "paw-patrol-the-dino-movie": {
@@ -570,22 +571,53 @@
       "changed": "2026-10-07T00:00:11+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "6230174c2fd3f8067e329ef55e057553332fcb10459f2653486bbd2fb710f0af",
+      "hash": "deff3dfd7b7f88ad00f70bc3d4439821e3f91e05e58b2f1eb6c782c00015a0ef",
       "slugs": [
+        "avengers-endgame-encore",
+        "avengers-endgame-encore-infinity-vision",
+        "cahim-2-turkish",
+        "digger",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
         "mahmoud-el-tany-arabic",
+        "matloub-3a2eleyain-arabic",
         "red-flag-arabic",
-        "resident-evil"
+        "resident-evil",
+        "sacrifice",
+        "shish-dou-arabic",
+        "spider-man-brand-new-day",
+        "the-odyssey",
+        "the-smurfs-timeless-adventure-volume-2",
+        "verity"
       ],
-      "changed": "2026-10-06T23:45:09+03:00"
+      "changed": "2026-10-07T00:25:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "fb13990984bd008288bb25364d5a4fe0ea16c895e3e07690e2c698b89343664f",
+      "hash": "5a5163f4c1de31fbff7b564197caec333b05c47ebff3800607249b5cab517f9e",
       "slugs": [
-        "gator-face"
+        "avengers-endgame-encore",
+        "avengers-endgame-encore-infinity-vision",
+        "cahim-2-turkish",
+        "coyote-vs-acme",
+        "digger",
+        "el-gawahergy-arabic",
+        "gator-face",
+        "heart-of-the-beast",
+        "insidious-out-of-the-further",
+        "khali-balak-min-nafsik-arabic",
+        "mahmoud-el-tany-arabic",
+        "matloub-3a2eleyain-arabic",
+        "red-flag-arabic",
+        "resident-evil",
+        "sacrifice",
+        "shish-dou-arabic",
+        "spider-man-brand-new-day",
+        "tad-and-the-magic-lamp",
+        "the-odyssey",
+        "the-smurfs-timeless-adventure-volume-2",
+        "verity"
       ],
-      "changed": "2026-10-07T00:10:11+03:00"
+      "changed": "2026-10-07T00:25:10+03:00"
     }
   }
 }
