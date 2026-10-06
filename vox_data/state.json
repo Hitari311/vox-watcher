@@ -330,7 +330,8 @@
       "title": "Other Mommy",
       "first_seen": "2026-09-30T15:15:17+03:00",
       "seen_in": {
-        "comingsoon": "2026-09-30T15:15:17+03:00"
+        "comingsoon": "2026-09-30T15:15:17+03:00",
+        "whatson": "2026-10-06T23:40:12+03:00"
       }
     },
     "sense-and-sensibility": {
@@ -435,7 +436,8 @@
       "title": "The Florist",
       "first_seen": "2026-10-01T12:20:13+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-01T12:20:13+03:00"
+        "comingsoon": "2026-10-01T12:20:13+03:00",
+        "whatson": "2026-10-06T23:40:12+03:00"
       }
     },
     "day-drinker": {
@@ -463,23 +465,26 @@
       "title": "Beware Boiuna",
       "first_seen": "2026-10-06T10:30:13+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-06T10:30:13+03:00"
+        "comingsoon": "2026-10-06T10:30:13+03:00",
+        "whatson": "2026-10-06T23:40:12+03:00"
       }
     },
     "the-beast": {
       "title": "The Beast",
       "first_seen": "2026-10-06T10:35:10+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-06T10:35:10+03:00"
+        "comingsoon": "2026-10-06T10:35:10+03:00",
+        "whatson": "2026-10-06T23:40:12+03:00"
       }
     }
   },
   "sources": {
     "whatson": {
-      "hash": "72a12b6fc5efde7f7019203169c4938b6d11e2a469f0d3003bbed6277986d2d4",
+      "hash": "c2a9d92e51e95c46b2f3129cfddc8ca39fafffa5989a10cf5f14aa8442916a1c",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
+        "beware-boiuna",
         "bts-world-tour-arirang-in-buenos-aires-live",
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "cahim-2-turkish",
@@ -492,17 +497,20 @@
         "khali-balak-min-nafsik-arabic",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
+        "other-mommy",
         "red-flag-arabic",
         "resident-evil",
         "sacrifice",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
         "tad-and-the-magic-lamp",
+        "the-beast",
+        "the-florist",
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-09-30T23:30:14+03:00"
+      "changed": "2026-10-06T23:40:12+03:00"
     },
     "comingsoon": {
       "hash": "7dd461fa3e1affcfa987ea0406d463104ab5dd49339aa81510872ec783fbe297",
@@ -549,25 +557,26 @@
       "changed": "2026-10-06T23:35:10+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "6230174c2fd3f8067e329ef55e057553332fcb10459f2653486bbd2fb710f0af",
+      "hash": "f0366a85dbdb856a4617c85888f1a7a0ce65e69ceb6546e95d960ca1dcdae272",
       "slugs": [
+        "digger",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
         "mahmoud-el-tany-arabic",
         "red-flag-arabic",
-        "resident-evil"
+        "resident-evil",
+        "verity"
       ],
-      "changed": "2026-10-06T23:35:10+03:00"
+      "changed": "2026-10-06T23:40:12+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "18fe13d97401187218b2e7b289803b07550d19ef4e436b78dfa1bf7a66eab146",
+      "hash": "29507fd1136806f9cb7f442f0edd556b3428ff442d012df26645dd8fd7a91e1d",
       "slugs": [
         "gator-face",
         "insidious-out-of-the-further",
-        "mahmoud-el-tany-arabic",
         "shish-dou-arabic"
       ],
-      "changed": "2026-10-06T23:20:13+03:00"
+      "changed": "2026-10-06T23:40:12+03:00"
     }
   }
 }
