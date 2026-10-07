@@ -184,6 +184,31 @@ def slug_to_title(slug):
     return f"{title} ({lang.title()})" if lang else title
 
 
+TIME_RE = re.compile(r"\b\d{1,2}:\d{2}\s*[ap]\.?m\b", re.I)
+
+
+def extract_scheduled(html):
+    """Movies on a showtimes page that actually have session times listed.
+
+    VOX shows a generic movie listing for dates with no sessions, so counting
+    every movie link there gives false results. Walking the page in order, each
+    time like "3:45pm" belongs to the most recent movie link above it.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    current, scheduled = None, set()
+    for node in soup.descendants:
+        name = getattr(node, "name", None)
+        if name == "a" and node.get("href"):
+            m = MOVIE_HREF.match(node["href"].strip())
+            if m and m.group(1).lower() not in NON_MOVIE_SLUGS:
+                current = m.group(1).lower()
+        elif name is None and current and TIME_RE.search(str(node)):
+            if node.parent is not None and node.parent.name not in ("script", "style"):
+                scheduled.add(current)
+    titles = extract_movies(html)
+    return {slug: titles.get(slug, slug_to_title(slug)) for slug in scheduled}
+
+
 def is_fallback_title(slug, title):
     return title == slug_to_title(slug)
 
@@ -207,9 +232,10 @@ def collect(name, url, verbose=False):
     for i in range(MAX_DAYS):
         day = now() + timedelta(days=i)
         html, headers = fetch(f"{BASE}/showtimes?c={cinema}&d={day:%Y%m%d}")
-        found = extract_movies(html)
+        found = extract_scheduled(html)
         if verbose:
-            print(f"        {day:%a %d %b}: {len(found)} movies")
+            print(f"        {day:%a %d %b}: {len(extract_movies(html)):>3} listed, "
+                  f"{len(found):>3} with showtimes")
         if found:
             dates[f"{day:%Y-%m-%d}"] = sorted(found)
             empty_run = 0
