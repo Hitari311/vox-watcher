@@ -382,6 +382,13 @@
       "seen_in": {
         "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
       }
+    },
+    "sacrifice": {
+      "title": "Sacrifice",
+      "first_seen": "2026-10-07T21:53:03+03:00",
+      "seen_in": {
+        "showtimes:mall-of-egypt": "2026-10-07T21:53:03+03:00"
+      }
     }
   },
   "sources": {
@@ -489,7 +496,7 @@
       "changed": "2026-10-07T21:48:25+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "d6f85c27ade8ca9de494d827d3e2edd9b32c722036d490ed3043a9c82d01cd2a",
+      "hash": "624b979d2d82436684e0f2524fc1a346c89da355244762686bc7fb72c865181b",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
@@ -505,6 +512,7 @@
         "other-mommy",
         "red-flag-arabic",
         "resident-evil",
+        "sacrifice",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
         "tad-and-the-magic-lamp",
@@ -514,21 +522,21 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-07T21:48:25+03:00"
+      "changed": "2026-10-07T21:53:03+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-07T21:48:25+03:00"
+      "checked": "2026-10-07T21:53:03+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-07T21:48:25+03:00"
+      "checked": "2026-10-07T21:53:03+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-07T21:48:25+03:00"
+      "checked": "2026-10-07T21:53:03+03:00"
     }
   }
 }
