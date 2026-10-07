@@ -483,7 +483,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "f95f562081265e9c9135186baa11c08c1bf5fa27ebd04b4ed43b669295c53321",
+      "hash": "144213ed98193afbbe4fc98832abf89f78292f3a5946303da60f1767b809a2db",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
@@ -493,7 +493,6 @@
         "cahim-2-turkish",
         "coyote-vs-acme",
         "digger",
-        "el-gawahergy-arabic",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
         "khali-balak-min-nafsik-arabic",
@@ -512,7 +511,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-07T18:40:10+03:00"
+      "changed": "2026-10-07T19:00:12+03:00"
     },
     "comingsoon": {
       "hash": "7a2ee4019eea8a8ddd3d842e09eaacba7c433d1987a72870c467c71fec3019eb",
@@ -551,19 +550,18 @@
       "changed": "2026-10-07T18:05:13+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "fac6d36d88f45d30b2b14a6ccd820f1741032be4e1c563ca065f4949bb510f70",
+      "hash": "b7e34d05398a8530be158a3b7278a717e1e137dc35a6562b491797e4ec570a09",
       "slugs": [
         "avengers-endgame-encore",
         "digger",
         "heart-of-the-beast",
-        "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic",
         "verity"
       ],
-      "changed": "2026-10-07T18:20:12+03:00"
+      "changed": "2026-10-07T19:00:12+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "a83dbc807947973de64d9830b97444d753e5e9fc6e3345c79fa3dd2e176fe6cc",
