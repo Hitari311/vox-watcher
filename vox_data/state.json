@@ -483,7 +483,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "144213ed98193afbbe4fc98832abf89f78292f3a5946303da60f1767b809a2db",
+      "hash": "4f554a124a0cf268672d0ed083553515f94ae047ecf82d5d1c1123b3fe5551f6",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
@@ -501,7 +501,6 @@
         "other-mommy",
         "red-flag-arabic",
         "resident-evil",
-        "sacrifice",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
         "tad-and-the-magic-lamp",
@@ -511,7 +510,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-07T19:00:12+03:00"
+      "changed": "2026-10-07T20:50:12+03:00"
     },
     "comingsoon": {
       "hash": "7a2ee4019eea8a8ddd3d842e09eaacba7c433d1987a72870c467c71fec3019eb",
@@ -563,7 +562,7 @@
       "changed": "2026-10-07T19:45:11+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "083612b6ed2baa4a9f43e3eac526c305ff3bd6aed29472f2bbc4fd10ff349f00",
+      "hash": "85f906b8c950288bd41384eef46cf4aa3d453794c275c6e40a07162443e433d6",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "digger",
@@ -576,10 +575,9 @@
         "shish-dou-arabic",
         "spider-man-brand-new-day",
         "the-odyssey",
-        "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-07T19:25:10+03:00"
+      "changed": "2026-10-07T20:50:12+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "0ef5013815042f2cbd471645b465c3c29171c9497765d8e661e8ffaaac34eb61",
