@@ -33,7 +33,7 @@ import re
 import sys
 import time
 from collections import Counter
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
@@ -60,8 +60,11 @@ SOURCES = {
 }
 
 # --- Telegram alerts (env vars override these if set) ---
-TELEGRAM_BOT_TOKEN = "8932607578:AAE_HP9LInOBgwHv_oXdugCK4GtJ93kvr90"
-TELEGRAM_CHAT_ID = "8000836290"
+TELEGRAM_BOT_TOKEN = ""      # left empty on purpose: set as GitHub Actions secrets
+TELEGRAM_CHAT_ID = ""        # (env vars of the same names are used instead)
+
+MAX_DAYS = 14                # look this many days ahead for published showtimes
+EMPTY_STOP = 2               # stop scanning a cinema after this many empty days in a row
 
 INTERVAL_MIN = 15            # minutes between checks (keep it polite)
 JITTER_SEC = 90              # random extra wait so requests aren't perfectly periodic
@@ -185,6 +188,49 @@ def is_fallback_title(slug, title):
     return title == slug_to_title(slug)
 
 
+def collect(name, url, verbose=False):
+    """Return ({slug: title}, headers, schedule) for one source.
+
+    Showtimes pages list ONE day, so for each cinema we walk forward day by day
+    until EMPTY_STOP empty days in a row (the end of what VOX has published),
+    capped at MAX_DAYS. schedule = {"dates": {"YYYY-MM-DD": [slugs]}, "edge": ...}
+    and is None for non-showtimes pages. A failed request raises, which skips
+    the whole source for this run.
+    """
+    if not name.startswith("showtimes:"):
+        html, headers = fetch(url)
+        return extract_movies(html), headers, None
+
+    cinema = name.split(":", 1)[1]
+    merged, headers, dates = {}, {}, {}
+    empty_run, edge = 0, None
+    for i in range(MAX_DAYS):
+        day = now() + timedelta(days=i)
+        html, headers = fetch(f"{BASE}/showtimes?c={cinema}&d={day:%Y%m%d}")
+        found = extract_movies(html)
+        if verbose:
+            print(f"        {day:%a %d %b}: {len(found)} movies")
+        if found:
+            dates[f"{day:%Y-%m-%d}"] = sorted(found)
+            empty_run = 0
+            if i == MAX_DAYS - 1:
+                edge = f"{day:%Y-%m-%d}"   # window edge: may just be the window rolling
+        elif i > 0:
+            empty_run += 1
+            if empty_run >= EMPTY_STOP:
+                break
+        for slug, title in found.items():
+            if slug not in merged or (is_fallback_title(slug, merged[slug])
+                                      and not is_fallback_title(slug, title)):
+                merged[slug] = title
+        time.sleep(random.uniform(1, 3))
+    return merged, headers, {"dates": dates, "edge": edge}
+
+
+def fmt_day(d):
+    return datetime.strptime(d, "%Y-%m-%d").strftime("%a %d %b")
+
+
 def load_state():
     if STATE_FILE.exists():
         return json.loads(STATE_FILE.read_text(encoding="utf-8"))
@@ -240,16 +286,32 @@ def check_once(state):
     ts = now().isoformat(timespec="seconds")
     ok = changed = 0
     pending = {}     # slug -> {"first": bool, "cinemas": [...]} showtimes alerts for this run
+    date_events = [] # (cinema, [new dates], schedule) - new showtime dates released
+    state.setdefault("schedule", {})
 
     for name, url in SOURCES.items():
         try:
-            html, headers = fetch(url)
+            movies, headers, sched = collect(name, url)
         except Exception as e:
             print(f"[{now():%H:%M}] {name}: fetch failed ({e})")
             continue
         ok += 1
 
-        movies = extract_movies(html)
+        if sched is not None and sched["dates"]:
+            cinema = name.split(":", 1)[1]
+            prev_last = state["schedule"].get(cinema, {}).get("last_date")
+            if prev_last and not first_run:
+                new_dates = sorted(d for d in sched["dates"] if d > prev_last)
+                if new_dates == [sched["edge"]]:   # only the 14-day window rolled forward
+                    new_dates = []
+                if new_dates:
+                    date_events.append((cinema, new_dates, sched))
+                    log_change(f"dates:{cinema}", new_dates, [], headers)
+            state["schedule"][cinema] = {
+                "last_date": max([*sched["dates"], *([prev_last] if prev_last else [])]),
+                "checked": ts,
+            }
+
         if not movies:
             print(f"[{now():%H:%M}] {name}: 0 movies parsed - page may be JS-rendered or blocked")
             continue
@@ -302,6 +364,15 @@ def check_once(state):
         else:
             notify(f"📍 {title} now also showing at {where}\n{link}")
 
+    for cinema, new_dates, sched in date_events:
+        slugs = sorted({x for d in new_dates for x in sched["dates"][d]})
+        titles = [best_title(state, x, {}) for x in slugs]
+        shown = ", ".join(titles[:8]) + (f" (+{len(titles) - 8} more)" if len(titles) > 8 else "")
+        span = (fmt_day(new_dates[0]) if len(new_dates) == 1
+                else f"{fmt_day(new_dates[0])} → {fmt_day(new_dates[-1])} ({len(new_dates)} days)")
+        notify(f"🗓️ New showtimes released at {CINEMA_NAMES.get(cinema, cinema)}\n"
+               f"{span}\n{shown}\n{BASE}/showtimes/{cinema}")
+
     if first_run:
         print(f"Baseline saved: {len(state['movies'])} movies. "
               "You'll be alerted about anything new from now on.")
@@ -343,9 +414,8 @@ def main():
     if args.test:
         for name, url in SOURCES.items():
             try:
-                html, _ = fetch(url)
-                found = extract_movies(html)
-                print(f"OK    {name:<32} {len(html):>8} bytes, {len(found)} movies"
+                found, _, _ = collect(name, url, verbose=True)
+                print(f"OK    {name:<32} {len(found)} movies"
                       + (f"  e.g. {list(found.values())[:3]}" if found else ""))
             except Exception as e:
                 print(f"FAIL  {name:<32} {e}")
