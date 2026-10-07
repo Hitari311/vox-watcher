@@ -483,7 +483,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "4f554a124a0cf268672d0ed083553515f94ae047ecf82d5d1c1123b3fe5551f6",
+      "hash": "2f31a96b4d3f9048ee8282555ccf3001a5529ce7b595aeeeed098180b2c78a6c",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
@@ -491,7 +491,6 @@
         "bts-world-tour-arirang-in-buenos-aires-live",
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "cahim-2-turkish",
-        "coyote-vs-acme",
         "digger",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
@@ -510,7 +509,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-07T20:50:12+03:00"
+      "changed": "2026-10-07T21:05:10+03:00"
     },
     "comingsoon": {
       "hash": "7a2ee4019eea8a8ddd3d842e09eaacba7c433d1987a72870c467c71fec3019eb",
