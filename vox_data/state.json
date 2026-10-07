@@ -270,7 +270,8 @@
       "title": "Always Lalisa",
       "first_seen": "2026-09-30T15:15:17+03:00",
       "seen_in": {
-        "comingsoon": "2026-09-30T15:15:17+03:00"
+        "comingsoon": "2026-09-30T15:15:17+03:00",
+        "whatson": "2026-10-07T21:20:13+03:00"
       }
     },
     "avengers-doomsday": {
@@ -483,8 +484,9 @@
   },
   "sources": {
     "whatson": {
-      "hash": "2f31a96b4d3f9048ee8282555ccf3001a5529ce7b595aeeeed098180b2c78a6c",
+      "hash": "7764938aff076f7b4825b6943b4386d0aa90380b4403b03069a2a8abbe554629",
       "slugs": [
+        "always-lalisa-english-korean-thai",
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
         "beware-boiuna",
@@ -509,7 +511,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-07T21:05:10+03:00"
+      "changed": "2026-10-07T21:20:13+03:00"
     },
     "comingsoon": {
       "hash": "7a2ee4019eea8a8ddd3d842e09eaacba7c433d1987a72870c467c71fec3019eb",
