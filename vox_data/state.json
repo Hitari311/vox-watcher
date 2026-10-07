@@ -1,0 +1,534 @@
+{
+  "movies": {
+    "always-lalisa-english-korean-thai": {
+      "title": "Always Lalisa",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "avengers-endgame-encore": {
+      "title": "Avengers Endgame: Encore",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "avengers-endgame-encore-infinity-vision": {
+      "title": "Avengers Endgame: Encore (Infinity Vision)",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "beware-boiuna": {
+      "title": "Beware Boiuna",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "bts-world-tour-arirang-in-buenos-aires-live": {
+      "title": "BTS WORLD TOUR 'ARIRANG' IN BUENOS AIRES: LIVE",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "bts-world-tour-arirang-in-s-o-paulo-live": {
+      "title": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: LIVE",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "cahim-2-turkish": {
+      "title": "Cahim 2",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "digger": {
+      "title": "Digger",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "heart-of-the-beast": {
+      "title": "Heart of the Beast",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "insidious-out-of-the-further": {
+      "title": "Insidious: Out Of The Further",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "mahmoud-el-tany-arabic": {
+      "title": "Mahmoud El Tany",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "matloub-3a2eleyain-arabic": {
+      "title": "Matloub 3a2eleyain",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "other-mommy": {
+      "title": "Other Mommy",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "red-flag-arabic": {
+      "title": "Red Flag",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "resident-evil": {
+      "title": "Resident Evil",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "shish-dou-arabic": {
+      "title": "Shish Dou",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "spider-man-brand-new-day": {
+      "title": "Spider-Man: Brand New Day",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "tad-and-the-magic-lamp": {
+      "title": "Tad and the Magic Lamp",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "the-beast": {
+      "title": "The Beast",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "the-florist": {
+      "title": "The Florist",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "the-odyssey": {
+      "title": "The Odyssey",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "the-smurfs-timeless-adventure-volume-2": {
+      "title": "The Smurfs Timeless Adventure Volume 2",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "verity": {
+      "title": "Verity",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "whatson": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T21:48:25+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "avengers-doomsday": {
+      "title": "Avengers: Doomsday",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "avengers-doomsday-infinity-vision": {
+      "title": "Avengers: Doomsday (Infinity Vision)",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "children-of-blood-and-bone": {
+      "title": "Children of Blood and Bone",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "day-drinker": {
+      "title": "Day Drinker",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "enhypen-world-tour-blood-saga": {
+      "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA'",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "godzilla-minus-zero-japanese": {
+      "title": "Godzilla Minus Zero",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "hexed": {
+      "title": "Hexed",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "hybe-cheering-party": {
+      "title": "HYBE CHEERING PARTY",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "klara-and-the-sun": {
+      "title": "Klara and the Sun",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "sense-and-sensibility": {
+      "title": "Sense and Sensibility",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "seventeen-world-tour-new": {
+      "title": "SEVENTEEN WORLD TOUR 'NEW_'",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "street-fighter": {
+      "title": "Street Fighter",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "the-cat-in-the-hat": {
+      "title": "The Cat In The Hat",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "the-dino-family": {
+      "title": "The Dino Family",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "the-hunger-games-sunrise-on-the-reaping": {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "the-influencer-project": {
+      "title": "The Influencer Project",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "the-mongoose": {
+      "title": "The Mongoose",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "tomorrow-x-together-world-tour-act-tomorrow": {
+      "title": "TOMORROW X TOGETHER WORLD TOUR 'ACT : TOMORROW'",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "violent-night-2": {
+      "title": "Violent Night 2",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "wala-kan-ala-el-bal-arabic": {
+      "title": "Wala Kan Ala El-Bal",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "whalefall": {
+      "title": "Whalefall",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "wildwood": {
+      "title": "Wildwood",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "coyote-vs-acme": {
+      "title": "Coyote Vs Acme",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    },
+    "khali-balak-min-nafsik-arabic": {
+      "title": "Khali Balak Min Nafsik (Arabic)",
+      "first_seen": "2026-10-07T21:48:25+03:00",
+      "seen_in": {
+        "showtimes:mall-of-egypt": "2026-10-07T21:48:25+03:00"
+      }
+    }
+  },
+  "sources": {
+    "whatson": {
+      "hash": "6680f476b0e3828157c014ac30a4e8de6b04bb16fdfda75085c195b22b91e59a",
+      "slugs": [
+        "always-lalisa-english-korean-thai",
+        "avengers-endgame-encore",
+        "avengers-endgame-encore-infinity-vision",
+        "beware-boiuna",
+        "bts-world-tour-arirang-in-buenos-aires-live",
+        "bts-world-tour-arirang-in-s-o-paulo-live",
+        "cahim-2-turkish",
+        "digger",
+        "heart-of-the-beast",
+        "insidious-out-of-the-further",
+        "mahmoud-el-tany-arabic",
+        "matloub-3a2eleyain-arabic",
+        "other-mommy",
+        "red-flag-arabic",
+        "resident-evil",
+        "shish-dou-arabic",
+        "spider-man-brand-new-day",
+        "tad-and-the-magic-lamp",
+        "the-beast",
+        "the-florist",
+        "the-odyssey",
+        "the-smurfs-timeless-adventure-volume-2",
+        "verity"
+      ],
+      "changed": "2026-10-07T21:48:25+03:00"
+    },
+    "comingsoon": {
+      "hash": "7a2ee4019eea8a8ddd3d842e09eaacba7c433d1987a72870c467c71fec3019eb",
+      "slugs": [
+        "always-lalisa-english-korean-thai",
+        "avengers-doomsday",
+        "avengers-doomsday-infinity-vision",
+        "beware-boiuna",
+        "bts-world-tour-arirang-in-buenos-aires-live",
+        "bts-world-tour-arirang-in-s-o-paulo-live",
+        "children-of-blood-and-bone",
+        "day-drinker",
+        "enhypen-world-tour-blood-saga",
+        "godzilla-minus-zero-japanese",
+        "hexed",
+        "hybe-cheering-party",
+        "klara-and-the-sun",
+        "matloub-3a2eleyain-arabic",
+        "other-mommy",
+        "sense-and-sensibility",
+        "seventeen-world-tour-new",
+        "street-fighter",
+        "the-beast",
+        "the-cat-in-the-hat",
+        "the-dino-family",
+        "the-florist",
+        "the-hunger-games-sunrise-on-the-reaping",
+        "the-influencer-project",
+        "the-mongoose",
+        "tomorrow-x-together-world-tour-act-tomorrow",
+        "violent-night-2",
+        "wala-kan-ala-el-bal-arabic",
+        "whalefall",
+        "wildwood"
+      ],
+      "changed": "2026-10-07T21:48:25+03:00"
+    },
+    "showtimes:city-centre-alexandria": {
+      "hash": "8b7c3484b18bea7b38b9c770a7671a1047681208752384f85e1c5e27625bc95c",
+      "slugs": [
+        "always-lalisa-english-korean-thai",
+        "avengers-endgame-encore",
+        "digger",
+        "heart-of-the-beast",
+        "matloub-3a2eleyain-arabic",
+        "other-mommy",
+        "red-flag-arabic",
+        "resident-evil",
+        "shish-dou-arabic",
+        "verity"
+      ],
+      "changed": "2026-10-07T21:48:25+03:00"
+    },
+    "showtimes:city-centre-almaza": {
+      "hash": "b48f17bafc3b5259c98bcd7c2313be34a1eb3c6a2b868c2163ff25ea2f521811",
+      "slugs": [
+        "avengers-endgame-encore-infinity-vision",
+        "beware-boiuna",
+        "digger",
+        "heart-of-the-beast",
+        "insidious-out-of-the-further",
+        "mahmoud-el-tany-arabic",
+        "matloub-3a2eleyain-arabic",
+        "other-mommy",
+        "red-flag-arabic",
+        "resident-evil",
+        "shish-dou-arabic",
+        "spider-man-brand-new-day",
+        "the-beast",
+        "the-odyssey",
+        "the-smurfs-timeless-adventure-volume-2",
+        "verity"
+      ],
+      "changed": "2026-10-07T21:48:25+03:00"
+    },
+    "showtimes:mall-of-egypt": {
+      "hash": "d6f85c27ade8ca9de494d827d3e2edd9b32c722036d490ed3043a9c82d01cd2a",
+      "slugs": [
+        "avengers-endgame-encore",
+        "avengers-endgame-encore-infinity-vision",
+        "beware-boiuna",
+        "cahim-2-turkish",
+        "coyote-vs-acme",
+        "digger",
+        "heart-of-the-beast",
+        "insidious-out-of-the-further",
+        "khali-balak-min-nafsik-arabic",
+        "mahmoud-el-tany-arabic",
+        "matloub-3a2eleyain-arabic",
+        "other-mommy",
+        "red-flag-arabic",
+        "resident-evil",
+        "shish-dou-arabic",
+        "spider-man-brand-new-day",
+        "tad-and-the-magic-lamp",
+        "the-beast",
+        "the-florist",
+        "the-odyssey",
+        "the-smurfs-timeless-adventure-volume-2",
+        "verity"
+      ],
+      "changed": "2026-10-07T21:48:25+03:00"
+    }
+  },
+  "schedule": {
+    "city-centre-alexandria": {
+      "last_date": "2026-10-14",
+      "checked": "2026-10-07T21:48:25+03:00"
+    },
+    "city-centre-almaza": {
+      "last_date": "2026-10-14",
+      "checked": "2026-10-07T21:48:25+03:00"
+    },
+    "mall-of-egypt": {
+      "last_date": "2026-10-14",
+      "checked": "2026-10-07T21:48:25+03:00"
+    }
+  }
+}
