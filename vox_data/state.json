@@ -583,7 +583,7 @@
       "changed": "2026-10-07T19:25:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "a67143d3f96181131ce5e06c7aaa64187b6340b1a8e8afc5b227e7216b383b74",
+      "hash": "2f19522512e91b2cf263e4c02bb91ee359c926b0d82b679ec5c049aa13a74b7c",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
@@ -591,7 +591,6 @@
         "coyote-vs-acme",
         "digger",
         "el-gawahergy-arabic",
-        "gator-face",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
         "khali-balak-min-nafsik-arabic",
@@ -602,11 +601,10 @@
         "sacrifice",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
-        "tad-and-the-magic-lamp",
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-07T19:22:12+03:00"
+      "changed": "2026-10-07T19:40:10+03:00"
     }
   }
 }
