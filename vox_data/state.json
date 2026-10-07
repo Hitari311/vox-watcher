@@ -553,7 +553,7 @@
       "changed": "2026-10-06T23:05:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "cf723c8c7a8afa1795746e7f80b2ff43f05acf87e55138a76a377d9cbbfbecfc",
+      "hash": "d04f41f10383937024fddbf0bfd9ac19f4737f5b6ff89beff2c3fd9ad36c82b8",
       "slugs": [
         "avengers-endgame-encore",
         "digger",
@@ -564,11 +564,10 @@
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic",
-        "spider-man-brand-new-day",
         "the-odyssey",
         "verity"
       ],
-      "changed": "2026-10-07T00:00:11+03:00"
+      "changed": "2026-10-07T14:50:10+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "deff3dfd7b7f88ad00f70bc3d4439821e3f91e05e58b2f1eb6c782c00015a0ef",
