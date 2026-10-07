@@ -25,7 +25,10 @@
       "first_seen": "2026-09-30T15:15:17+03:00",
       "seen_in": {
         "whatson": "2026-09-30T15:15:17+03:00",
-        "comingsoon": "2026-09-30T15:15:17+03:00"
+        "comingsoon": "2026-09-30T15:15:17+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T21:40:14+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:40:14+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:40:14+03:00"
       }
     },
     "bts-world-tour-arirang-in-s-o-paulo-live": {
@@ -33,7 +36,10 @@
       "first_seen": "2026-09-30T15:15:17+03:00",
       "seen_in": {
         "whatson": "2026-09-30T15:15:17+03:00",
-        "comingsoon": "2026-09-30T15:15:17+03:00"
+        "comingsoon": "2026-09-30T15:15:17+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T21:40:14+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:40:14+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:40:14+03:00"
       }
     },
     "cahim-2-turkish": {
@@ -271,7 +277,8 @@
       "first_seen": "2026-09-30T15:15:17+03:00",
       "seen_in": {
         "comingsoon": "2026-09-30T15:15:17+03:00",
-        "whatson": "2026-10-07T21:20:13+03:00"
+        "whatson": "2026-10-07T21:20:13+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T21:40:14+03:00"
       }
     },
     "avengers-doomsday": {
@@ -335,7 +342,10 @@
       "first_seen": "2026-09-30T15:15:17+03:00",
       "seen_in": {
         "comingsoon": "2026-09-30T15:15:17+03:00",
-        "whatson": "2026-10-06T23:40:12+03:00"
+        "whatson": "2026-10-06T23:40:12+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-07T21:40:14+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:40:14+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:40:14+03:00"
       }
     },
     "sense-and-sensibility": {
@@ -441,7 +451,8 @@
       "first_seen": "2026-10-01T12:20:13+03:00",
       "seen_in": {
         "comingsoon": "2026-10-01T12:20:13+03:00",
-        "whatson": "2026-10-06T23:40:12+03:00"
+        "whatson": "2026-10-06T23:40:12+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:40:14+03:00"
       }
     },
     "day-drinker": {
@@ -470,7 +481,9 @@
       "first_seen": "2026-10-06T10:30:13+03:00",
       "seen_in": {
         "comingsoon": "2026-10-06T10:30:13+03:00",
-        "whatson": "2026-10-06T23:40:12+03:00"
+        "whatson": "2026-10-06T23:40:12+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:40:14+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:40:14+03:00"
       }
     },
     "the-beast": {
@@ -478,13 +491,15 @@
       "first_seen": "2026-10-06T10:35:10+03:00",
       "seen_in": {
         "comingsoon": "2026-10-06T10:35:10+03:00",
-        "whatson": "2026-10-06T23:40:12+03:00"
+        "whatson": "2026-10-06T23:40:12+03:00",
+        "showtimes:city-centre-almaza": "2026-10-07T21:40:14+03:00",
+        "showtimes:mall-of-egypt": "2026-10-07T21:40:14+03:00"
       }
     }
   },
   "sources": {
     "whatson": {
-      "hash": "7764938aff076f7b4825b6943b4386d0aa90380b4403b03069a2a8abbe554629",
+      "hash": "6680f476b0e3828157c014ac30a4e8de6b04bb16fdfda75085c195b22b91e59a",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-endgame-encore",
@@ -496,7 +511,6 @@
         "digger",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
-        "khali-balak-min-nafsik-arabic",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
         "other-mommy",
@@ -511,7 +525,7 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-07T21:20:13+03:00"
+      "changed": "2026-10-07T21:40:14+03:00"
     },
     "comingsoon": {
       "hash": "7a2ee4019eea8a8ddd3d842e09eaacba7c433d1987a72870c467c71fec3019eb",
@@ -550,39 +564,55 @@
       "changed": "2026-10-07T18:05:13+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "2baa4cf3f4a0a85a3960653c0521be7cf3c26bf3f1c26e9d21591ecb98ede88c",
+      "hash": "2d776b138b85a9c0e693de24d6a0b78cd0d991638b6a5fe2ee719c0c4f611bb5",
       "slugs": [
+        "always-lalisa-english-korean-thai",
         "avengers-endgame-encore",
+        "bts-world-tour-arirang-in-buenos-aires-live",
+        "bts-world-tour-arirang-in-s-o-paulo-live",
+        "digger",
         "heart-of-the-beast",
         "matloub-3a2eleyain-arabic",
+        "other-mommy",
         "red-flag-arabic",
+        "resident-evil",
+        "shish-dou-arabic",
         "verity"
       ],
-      "changed": "2026-10-07T21:30:11+03:00"
+      "changed": "2026-10-07T21:40:14+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "85f906b8c950288bd41384eef46cf4aa3d453794c275c6e40a07162443e433d6",
+      "hash": "a93a5818cafbc68d56d390a59fa2bbd227bc69f5e146b0517326570d6d56bba0",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
+        "beware-boiuna",
+        "bts-world-tour-arirang-in-buenos-aires-live",
+        "bts-world-tour-arirang-in-s-o-paulo-live",
         "digger",
         "heart-of-the-beast",
         "insidious-out-of-the-further",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
+        "other-mommy",
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
+        "the-beast",
         "the-odyssey",
+        "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-07T20:50:12+03:00"
+      "changed": "2026-10-07T21:40:14+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "0ef5013815042f2cbd471645b465c3c29171c9497765d8e661e8ffaaac34eb61",
+      "hash": "144213ed98193afbbe4fc98832abf89f78292f3a5946303da60f1767b809a2db",
       "slugs": [
         "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
+        "beware-boiuna",
+        "bts-world-tour-arirang-in-buenos-aires-live",
+        "bts-world-tour-arirang-in-s-o-paulo-live",
         "cahim-2-turkish",
         "coyote-vs-acme",
         "digger",
@@ -591,15 +621,34 @@
         "khali-balak-min-nafsik-arabic",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
+        "other-mommy",
         "red-flag-arabic",
         "resident-evil",
         "sacrifice",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
+        "tad-and-the-magic-lamp",
+        "the-beast",
+        "the-florist",
+        "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-07T20:05:11+03:00"
+      "changed": "2026-10-07T21:40:14+03:00"
+    }
+  },
+  "schedule": {
+    "city-centre-alexandria": {
+      "last_date": "2026-10-20",
+      "checked": "2026-10-07T21:40:14+03:00"
+    },
+    "city-centre-almaza": {
+      "last_date": "2026-10-20",
+      "checked": "2026-10-07T21:40:14+03:00"
+    },
+    "mall-of-egypt": {
+      "last_date": "2026-10-20",
+      "checked": "2026-10-07T21:40:14+03:00"
     }
   }
 }
