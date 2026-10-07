@@ -550,16 +550,15 @@
       "changed": "2026-10-07T18:05:13+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "118803d1293501c28b7df1d40dfd9ce3e64516d4b3f443249f7a70c00a84636f",
+      "hash": "2baa4cf3f4a0a85a3960653c0521be7cf3c26bf3f1c26e9d21591ecb98ede88c",
       "slugs": [
         "avengers-endgame-encore",
         "heart-of-the-beast",
         "matloub-3a2eleyain-arabic",
         "red-flag-arabic",
-        "resident-evil",
         "verity"
       ],
-      "changed": "2026-10-07T21:00:11+03:00"
+      "changed": "2026-10-07T21:30:11+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "85f906b8c950288bd41384eef46cf4aa3d453794c275c6e40a07162443e433d6",
