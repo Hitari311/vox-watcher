@@ -422,12 +422,11 @@
       "changed": "2026-10-07T21:48:25+03:00"
     },
     "comingsoon": {
-      "hash": "7a2ee4019eea8a8ddd3d842e09eaacba7c433d1987a72870c467c71fec3019eb",
+      "hash": "c8e0938368d37df5e1ae69cc60ff508516fbaf9474ee0f9c9573523f74e984fd",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
-        "beware-boiuna",
         "bts-world-tour-arirang-in-buenos-aires-live",
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "children-of-blood-and-bone",
@@ -437,15 +436,11 @@
         "hexed",
         "hybe-cheering-party",
         "klara-and-the-sun",
-        "matloub-3a2eleyain-arabic",
-        "other-mommy",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
         "street-fighter",
-        "the-beast",
         "the-cat-in-the-hat",
         "the-dino-family",
-        "the-florist",
         "the-hunger-games-sunrise-on-the-reaping",
         "the-influencer-project",
         "the-mongoose",
@@ -455,7 +450,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-07T21:48:25+03:00"
+      "changed": "2026-10-07T23:00:16+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "b7cef499b863985029576e20b4150ffc8b77c23f282a1974b213132b577af19c",
@@ -523,15 +518,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-07T22:55:13+03:00"
+      "checked": "2026-10-07T23:00:16+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-07T22:55:13+03:00"
+      "checked": "2026-10-07T23:00:16+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-07T22:55:13+03:00"
+      "checked": "2026-10-07T23:00:16+03:00"
     }
   }
 }
