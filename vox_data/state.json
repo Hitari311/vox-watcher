@@ -6,7 +6,8 @@
       "seen_in": {
         "whatson": "2026-10-07T21:48:25+03:00",
         "comingsoon": "2026-10-07T21:48:25+03:00",
-        "showtimes:city-centre-alexandria": "2026-10-07T21:48:25+03:00"
+        "showtimes:city-centre-alexandria": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-08T16:50:12+03:00"
       }
     },
     "avengers-endgame-encore": {
@@ -490,8 +491,9 @@
       "changed": "2026-10-08T13:20:12+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "aaa6cc47a3c5fbb52cf9973616fc26d519acb8a8d05181c730727b21a808dcd2",
+      "hash": "2238630cee968b3ac04081bf1956052fa5fe076456b8828438362359487c19c2",
       "slugs": [
+        "always-lalisa-english-korean-thai",
         "avengers-endgame-encore-infinity-vision",
         "beware-boiuna",
         "digger",
@@ -511,21 +513,21 @@
         "the-smurfs-timeless-adventure-volume-2",
         "verity"
       ],
-      "changed": "2026-10-08T00:00:12+03:00"
+      "changed": "2026-10-08T16:50:12+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-08T16:45:10+03:00"
+      "checked": "2026-10-08T16:50:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-08T16:45:10+03:00"
+      "checked": "2026-10-08T16:50:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-08T16:45:10+03:00"
+      "checked": "2026-10-08T16:50:12+03:00"
     }
   }
 }
