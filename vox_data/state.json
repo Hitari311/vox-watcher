@@ -453,7 +453,7 @@
       "changed": "2026-10-07T23:00:16+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "b7cef499b863985029576e20b4150ffc8b77c23f282a1974b213132b577af19c",
+      "hash": "8b7c3484b18bea7b38b9c770a7671a1047681208752384f85e1c5e27625bc95c",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-endgame-encore",
@@ -461,11 +461,12 @@
         "heart-of-the-beast",
         "matloub-3a2eleyain-arabic",
         "other-mommy",
+        "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic",
         "verity"
       ],
-      "changed": "2026-10-07T22:45:11+03:00"
+      "changed": "2026-10-08T11:20:13+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "987d33c11a9e4daac525bef95a5b3af626d576ddfef16868ec6f0eb3474ecc6d",
@@ -517,15 +518,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-08T11:15:10+03:00"
+      "checked": "2026-10-08T11:20:13+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-08T11:15:10+03:00"
+      "checked": "2026-10-08T11:20:13+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-08T11:15:10+03:00"
+      "checked": "2026-10-08T11:20:13+03:00"
     }
   }
 }
