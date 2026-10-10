@@ -398,6 +398,48 @@
       "seen_in": {
         "comingsoon": "2026-10-09T07:35:13+03:00"
       }
+    },
+    "siff-2026-born-in-the-jungle": {
+      "title": "SIFF 2026: Born In The Jungle",
+      "first_seen": "2026-10-10T20:20:09+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-10T20:20:09+03:00"
+      }
+    },
+    "siff-2026-early-grades-shorts-group-1": {
+      "title": "SIFF 2026: Early Grades Shorts (Group 1)",
+      "first_seen": "2026-10-10T20:20:09+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-10T20:20:09+03:00"
+      }
+    },
+    "siff-2026-early-grades-shorts-group-2": {
+      "title": "SIFF 2026: Early Grades Shorts (Group 2)",
+      "first_seen": "2026-10-10T20:20:09+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-10T20:20:09+03:00"
+      }
+    },
+    "siff-2026-early-grades-shorts-group-3": {
+      "title": "SIFF 2026: Early Grades Shorts (Group 3)",
+      "first_seen": "2026-10-10T20:20:09+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-10T20:20:09+03:00"
+      }
+    },
+    "siff-2026-mumbo-jumbo": {
+      "title": "SIFF 2026: Mumbo Jumbo",
+      "first_seen": "2026-10-10T20:20:09+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-10T20:20:09+03:00"
+      }
+    },
+    "siff-2026-special-screening": {
+      "title": "SIFF 2026: Special Screening",
+      "first_seen": "2026-10-10T20:20:09+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-10T20:20:09+03:00"
+      }
     }
   },
   "sources": {
@@ -430,7 +472,7 @@
       "changed": "2026-10-07T23:30:11+03:00"
     },
     "comingsoon": {
-      "hash": "0fa0e1ed8f26bd38ccd3ad91e6a1c5afe994f87d9862d629062fb86fc69b86cc",
+      "hash": "cc83d72912e3b68faa32ef503764c1d2d771d2a2fa08e2f46d44335d7315dc0c",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-doomsday",
@@ -447,6 +489,12 @@
         "league-of-legends-worlds26-finals-in-cinemas",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
+        "siff-2026-born-in-the-jungle",
+        "siff-2026-early-grades-shorts-group-1",
+        "siff-2026-early-grades-shorts-group-2",
+        "siff-2026-early-grades-shorts-group-3",
+        "siff-2026-mumbo-jumbo",
+        "siff-2026-special-screening",
         "street-fighter",
         "the-cat-in-the-hat",
         "the-dino-family",
@@ -459,7 +507,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-09T07:35:13+03:00"
+      "changed": "2026-10-10T20:20:09+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "8b7c3484b18bea7b38b9c770a7671a1047681208752384f85e1c5e27625bc95c",
@@ -528,15 +576,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-10T20:15:10+03:00"
+      "checked": "2026-10-10T20:20:09+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-10T20:15:10+03:00"
+      "checked": "2026-10-10T20:20:09+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-10T20:15:10+03:00"
+      "checked": "2026-10-10T20:20:09+03:00"
     }
   }
 }
