@@ -441,6 +441,13 @@
       "seen_in": {
         "comingsoon": "2026-10-10T20:20:09+03:00"
       }
+    },
+    "godzilla-minus-zero-preview-screening-japanese": {
+      "title": "Godzilla Minus Zero - Preview Screening",
+      "first_seen": "2026-10-12T23:20:09+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-12T23:20:09+03:00"
+      }
     }
   },
   "sources": {
@@ -473,7 +480,7 @@
       "changed": "2026-10-07T23:30:11+03:00"
     },
     "comingsoon": {
-      "hash": "61a3d57bcead00c20a43ab23eff84f64c59403d606cd0b6693c447ff5e0e6ba5",
+      "hash": "409e032a0a7c093072c01cafe678f1c968758e158778ef9f38d57f4516bf01e6",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -483,6 +490,7 @@
         "day-drinker",
         "enhypen-world-tour-blood-saga",
         "godzilla-minus-zero-japanese",
+        "godzilla-minus-zero-preview-screening-japanese",
         "hexed",
         "hybe-cheering-party",
         "klara-and-the-sun",
@@ -501,7 +509,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-12T07:35:10+03:00"
+      "changed": "2026-10-12T23:20:09+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "8b7c3484b18bea7b38b9c770a7671a1047681208752384f85e1c5e27625bc95c",
@@ -571,15 +579,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-12T23:15:11+03:00"
+      "checked": "2026-10-12T23:20:09+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-12T23:15:11+03:00"
+      "checked": "2026-10-12T23:20:09+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-12T23:15:11+03:00"
+      "checked": "2026-10-12T23:20:09+03:00"
     }
   }
 }
