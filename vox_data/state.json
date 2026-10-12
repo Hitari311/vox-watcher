@@ -472,7 +472,7 @@
       "changed": "2026-10-07T23:30:11+03:00"
     },
     "comingsoon": {
-      "hash": "b45fb1655f06acbd4963769ddcf9dea4ef6eeeefc6df84b12e517df93a24de0a",
+      "hash": "61a3d57bcead00c20a43ab23eff84f64c59403d606cd0b6693c447ff5e0e6ba5",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -488,12 +488,6 @@
         "league-of-legends-worlds26-finals-in-cinemas",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
-        "siff-2026-born-in-the-jungle",
-        "siff-2026-early-grades-shorts-group-1",
-        "siff-2026-early-grades-shorts-group-2",
-        "siff-2026-early-grades-shorts-group-3",
-        "siff-2026-mumbo-jumbo",
-        "siff-2026-special-screening",
         "street-fighter",
         "the-cat-in-the-hat",
         "the-dino-family",
@@ -506,7 +500,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-11T23:05:10+03:00"
+      "changed": "2026-10-12T07:35:10+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "8b7c3484b18bea7b38b9c770a7671a1047681208752384f85e1c5e27625bc95c",
@@ -575,15 +569,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-12T07:30:11+03:00"
+      "checked": "2026-10-12T07:35:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-12T07:30:11+03:00"
+      "checked": "2026-10-12T07:35:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-12T07:30:11+03:00"
+      "checked": "2026-10-12T07:35:10+03:00"
     }
   }
 }
