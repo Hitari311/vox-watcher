@@ -299,7 +299,8 @@
       "title": "Street Fighter",
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-07T21:48:25+03:00"
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-13T13:05:11+03:00"
       }
     },
     "the-cat-in-the-hat": {
@@ -362,7 +363,8 @@
       "title": "Whalefall",
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-07T21:48:25+03:00"
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-10-13T13:05:11+03:00"
       }
     },
     "wildwood": {
@@ -447,6 +449,13 @@
       "first_seen": "2026-10-12T23:20:09+03:00",
       "seen_in": {
         "comingsoon": "2026-10-12T23:20:09+03:00"
+      }
+    },
+    "the-magic-faraway-tree": {
+      "title": "The Magic Faraway Tree",
+      "first_seen": "2026-10-13T13:05:11+03:00",
+      "seen_in": {
+        "showtimes:mall-of-egypt": "2026-10-13T13:05:11+03:00"
       }
     }
   },
@@ -551,7 +560,7 @@
       "changed": "2026-10-12T19:45:12+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "2238630cee968b3ac04081bf1956052fa5fe076456b8828438362359487c19c2",
+      "hash": "160b87aa402b8db099e99dc4cdde57547f8ed2dce8fab45bf2bb09a207788527",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-endgame-encore-infinity-vision",
@@ -566,28 +575,31 @@
         "resident-evil",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
+        "street-fighter",
         "tad-and-the-magic-lamp",
         "the-beast",
         "the-florist",
+        "the-magic-faraway-tree",
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
-        "verity"
+        "verity",
+        "whalefall"
       ],
-      "changed": "2026-10-08T16:50:12+03:00"
+      "changed": "2026-10-13T13:05:11+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-13T13:00:10+03:00"
+      "checked": "2026-10-13T13:05:11+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-13T13:00:10+03:00"
+      "checked": "2026-10-13T13:05:11+03:00"
     },
     "mall-of-egypt": {
-      "last_date": "2026-10-14",
-      "checked": "2026-10-13T13:00:10+03:00"
+      "last_date": "2026-10-19",
+      "checked": "2026-10-13T13:05:11+03:00"
     }
   }
 }
