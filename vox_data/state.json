@@ -496,7 +496,7 @@
       "changed": "2026-10-13T13:15:09+03:00"
     },
     "comingsoon": {
-      "hash": "2383889a23cf6e1ea4a30ceecf4edbf943091c1e4ffa10784a1ccd9cfc9109c1",
+      "hash": "09360e91d0c62f56eb37982c720ecdc41b3edfa962767fd9fe750b02633f6057",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -509,7 +509,6 @@
         "godzilla-minus-zero-preview-screening-japanese",
         "hexed",
         "hybe-cheering-party",
-        "klara-and-the-sun",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
         "street-fighter",
@@ -525,7 +524,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-14T11:20:09+03:00"
+      "changed": "2026-10-14T14:20:12+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "532e8f5070310394e7bffa16976915061b45ce78ad577e8389ca9f51de46a064",
@@ -595,15 +594,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-14T14:15:11+03:00"
+      "checked": "2026-10-14T14:20:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-14T14:15:11+03:00"
+      "checked": "2026-10-14T14:20:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-21",
-      "checked": "2026-10-14T14:15:11+03:00"
+      "checked": "2026-10-14T14:20:12+03:00"
     }
   }
 }
