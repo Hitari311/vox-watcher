@@ -357,7 +357,9 @@
       "title": "Wala Kan Ala El-Bal",
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-07T21:48:25+03:00"
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "whatson": "2026-10-14T15:15:10+03:00",
+        "showtimes:mall-of-egypt": "2026-10-14T15:15:10+03:00"
       }
     },
     "whalefall": {
@@ -465,7 +467,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "5959af5c80efc0395d8224dbc74f92e0230b7bbff6abef2af091cf622256917b",
+      "hash": "f1220b6fb45b8c3ab4584d020969e3a44727f0ade5572132b29302ed9b342e5d",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-endgame-encore",
@@ -491,9 +493,10 @@
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
         "verity",
+        "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-13T13:15:09+03:00"
+      "changed": "2026-10-14T15:15:10+03:00"
     },
     "comingsoon": {
       "hash": "09360e91d0c62f56eb37982c720ecdc41b3edfa962767fd9fe750b02633f6057",
@@ -563,7 +566,7 @@
       "changed": "2026-10-14T13:25:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "160b87aa402b8db099e99dc4cdde57547f8ed2dce8fab45bf2bb09a207788527",
+      "hash": "f9810af8368598f4f9826bcfc24d60a17658556dcb759d7ce085c19c1d13a749",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-endgame-encore-infinity-vision",
@@ -586,23 +589,24 @@
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
         "verity",
+        "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-13T13:05:11+03:00"
+      "changed": "2026-10-14T15:15:10+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-14T15:10:10+03:00"
+      "checked": "2026-10-14T15:15:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-14T15:10:10+03:00"
+      "checked": "2026-10-14T15:15:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-21",
-      "checked": "2026-10-14T15:10:10+03:00"
+      "checked": "2026-10-14T15:15:10+03:00"
     }
   }
 }
