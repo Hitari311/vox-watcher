@@ -544,11 +544,10 @@
       "changed": "2026-10-14T21:00:11+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "67eafe6e2de2622229cb43ff9823665c24d794787620a862f1ebadda6bcc6385",
+      "hash": "e39a71eb6e90208fe13dfa4b7b306c2e171714cbb1992f42cd556969102893c4",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-endgame-encore-infinity-vision",
-        "beware-boiuna",
         "bts-world-tour-arirang-in-buenos-aires-live",
         "digger",
         "heart-of-the-beast",
@@ -566,7 +565,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-14T21:50:15+03:00"
+      "changed": "2026-10-14T21:55:11+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "8a79867e4c0613cc331e0961971ac33654c1de9242a6760869440cc37ec611b1",
@@ -600,15 +599,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-14T21:50:15+03:00"
+      "checked": "2026-10-14T21:55:11+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-14T21:50:15+03:00"
+      "checked": "2026-10-14T21:55:11+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-14T21:50:15+03:00"
+      "checked": "2026-10-14T21:55:11+03:00"
     }
   }
 }
