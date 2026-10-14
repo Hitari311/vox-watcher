@@ -469,7 +469,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "004c6948c3858a839255d8c435a0f295ece1363622aba59082433278eb290f37",
+      "hash": "140f7f3c1af60f87af7df2db312494d3015dbe7447685159e03963b578263d00",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-endgame-encore-infinity-vision",
@@ -488,7 +488,6 @@
         "spider-man-brand-new-day",
         "street-fighter",
         "tad-and-the-magic-lamp",
-        "the-beast",
         "the-magic-faraway-tree",
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
@@ -496,7 +495,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-14T17:45:19+03:00"
+      "changed": "2026-10-14T20:40:13+03:00"
     },
     "comingsoon": {
       "hash": "09360e91d0c62f56eb37982c720ecdc41b3edfa962767fd9fe750b02633f6057",
@@ -596,15 +595,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-14T20:35:13+03:00"
+      "checked": "2026-10-14T20:40:13+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-15",
-      "checked": "2026-10-14T20:35:13+03:00"
+      "checked": "2026-10-14T20:40:13+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-14T20:35:13+03:00"
+      "checked": "2026-10-14T20:40:13+03:00"
     }
   }
 }
