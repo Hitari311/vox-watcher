@@ -373,7 +373,8 @@
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "showtimes:mall-of-egypt": "2026-10-13T13:05:11+03:00",
         "whatson": "2026-10-13T13:15:09+03:00",
-        "showtimes:city-centre-almaza": "2026-10-14T20:30:11+03:00"
+        "showtimes:city-centre-almaza": "2026-10-14T20:30:11+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-15T00:55:12+03:00"
       }
     },
     "wildwood": {
@@ -528,11 +529,17 @@
       "changed": "2026-10-14T23:00:15+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "dc00a2e1221b3395ea37b71fb9985fb5b773c17847cb701131234faca467e429",
+      "hash": "96443e0c48aa639e6944f497e30f8ec6509ff27b1a956588a89520c687fe4e7a",
       "slugs": [
-        "always-lalisa-english-korean-thai"
+        "always-lalisa-english-korean-thai",
+        "heart-of-the-beast",
+        "matloub-3a2eleyain-arabic",
+        "other-mommy",
+        "resident-evil",
+        "verity",
+        "whalefall"
       ],
-      "changed": "2026-10-15T00:00:12+03:00"
+      "changed": "2026-10-15T00:55:12+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "e39a71eb6e90208fe13dfa4b7b306c2e171714cbb1992f42cd556969102893c4",
@@ -588,16 +595,16 @@
   },
   "schedule": {
     "city-centre-alexandria": {
-      "last_date": "2026-10-17",
-      "checked": "2026-10-15T00:50:13+03:00"
+      "last_date": "2026-10-19",
+      "checked": "2026-10-15T00:55:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-15T00:50:13+03:00"
+      "checked": "2026-10-15T00:55:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-15T00:50:13+03:00"
+      "checked": "2026-10-15T00:55:12+03:00"
     }
   }
 }
