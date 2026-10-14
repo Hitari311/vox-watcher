@@ -501,7 +501,7 @@
       "changed": "2026-10-14T20:40:13+03:00"
     },
     "comingsoon": {
-      "hash": "09360e91d0c62f56eb37982c720ecdc41b3edfa962767fd9fe750b02633f6057",
+      "hash": "5ac9cddc5ecf7c6a3e9ae27ad0468788b9947b29f2d5db7139009b918e8ba62d",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -516,31 +516,27 @@
         "hybe-cheering-party",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
-        "street-fighter",
         "the-cat-in-the-hat",
         "the-dino-family",
         "the-hunger-games-sunrise-on-the-reaping",
         "the-influencer-project",
-        "the-magic-faraway-tree",
         "the-mongoose",
         "tomorrow-x-together-world-tour-act-tomorrow",
         "violent-night-2",
         "wala-kan-ala-el-bal-arabic",
-        "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-14T14:20:12+03:00"
+      "changed": "2026-10-14T23:00:15+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "8d71dad2c69847037a4be3f7ef6254348a1b4067d80c19d4b16bfecf043628b3",
+      "hash": "e513e966fc9a1835bfa7ff478572f864a35a9c13bad20bcb283d89883e20cfe1",
       "slugs": [
         "matloub-3a2eleyain-arabic",
         "other-mommy",
         "resident-evil",
-        "shish-dou-arabic",
-        "verity"
+        "shish-dou-arabic"
       ],
-      "changed": "2026-10-14T22:45:12+03:00"
+      "changed": "2026-10-14T23:00:15+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "e39a71eb6e90208fe13dfa4b7b306c2e171714cbb1992f42cd556969102893c4",
@@ -598,15 +594,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-14T22:55:13+03:00"
+      "checked": "2026-10-14T23:00:15+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-14T22:55:13+03:00"
+      "checked": "2026-10-14T23:00:15+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-14T22:55:13+03:00"
+      "checked": "2026-10-14T23:00:15+03:00"
     }
   }
 }
