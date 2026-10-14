@@ -532,16 +532,15 @@
       "changed": "2026-10-14T14:20:12+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "083f030d997ba00a8128eac4644ebf3e4619c3fb8518611902d0b210131b987f",
+      "hash": "8d71dad2c69847037a4be3f7ef6254348a1b4067d80c19d4b16bfecf043628b3",
       "slugs": [
         "matloub-3a2eleyain-arabic",
         "other-mommy",
-        "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic",
         "verity"
       ],
-      "changed": "2026-10-14T21:00:11+03:00"
+      "changed": "2026-10-14T22:45:12+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "e39a71eb6e90208fe13dfa4b7b306c2e171714cbb1992f42cd556969102893c4",
@@ -599,15 +598,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-14T22:40:11+03:00"
+      "checked": "2026-10-14T22:45:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-14T22:40:11+03:00"
+      "checked": "2026-10-14T22:45:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-14T22:40:11+03:00"
+      "checked": "2026-10-14T22:45:12+03:00"
     }
   }
 }
