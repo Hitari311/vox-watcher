@@ -472,11 +472,10 @@
   },
   "sources": {
     "whatson": {
-      "hash": "140f7f3c1af60f87af7df2db312494d3015dbe7447685159e03963b578263d00",
+      "hash": "2e7efd06cbf95102ad9d359e05f9d4f922ea86cae7b37f4c9985eb7bfc07615f",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "avengers-endgame-encore-infinity-vision",
-        "beware-boiuna",
         "bts-world-tour-arirang-in-buenos-aires-live",
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "digger",
@@ -498,7 +497,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-14T20:40:13+03:00"
+      "changed": "2026-10-14T23:15:12+03:00"
     },
     "comingsoon": {
       "hash": "5ac9cddc5ecf7c6a3e9ae27ad0468788b9947b29f2d5db7139009b918e8ba62d",
@@ -529,14 +528,13 @@
       "changed": "2026-10-14T23:00:15+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "e513e966fc9a1835bfa7ff478572f864a35a9c13bad20bcb283d89883e20cfe1",
+      "hash": "aa6010c08c8738850521b617dc2d2477b71de8f026eb817840139f0f796dbe34",
       "slugs": [
         "matloub-3a2eleyain-arabic",
         "other-mommy",
-        "resident-evil",
-        "shish-dou-arabic"
+        "resident-evil"
       ],
-      "changed": "2026-10-14T23:00:15+03:00"
+      "changed": "2026-10-14T23:15:12+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "e39a71eb6e90208fe13dfa4b7b306c2e171714cbb1992f42cd556969102893c4",
@@ -594,15 +592,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-14T23:10:14+03:00"
+      "checked": "2026-10-14T23:15:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-14T23:10:14+03:00"
+      "checked": "2026-10-14T23:15:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-14T23:10:14+03:00"
+      "checked": "2026-10-14T23:15:12+03:00"
     }
   }
 }
