@@ -467,10 +467,9 @@
   },
   "sources": {
     "whatson": {
-      "hash": "f1220b6fb45b8c3ab4584d020969e3a44727f0ade5572132b29302ed9b342e5d",
+      "hash": "82949fcdc0050529d7983916cb1776f8f907aa2e223edeb7a1a73db461712ec0",
       "slugs": [
         "always-lalisa-english-korean-thai",
-        "avengers-endgame-encore",
         "avengers-endgame-encore-infinity-vision",
         "beware-boiuna",
         "bts-world-tour-arirang-in-buenos-aires-live",
@@ -496,7 +495,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-14T15:15:10+03:00"
+      "changed": "2026-10-14T15:45:13+03:00"
     },
     "comingsoon": {
       "hash": "09360e91d0c62f56eb37982c720ecdc41b3edfa962767fd9fe750b02633f6057",
@@ -598,15 +597,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-14T15:40:10+03:00"
+      "checked": "2026-10-14T15:45:13+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-14T15:40:10+03:00"
+      "checked": "2026-10-14T15:45:13+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-21",
-      "checked": "2026-10-14T15:40:10+03:00"
+      "checked": "2026-10-14T15:45:13+03:00"
     }
   }
 }
