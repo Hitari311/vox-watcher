@@ -369,7 +369,8 @@
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "showtimes:mall-of-egypt": "2026-10-13T13:05:11+03:00",
-        "whatson": "2026-10-13T13:15:09+03:00"
+        "whatson": "2026-10-13T13:15:09+03:00",
+        "showtimes:city-centre-almaza": "2026-10-14T20:30:11+03:00"
       }
     },
     "wildwood": {
@@ -542,8 +543,9 @@
       "changed": "2026-10-14T19:00:15+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "323a93fe0599c0b1cb69e7057f417ec460552d3195fcf8022d6598c51558d031",
+      "hash": "2be7bdf6a7758f4d55369849c9bb3a49c898b0583f430fb0918d911e502e6e6a",
       "slugs": [
+        "avengers-endgame-encore-infinity-vision",
         "beware-boiuna",
         "digger",
         "heart-of-the-beast",
@@ -556,9 +558,10 @@
         "spider-man-brand-new-day",
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
-        "verity"
+        "verity",
+        "whalefall"
       ],
-      "changed": "2026-10-14T19:30:15+03:00"
+      "changed": "2026-10-14T20:30:11+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "935901f20c21650d5bec76ba33f3d367ac2d858bf76d99fcb62cb3392803931e",
@@ -593,15 +596,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-14T20:25:28+03:00"
+      "checked": "2026-10-14T20:30:11+03:00"
     },
     "city-centre-almaza": {
-      "last_date": "2026-10-14",
-      "checked": "2026-10-14T20:25:28+03:00"
+      "last_date": "2026-10-15",
+      "checked": "2026-10-14T20:30:11+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-14T20:25:28+03:00"
+      "checked": "2026-10-14T20:30:11+03:00"
     }
   }
 }
