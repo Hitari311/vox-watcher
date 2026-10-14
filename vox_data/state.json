@@ -46,7 +46,8 @@
       "seen_in": {
         "whatson": "2026-10-07T21:48:25+03:00",
         "comingsoon": "2026-10-07T21:48:25+03:00",
-        "showtimes:mall-of-egypt": "2026-10-14T16:10:13+03:00"
+        "showtimes:mall-of-egypt": "2026-10-14T16:10:13+03:00",
+        "showtimes:city-centre-almaza": "2026-10-14T21:05:09+03:00"
       }
     },
     "bts-world-tour-arirang-in-s-o-paulo-live": {
@@ -302,7 +303,8 @@
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "showtimes:mall-of-egypt": "2026-10-13T13:05:11+03:00",
-        "whatson": "2026-10-13T13:15:09+03:00"
+        "whatson": "2026-10-13T13:15:09+03:00",
+        "showtimes:city-centre-almaza": "2026-10-14T21:05:09+03:00"
       }
     },
     "the-cat-in-the-hat": {
@@ -360,7 +362,8 @@
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "whatson": "2026-10-14T15:15:10+03:00",
-        "showtimes:mall-of-egypt": "2026-10-14T15:15:10+03:00"
+        "showtimes:mall-of-egypt": "2026-10-14T15:15:10+03:00",
+        "showtimes:city-centre-almaza": "2026-10-14T21:05:09+03:00"
       }
     },
     "whalefall": {
@@ -541,10 +544,12 @@
       "changed": "2026-10-14T21:00:11+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "2be7bdf6a7758f4d55369849c9bb3a49c898b0583f430fb0918d911e502e6e6a",
+      "hash": "67eafe6e2de2622229cb43ff9823665c24d794787620a862f1ebadda6bcc6385",
       "slugs": [
+        "always-lalisa-english-korean-thai",
         "avengers-endgame-encore-infinity-vision",
         "beware-boiuna",
+        "bts-world-tour-arirang-in-buenos-aires-live",
         "digger",
         "heart-of-the-beast",
         "mahmoud-el-tany-arabic",
@@ -554,12 +559,14 @@
         "resident-evil",
         "shish-dou-arabic",
         "spider-man-brand-new-day",
+        "street-fighter",
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
         "verity",
+        "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-14T20:30:11+03:00"
+      "changed": "2026-10-14T21:05:09+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "935901f20c21650d5bec76ba33f3d367ac2d858bf76d99fcb62cb3392803931e",
@@ -594,15 +601,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-14",
-      "checked": "2026-10-14T21:00:11+03:00"
+      "checked": "2026-10-14T21:05:09+03:00"
     },
     "city-centre-almaza": {
-      "last_date": "2026-10-15",
-      "checked": "2026-10-14T21:00:11+03:00"
+      "last_date": "2026-10-27",
+      "checked": "2026-10-14T21:05:09+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-14T21:00:11+03:00"
+      "checked": "2026-10-14T21:05:09+03:00"
     }
   }
 }
