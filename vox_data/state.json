@@ -470,6 +470,13 @@
         "whatson": "2026-10-13T13:15:09+03:00",
         "comingsoon": "2026-10-14T10:35:10+03:00"
       }
+    },
+    "narnia-the-magicians-nephew": {
+      "title": "Narnia: The Magician's Nephew",
+      "first_seen": "2026-10-15T12:50:10+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-15T12:50:10+03:00"
+      }
     }
   },
   "sources": {
@@ -502,7 +509,7 @@
       "changed": "2026-10-14T23:15:12+03:00"
     },
     "comingsoon": {
-      "hash": "5ac9cddc5ecf7c6a3e9ae27ad0468788b9947b29f2d5db7139009b918e8ba62d",
+      "hash": "365670e5883cdb6717d07b642eb5e6700f10ff92ffe3164558524476ff467621",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -515,6 +522,7 @@
         "godzilla-minus-zero-preview-screening-japanese",
         "hexed",
         "hybe-cheering-party",
+        "narnia-the-magicians-nephew",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
         "the-cat-in-the-hat",
@@ -527,7 +535,7 @@
         "wala-kan-ala-el-bal-arabic",
         "wildwood"
       ],
-      "changed": "2026-10-14T23:00:15+03:00"
+      "changed": "2026-10-15T12:50:10+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "7bc3ce5a4de4f0d50ad45fbb39dfc0ee3514ee9b73eef13b204d1b7bd045daa6",
@@ -599,15 +607,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-19",
-      "checked": "2026-10-15T12:45:10+03:00"
+      "checked": "2026-10-15T12:50:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-15T12:45:10+03:00"
+      "checked": "2026-10-15T12:50:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-15T12:45:10+03:00"
+      "checked": "2026-10-15T12:50:10+03:00"
     }
   }
 }
