@@ -484,6 +484,13 @@
       "seen_in": {
         "comingsoon": "2026-10-15T13:35:12+03:00"
       }
+    },
+    "naseeb-arabic": {
+      "title": "Naseeb",
+      "first_seen": "2026-10-15T14:20:12+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-15T14:20:12+03:00"
+      }
     }
   },
   "sources": {
@@ -516,7 +523,7 @@
       "changed": "2026-10-14T23:15:12+03:00"
     },
     "comingsoon": {
-      "hash": "f663ae17a9c53254e52134fc426d7eee2cfddd78f939b7f804d2ec6546450382",
+      "hash": "379fce1010165f7baff5568ca895d53d1aac6322ffae1decb99748d405c4fba2",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -531,6 +538,7 @@
         "hexed",
         "hybe-cheering-party",
         "narnia-the-magicians-nephew",
+        "naseeb-arabic",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
         "the-cat-in-the-hat",
@@ -543,7 +551,7 @@
         "wala-kan-ala-el-bal-arabic",
         "wildwood"
       ],
-      "changed": "2026-10-15T13:35:12+03:00"
+      "changed": "2026-10-15T14:20:12+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "7bc3ce5a4de4f0d50ad45fbb39dfc0ee3514ee9b73eef13b204d1b7bd045daa6",
@@ -615,15 +623,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-19",
-      "checked": "2026-10-15T14:15:10+03:00"
+      "checked": "2026-10-15T14:20:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-15T14:15:10+03:00"
+      "checked": "2026-10-15T14:20:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-15T14:15:10+03:00"
+      "checked": "2026-10-15T14:20:12+03:00"
     }
   }
 }
