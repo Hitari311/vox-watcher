@@ -571,9 +571,8 @@
       "changed": "2026-10-17T11:20:09+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "ebb9d3cb7ecfc9db0fd8d28233a0489feaad5bc5c3758b49cc6c72301ae5e8af",
+      "hash": "8987454aa2ae045e5c958f3ca7983a6c5439209c3b98166da2a0d2fc65d031a4",
       "slugs": [
-        "always-lalisa-english-korean-thai",
         "heart-of-the-beast",
         "matloub-3a2eleyain-arabic",
         "other-mommy",
@@ -584,7 +583,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-17T12:50:08+03:00"
+      "changed": "2026-10-17T18:20:11+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "04d56035516d90f508dddbf95a43c9e0888064b6cb8d1d56c725f287fd0b120d",
@@ -611,9 +610,8 @@
       "changed": "2026-10-17T16:15:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "4cef798e350c44a3399f3838cabcd92f55de54b83188c0a9766a26a24f2b8616",
+      "hash": "50286b2513652f61a4cde6427f17a04ab37914f434a24f7e5186e817d1fff64b",
       "slugs": [
-        "always-lalisa-english-korean-thai",
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-buenos-aires-live",
         "digger",
@@ -635,21 +633,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-15T00:00:12+03:00"
+      "changed": "2026-10-17T18:20:11+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-21",
-      "checked": "2026-10-17T18:15:09+03:00"
+      "checked": "2026-10-17T18:20:11+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-17T18:15:09+03:00"
+      "checked": "2026-10-17T18:20:11+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-17T18:15:09+03:00"
+      "checked": "2026-10-17T18:20:11+03:00"
     }
   }
 }
