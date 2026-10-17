@@ -588,9 +588,8 @@
       "changed": "2026-10-17T12:50:08+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "2485bf5baebb20e5df7d50e3e067330849515375fbe09609d91877e082fa0d38",
+      "hash": "04d56035516d90f508dddbf95a43c9e0888064b6cb8d1d56c725f287fd0b120d",
       "slugs": [
-        "always-lalisa-english-korean-thai",
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-buenos-aires-live",
         "digger",
@@ -610,7 +609,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-15T15:15:13+03:00"
+      "changed": "2026-10-17T16:15:10+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "4cef798e350c44a3399f3838cabcd92f55de54b83188c0a9766a26a24f2b8616",
@@ -643,15 +642,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-21",
-      "checked": "2026-10-17T16:10:10+03:00"
+      "checked": "2026-10-17T16:15:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-17T16:10:10+03:00"
+      "checked": "2026-10-17T16:15:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-17T16:10:10+03:00"
+      "checked": "2026-10-17T16:15:10+03:00"
     }
   }
 }
