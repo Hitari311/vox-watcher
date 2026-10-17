@@ -364,7 +364,8 @@
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "whatson": "2026-10-14T15:15:10+03:00",
         "showtimes:mall-of-egypt": "2026-10-14T15:15:10+03:00",
-        "showtimes:city-centre-almaza": "2026-10-14T21:05:09+03:00"
+        "showtimes:city-centre-almaza": "2026-10-14T21:05:09+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-17T12:50:08+03:00"
       }
     },
     "whalefall": {
@@ -571,7 +572,7 @@
       "changed": "2026-10-17T11:20:09+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "7bc3ce5a4de4f0d50ad45fbb39dfc0ee3514ee9b73eef13b204d1b7bd045daa6",
+      "hash": "ebb9d3cb7ecfc9db0fd8d28233a0489feaad5bc5c3758b49cc6c72301ae5e8af",
       "slugs": [
         "always-lalisa-english-korean-thai",
         "heart-of-the-beast",
@@ -581,9 +582,10 @@
         "resident-evil",
         "street-fighter",
         "verity",
+        "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-15T01:55:10+03:00"
+      "changed": "2026-10-17T12:50:08+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "2485bf5baebb20e5df7d50e3e067330849515375fbe09609d91877e082fa0d38",
@@ -640,16 +642,16 @@
   },
   "schedule": {
     "city-centre-alexandria": {
-      "last_date": "2026-10-19",
-      "checked": "2026-10-17T12:45:15+03:00"
+      "last_date": "2026-10-21",
+      "checked": "2026-10-17T12:50:08+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-17T12:45:15+03:00"
+      "checked": "2026-10-17T12:50:08+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-17T12:45:15+03:00"
+      "checked": "2026-10-17T12:50:08+03:00"
     }
   }
 }
