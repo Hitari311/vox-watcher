@@ -492,6 +492,20 @@
       "seen_in": {
         "comingsoon": "2026-10-15T14:20:12+03:00"
       }
+    },
+    "bts-world-tour-arirang-in-buenos-aires-delayed": {
+      "title": "BTS WORLD TOUR 'ARIRANG' IN BUENOS AIRES: DELAYED",
+      "first_seen": "2026-10-17T11:20:09+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-17T11:20:09+03:00"
+      }
+    },
+    "bts-world-tour-arirang-in-s-o-paulo-delayed": {
+      "title": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: DELAYED",
+      "first_seen": "2026-10-17T11:20:09+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-17T11:20:09+03:00"
+      }
     }
   },
   "sources": {
@@ -524,11 +538,13 @@
       "changed": "2026-10-14T23:15:12+03:00"
     },
     "comingsoon": {
-      "hash": "379fce1010165f7baff5568ca895d53d1aac6322ffae1decb99748d405c4fba2",
+      "hash": "b7b26379df69e00f3e2b87e7594c181fa8a7e3900e6aedbb698799211542010f",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
+        "bts-world-tour-arirang-in-buenos-aires-delayed",
         "bts-world-tour-arirang-in-buenos-aires-live",
+        "bts-world-tour-arirang-in-s-o-paulo-delayed",
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "children-of-blood-and-bone",
         "day-drinker",
@@ -552,7 +568,7 @@
         "wala-kan-ala-el-bal-arabic",
         "wildwood"
       ],
-      "changed": "2026-10-15T14:20:12+03:00"
+      "changed": "2026-10-17T11:20:09+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "7bc3ce5a4de4f0d50ad45fbb39dfc0ee3514ee9b73eef13b204d1b7bd045daa6",
@@ -625,15 +641,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-19",
-      "checked": "2026-10-17T11:15:09+03:00"
+      "checked": "2026-10-17T11:20:09+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-17T11:15:09+03:00"
+      "checked": "2026-10-17T11:20:09+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-17T11:15:09+03:00"
+      "checked": "2026-10-17T11:20:09+03:00"
     }
   }
 }
