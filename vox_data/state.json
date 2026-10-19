@@ -507,6 +507,13 @@
       "seen_in": {
         "comingsoon": "2026-10-17T11:20:09+03:00"
       }
+    },
+    "soy-turkish": {
+      "title": "Soy",
+      "first_seen": "2026-10-19T09:05:10+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-19T09:05:10+03:00"
+      }
     }
   },
   "sources": {
@@ -538,7 +545,7 @@
       "changed": "2026-10-17T17:30:11+03:00"
     },
     "comingsoon": {
-      "hash": "b7b26379df69e00f3e2b87e7594c181fa8a7e3900e6aedbb698799211542010f",
+      "hash": "5384e780049eb4a017c42763d97be1de713f6b657a8e1ab8f63b1396cdd37eb1",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -558,6 +565,7 @@
         "naseeb-arabic",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
+        "soy-turkish",
         "the-cat-in-the-hat",
         "the-dino-family",
         "the-hunger-games-sunrise-on-the-reaping",
@@ -568,7 +576,7 @@
         "wala-kan-ala-el-bal-arabic",
         "wildwood"
       ],
-      "changed": "2026-10-17T11:20:09+03:00"
+      "changed": "2026-10-19T09:05:10+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "8987454aa2ae045e5c958f3ca7983a6c5439209c3b98166da2a0d2fc65d031a4",
@@ -639,15 +647,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-21",
-      "checked": "2026-10-19T09:00:13+03:00"
+      "checked": "2026-10-19T09:05:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-19T09:00:13+03:00"
+      "checked": "2026-10-19T09:05:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-19T09:00:13+03:00"
+      "checked": "2026-10-19T09:05:10+03:00"
     }
   }
 }
