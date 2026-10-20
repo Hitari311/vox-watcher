@@ -521,6 +521,34 @@
       "seen_in": {
         "comingsoon": "2026-10-20T14:45:12+03:00"
       }
+    },
+    "clayface": {
+      "title": "Clayface",
+      "first_seen": "2026-10-20T15:05:10+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-20T15:05:10+03:00"
+      }
+    },
+    "no-paradise-if-you-are-killed-by-a-woman": {
+      "title": "No Paradise if You Are Killed by a Woman",
+      "first_seen": "2026-10-20T15:05:10+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-20T15:05:10+03:00"
+      }
+    },
+    "soy-arabic": {
+      "title": "Soy",
+      "first_seen": "2026-10-20T15:05:10+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-20T15:05:10+03:00"
+      }
+    },
+    "the-cat-in-the-hat-arabic": {
+      "title": "The Cat In The Hat",
+      "first_seen": "2026-10-20T15:05:10+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-20T15:05:10+03:00"
+      }
     }
   },
   "sources": {
@@ -552,7 +580,7 @@
       "changed": "2026-10-17T17:30:11+03:00"
     },
     "comingsoon": {
-      "hash": "df03f282a8d05c5da09444c7a2efec03de1503e0ada2434e29c92487034bd845",
+      "hash": "14a9ffe5a3c40a12c0f7549b303a51aadd36b1e1862f3a6a8d30f20f16327c76",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -561,6 +589,7 @@
         "bts-world-tour-arirang-in-s-o-paulo-delayed",
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "children-of-blood-and-bone",
+        "clayface",
         "day-drinker",
         "enhypen-world-tour-blood-saga",
         "godzilla-minus-zero-japanese",
@@ -571,10 +600,13 @@
         "infiltrate",
         "narnia-the-magicians-nephew",
         "naseeb-arabic",
+        "no-paradise-if-you-are-killed-by-a-woman",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
+        "soy-arabic",
         "soy-turkish",
         "the-cat-in-the-hat",
+        "the-cat-in-the-hat-arabic",
         "the-dino-family",
         "the-hunger-games-sunrise-on-the-reaping",
         "the-influencer-project",
@@ -584,7 +616,7 @@
         "wala-kan-ala-el-bal-arabic",
         "wildwood"
       ],
-      "changed": "2026-10-20T14:45:12+03:00"
+      "changed": "2026-10-20T15:05:10+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "8987454aa2ae045e5c958f3ca7983a6c5439209c3b98166da2a0d2fc65d031a4",
@@ -655,15 +687,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-21",
-      "checked": "2026-10-20T15:00:12+03:00"
+      "checked": "2026-10-20T15:05:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-20T15:00:12+03:00"
+      "checked": "2026-10-20T15:05:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-20T15:00:12+03:00"
+      "checked": "2026-10-20T15:05:10+03:00"
     }
   }
 }
