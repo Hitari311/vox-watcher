@@ -580,7 +580,7 @@
       "changed": "2026-10-17T17:30:11+03:00"
     },
     "comingsoon": {
-      "hash": "14a9ffe5a3c40a12c0f7549b303a51aadd36b1e1862f3a6a8d30f20f16327c76",
+      "hash": "839cc8e0c7d203a4f0819bc795004863b2c9af45d23b6434492bd1ea2e1c1962",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -606,7 +606,6 @@
         "soy-arabic",
         "soy-turkish",
         "the-cat-in-the-hat",
-        "the-cat-in-the-hat-arabic",
         "the-dino-family",
         "the-hunger-games-sunrise-on-the-reaping",
         "the-influencer-project",
@@ -616,7 +615,7 @@
         "wala-kan-ala-el-bal-arabic",
         "wildwood"
       ],
-      "changed": "2026-10-20T15:05:10+03:00"
+      "changed": "2026-10-20T16:02:47+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "8987454aa2ae045e5c958f3ca7983a6c5439209c3b98166da2a0d2fc65d031a4",
@@ -687,15 +686,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-21",
-      "checked": "2026-10-20T16:00:12+03:00"
+      "checked": "2026-10-20T16:02:47+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-20T16:00:12+03:00"
+      "checked": "2026-10-20T16:02:47+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-20T16:00:12+03:00"
+      "checked": "2026-10-20T16:02:47+03:00"
     }
   }
 }
