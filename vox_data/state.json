@@ -327,7 +327,8 @@
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00",
-        "whatson": "2026-10-21T10:55:10+03:00"
+        "whatson": "2026-10-21T10:55:10+03:00",
+        "showtimes:city-centre-almaza": "2026-10-21T20:25:19+03:00"
       }
     },
     "the-hunger-games-sunrise-on-the-reaping": {
@@ -524,7 +525,8 @@
       "seen_in": {
         "comingsoon": "2026-10-19T09:05:10+03:00",
         "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00",
-        "whatson": "2026-10-21T10:55:10+03:00"
+        "whatson": "2026-10-21T10:55:10+03:00",
+        "showtimes:city-centre-almaza": "2026-10-21T20:25:19+03:00"
       }
     },
     "infiltrate": {
@@ -662,7 +664,7 @@
       "changed": "2026-10-21T19:45:12+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "08737f689478c6df9119d972da46ae814ad9a95af09898ddb7e96c42c63af772",
+      "hash": "2e5c48c9460ce00bd7e12ae9c1d3348704638c40a7c01c78ac387e370d51d5d4",
       "slugs": [
         "bts-world-tour-arirang-in-buenos-aires-live",
         "digger",
@@ -673,15 +675,17 @@
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic",
+        "soy-turkish",
         "spider-man-brand-new-day",
         "street-fighter",
-        "the-magic-faraway-tree",
+        "the-dino-family",
         "the-odyssey",
+        "the-smurfs-timeless-adventure-volume-2",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-21T20:20:10+03:00"
+      "changed": "2026-10-21T20:25:19+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "859906fa1db3284e2ccf3eb683fe1fbbd732b36a9cdad567d4f9333eb5ec543d",
@@ -722,15 +726,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-22",
-      "checked": "2026-10-21T20:20:10+03:00"
+      "checked": "2026-10-21T20:25:19+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T20:20:10+03:00"
+      "checked": "2026-10-21T20:25:19+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T20:20:10+03:00"
+      "checked": "2026-10-21T20:25:19+03:00"
     }
   }
 }
