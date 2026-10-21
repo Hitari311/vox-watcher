@@ -253,7 +253,8 @@
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
-        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00"
+        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00",
+        "whatson": "2026-10-21T10:55:10+03:00"
       }
     },
     "godzilla-minus-zero-japanese": {
@@ -275,7 +276,8 @@
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
-        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00"
+        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00",
+        "whatson": "2026-10-21T10:55:10+03:00"
       }
     },
     "klara-and-the-sun": {
@@ -322,7 +324,8 @@
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
-        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00"
+        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00",
+        "whatson": "2026-10-21T10:55:10+03:00"
       }
     },
     "the-hunger-games-sunrise-on-the-reaping": {
@@ -351,7 +354,8 @@
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
-        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00"
+        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00",
+        "whatson": "2026-10-21T10:55:10+03:00"
       }
     },
     "violent-night-2": {
@@ -517,7 +521,8 @@
       "first_seen": "2026-10-19T09:05:10+03:00",
       "seen_in": {
         "comingsoon": "2026-10-19T09:05:10+03:00",
-        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00"
+        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00",
+        "whatson": "2026-10-21T10:55:10+03:00"
       }
     },
     "infiltrate": {
@@ -525,7 +530,8 @@
       "first_seen": "2026-10-20T14:45:12+03:00",
       "seen_in": {
         "comingsoon": "2026-10-20T14:45:12+03:00",
-        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00"
+        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00",
+        "whatson": "2026-10-21T10:55:10+03:00"
       }
     },
     "clayface": {
@@ -533,7 +539,8 @@
       "first_seen": "2026-10-20T15:05:10+03:00",
       "seen_in": {
         "comingsoon": "2026-10-20T15:05:10+03:00",
-        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00"
+        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00",
+        "whatson": "2026-10-21T10:55:10+03:00"
       }
     },
     "no-paradise-if-you-are-killed-by-a-woman": {
@@ -541,7 +548,8 @@
       "first_seen": "2026-10-20T15:05:10+03:00",
       "seen_in": {
         "comingsoon": "2026-10-20T15:05:10+03:00",
-        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00"
+        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00",
+        "whatson": "2026-10-21T10:55:10+03:00"
       }
     },
     "soy-arabic": {
@@ -549,7 +557,8 @@
       "first_seen": "2026-10-20T15:05:10+03:00",
       "seen_in": {
         "comingsoon": "2026-10-20T15:05:10+03:00",
-        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00"
+        "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00",
+        "whatson": "2026-10-21T10:55:10+03:00"
       }
     },
     "the-cat-in-the-hat-arabic": {
@@ -562,31 +571,40 @@
   },
   "sources": {
     "whatson": {
-      "hash": "449704525a2ec0ebc5e23c566d8189bd5ce51b5a2a4f5b0f93a5fc4467a74544",
+      "hash": "b034258999819e9913447436d9e940af9e66ec1d8c4fa8929441ab1ddc955965",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-buenos-aires-live",
         "bts-world-tour-arirang-in-s-o-paulo-live",
+        "clayface",
         "digger",
+        "enhypen-world-tour-blood-saga",
         "heart-of-the-beast",
+        "hybe-cheering-party",
+        "infiltrate",
         "insidious-out-of-the-further",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
+        "no-paradise-if-you-are-killed-by-a-woman",
         "other-mommy",
         "red-flag-arabic",
         "resident-evil",
         "shish-dou-arabic",
+        "soy-arabic",
+        "soy-turkish",
         "spider-man-brand-new-day",
         "street-fighter",
         "tad-and-the-magic-lamp",
+        "the-dino-family",
         "the-magic-faraway-tree",
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
+        "tomorrow-x-together-world-tour-act-tomorrow",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-17T17:30:11+03:00"
+      "changed": "2026-10-21T10:55:10+03:00"
     },
     "comingsoon": {
       "hash": "6fe86bc4d9ca06ec2c50f77632492816c5a6a5afcf2407f5d1355c413f21f22c",
@@ -703,15 +721,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-21",
-      "checked": "2026-10-21T10:50:09+03:00"
+      "checked": "2026-10-21T10:55:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T10:50:09+03:00"
+      "checked": "2026-10-21T10:55:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T10:50:09+03:00"
+      "checked": "2026-10-21T10:55:10+03:00"
     }
   }
 }
