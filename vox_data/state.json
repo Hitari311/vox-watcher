@@ -542,7 +542,8 @@
       "seen_in": {
         "comingsoon": "2026-10-20T15:05:10+03:00",
         "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00",
-        "whatson": "2026-10-21T10:55:10+03:00"
+        "whatson": "2026-10-21T10:55:10+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-21T19:45:12+03:00"
       }
     },
     "no-paradise-if-you-are-killed-by-a-woman": {
@@ -646,8 +647,9 @@
       "changed": "2026-10-21T16:50:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "ce3f043b348eaebb53e1a847cdc27e105f921ac35b1f68da500c83572a7e34ff",
+      "hash": "dcbd2892eea00be541c6b3c5413f5b703fecd8baec0b5178f28f3931a7618684",
       "slugs": [
+        "clayface",
         "heart-of-the-beast",
         "matloub-3a2eleyain-arabic",
         "other-mommy",
@@ -657,7 +659,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-21T17:55:10+03:00"
+      "changed": "2026-10-21T19:45:12+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "08737f689478c6df9119d972da46ae814ad9a95af09898ddb7e96c42c63af772",
@@ -719,16 +721,16 @@
   },
   "schedule": {
     "city-centre-alexandria": {
-      "last_date": "2026-10-21",
-      "checked": "2026-10-21T19:40:11+03:00"
+      "last_date": "2026-10-22",
+      "checked": "2026-10-21T19:45:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T19:40:11+03:00"
+      "checked": "2026-10-21T19:45:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T19:40:11+03:00"
+      "checked": "2026-10-21T19:45:12+03:00"
     }
   }
 }
