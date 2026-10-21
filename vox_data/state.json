@@ -681,7 +681,7 @@
       "changed": "2026-10-21T23:00:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "9e91626d34323e754592eea0300ef10477818c540bf6e7bff829d0c61e12ae3d",
+      "hash": "f8b00d78f4f3e798322f8ba0111a3c1c1f18e85ab1e8e9aa933ba0e4c41ae9d7",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-buenos-aires-live",
@@ -691,7 +691,6 @@
         "heart-of-the-beast",
         "hybe-cheering-party",
         "infiltrate",
-        "insidious-out-of-the-further",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
         "no-paradise-if-you-are-killed-by-a-woman",
@@ -712,21 +711,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-21T23:35:15+03:00"
+      "changed": "2026-10-22T00:00:11+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-21T23:55:13+03:00"
+      "checked": "2026-10-22T00:00:11+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T23:55:13+03:00"
+      "checked": "2026-10-22T00:00:11+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T23:55:13+03:00"
+      "checked": "2026-10-22T00:00:11+03:00"
     }
   }
 }
