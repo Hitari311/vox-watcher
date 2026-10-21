@@ -646,19 +646,18 @@
       "changed": "2026-10-21T16:50:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "8987454aa2ae045e5c958f3ca7983a6c5439209c3b98166da2a0d2fc65d031a4",
+      "hash": "ce3f043b348eaebb53e1a847cdc27e105f921ac35b1f68da500c83572a7e34ff",
       "slugs": [
         "heart-of-the-beast",
         "matloub-3a2eleyain-arabic",
         "other-mommy",
         "red-flag-arabic",
-        "resident-evil",
         "street-fighter",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-17T18:20:11+03:00"
+      "changed": "2026-10-21T17:55:10+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "7da8fb5ada5aa5a34cacc8f8843d00a02bdba2c3cfd5ab4ff0f5c7de1d2bddd6",
@@ -722,15 +721,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-21",
-      "checked": "2026-10-21T17:50:11+03:00"
+      "checked": "2026-10-21T17:55:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T17:50:11+03:00"
+      "checked": "2026-10-21T17:55:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T17:50:11+03:00"
+      "checked": "2026-10-21T17:55:10+03:00"
     }
   }
 }
