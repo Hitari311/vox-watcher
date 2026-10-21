@@ -682,7 +682,7 @@
       "changed": "2026-10-21T23:00:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "859906fa1db3284e2ccf3eb683fe1fbbd732b36a9cdad567d4f9333eb5ec543d",
+      "hash": "9e91626d34323e754592eea0300ef10477818c540bf6e7bff829d0c61e12ae3d",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-buenos-aires-live",
@@ -700,7 +700,6 @@
         "red-flag-arabic",
         "resident-evil",
         "seventeen-world-tour-new",
-        "shish-dou-arabic",
         "soy-arabic",
         "soy-turkish",
         "spider-man-brand-new-day",
@@ -714,21 +713,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-21T17:35:12+03:00"
+      "changed": "2026-10-21T23:35:15+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-21T23:30:09+03:00"
+      "checked": "2026-10-21T23:35:15+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T23:30:09+03:00"
+      "checked": "2026-10-21T23:35:15+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T23:30:09+03:00"
+      "checked": "2026-10-21T23:35:15+03:00"
     }
   }
 }
