@@ -299,7 +299,8 @@
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
-        "showtimes:mall-of-egypt": "2026-10-21T11:30:10+03:00"
+        "showtimes:mall-of-egypt": "2026-10-21T11:30:10+03:00",
+        "whatson": "2026-10-21T11:35:09+03:00"
       }
     },
     "street-fighter": {
@@ -572,7 +573,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "b034258999819e9913447436d9e940af9e66ec1d8c4fa8929441ab1ddc955965",
+      "hash": "3a3990586bf7e7ae531fd562b9bf83ab8561ef5b4184e5a4fe1b91ed8d18e3c0",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-buenos-aires-live",
@@ -590,6 +591,7 @@
         "other-mommy",
         "red-flag-arabic",
         "resident-evil",
+        "seventeen-world-tour-new",
         "shish-dou-arabic",
         "soy-arabic",
         "soy-turkish",
@@ -605,7 +607,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-21T10:55:10+03:00"
+      "changed": "2026-10-21T11:35:09+03:00"
     },
     "comingsoon": {
       "hash": "6fe86bc4d9ca06ec2c50f77632492816c5a6a5afcf2407f5d1355c413f21f22c",
@@ -723,15 +725,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-21",
-      "checked": "2026-10-21T11:30:10+03:00"
+      "checked": "2026-10-21T11:35:09+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T11:30:10+03:00"
+      "checked": "2026-10-21T11:35:09+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T11:30:10+03:00"
+      "checked": "2026-10-21T11:35:09+03:00"
     }
   }
 }
