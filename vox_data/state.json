@@ -613,7 +613,7 @@
       "changed": "2026-10-21T16:50:11+03:00"
     },
     "comingsoon": {
-      "hash": "4006d170a8cf3093015d10192fbcff8a939dfe26c7ce8b5971182120143ddf0e",
+      "hash": "a415099cbf4aeacd08b996e18d0fd32728b8646d5ba05ea1882e71db9ba45be2",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -622,7 +622,6 @@
         "bts-world-tour-arirang-in-s-o-paulo-delayed",
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "children-of-blood-and-bone",
-        "clayface",
         "day-drinker",
         "enhypen-world-tour-blood-saga",
         "godzilla-minus-zero-japanese",
@@ -630,16 +629,11 @@
         "hadoota-arabic",
         "hexed",
         "hybe-cheering-party",
-        "infiltrate",
         "narnia-the-magicians-nephew",
         "naseeb-arabic",
-        "no-paradise-if-you-are-killed-by-a-woman",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
-        "soy-arabic",
-        "soy-turkish",
         "the-cat-in-the-hat",
-        "the-dino-family",
         "the-hunger-games-sunrise-on-the-reaping",
         "the-influencer-project",
         "the-mongoose",
@@ -647,7 +641,7 @@
         "violent-night-2",
         "wildwood"
       ],
-      "changed": "2026-10-21T16:50:11+03:00"
+      "changed": "2026-10-21T23:00:10+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "e1d8254ceeb79cc60b60f516c9654d67514526e83d7abbae014dfa6e5445db69",
@@ -665,7 +659,7 @@
       "changed": "2026-10-21T22:55:13+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "2e5c48c9460ce00bd7e12ae9c1d3348704638c40a7c01c78ac387e370d51d5d4",
+      "hash": "d9d83d310ba6f369abb6344c161d9d95c2a38b012e00688cb18bb1567fb8ca59",
       "slugs": [
         "bts-world-tour-arirang-in-buenos-aires-live",
         "digger",
@@ -677,7 +671,6 @@
         "resident-evil",
         "shish-dou-arabic",
         "soy-turkish",
-        "spider-man-brand-new-day",
         "street-fighter",
         "the-dino-family",
         "the-odyssey",
@@ -686,7 +679,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-21T20:25:19+03:00"
+      "changed": "2026-10-21T23:00:10+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "859906fa1db3284e2ccf3eb683fe1fbbd732b36a9cdad567d4f9333eb5ec543d",
@@ -727,15 +720,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-21T22:55:13+03:00"
+      "checked": "2026-10-21T23:00:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T22:55:13+03:00"
+      "checked": "2026-10-21T23:00:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T22:55:13+03:00"
+      "checked": "2026-10-21T23:00:10+03:00"
     }
   }
 }
