@@ -662,10 +662,11 @@
       "changed": "2026-10-21T19:45:12+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "9bdb3c9298289c4f463cf12c5fc2ab3afcb8a9fe72bec9652812d295c0cf76bc",
+      "hash": "08737f689478c6df9119d972da46ae814ad9a95af09898ddb7e96c42c63af772",
       "slugs": [
         "bts-world-tour-arirang-in-buenos-aires-live",
         "digger",
+        "heart-of-the-beast",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
         "other-mommy",
@@ -674,12 +675,13 @@
         "shish-dou-arabic",
         "spider-man-brand-new-day",
         "street-fighter",
+        "the-magic-faraway-tree",
         "the-odyssey",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-21T20:15:10+03:00"
+      "changed": "2026-10-21T20:20:10+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "859906fa1db3284e2ccf3eb683fe1fbbd732b36a9cdad567d4f9333eb5ec543d",
@@ -720,15 +722,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-22",
-      "checked": "2026-10-21T20:15:10+03:00"
+      "checked": "2026-10-21T20:20:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T20:15:10+03:00"
+      "checked": "2026-10-21T20:20:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T20:15:10+03:00"
+      "checked": "2026-10-21T20:20:10+03:00"
     }
   }
 }
