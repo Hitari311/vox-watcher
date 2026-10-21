@@ -684,7 +684,7 @@
       "changed": "2026-10-21T13:45:12+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "d81743cdf63c2af9d1f5354189796d168cd0226bcca4ccbd698f151fec9c9382",
+      "hash": "859906fa1db3284e2ccf3eb683fe1fbbd732b36a9cdad567d4f9333eb5ec543d",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-buenos-aires-live",
@@ -707,7 +707,6 @@
         "soy-turkish",
         "spider-man-brand-new-day",
         "street-fighter",
-        "tad-and-the-magic-lamp",
         "the-dino-family",
         "the-magic-faraway-tree",
         "the-odyssey",
@@ -717,21 +716,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-21T11:30:10+03:00"
+      "changed": "2026-10-21T17:35:12+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-21",
-      "checked": "2026-10-21T17:30:10+03:00"
+      "checked": "2026-10-21T17:35:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T17:30:10+03:00"
+      "checked": "2026-10-21T17:35:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T17:30:10+03:00"
+      "checked": "2026-10-21T17:35:12+03:00"
     }
   }
 }
