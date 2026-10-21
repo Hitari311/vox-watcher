@@ -573,7 +573,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "3a3990586bf7e7ae531fd562b9bf83ab8561ef5b4184e5a4fe1b91ed8d18e3c0",
+      "hash": "eb962af3301ccc70ec2010af3301033fbe0fdd320bceb8ec8faa01d5ad96aa62",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-buenos-aires-live",
@@ -597,7 +597,6 @@
         "soy-turkish",
         "spider-man-brand-new-day",
         "street-fighter",
-        "tad-and-the-magic-lamp",
         "the-dino-family",
         "the-magic-faraway-tree",
         "the-odyssey",
@@ -607,10 +606,10 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-21T11:35:09+03:00"
+      "changed": "2026-10-21T16:50:11+03:00"
     },
     "comingsoon": {
-      "hash": "bdb14bc65a925444721f1005d2dba3b318a93e6d33fb69655db3549348143c0c",
+      "hash": "4006d170a8cf3093015d10192fbcff8a939dfe26c7ce8b5971182120143ddf0e",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -633,6 +632,7 @@
         "no-paradise-if-you-are-killed-by-a-woman",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
+        "soy-arabic",
         "soy-turkish",
         "the-cat-in-the-hat",
         "the-dino-family",
@@ -643,7 +643,7 @@
         "violent-night-2",
         "wildwood"
       ],
-      "changed": "2026-10-21T15:45:16+03:00"
+      "changed": "2026-10-21T16:50:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "8987454aa2ae045e5c958f3ca7983a6c5439209c3b98166da2a0d2fc65d031a4",
@@ -723,15 +723,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-21",
-      "checked": "2026-10-21T16:45:09+03:00"
+      "checked": "2026-10-21T16:50:11+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T16:45:09+03:00"
+      "checked": "2026-10-21T16:50:11+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-21T16:45:09+03:00"
+      "checked": "2026-10-21T16:50:11+03:00"
     }
   }
 }
