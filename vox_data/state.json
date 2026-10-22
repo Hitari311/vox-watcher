@@ -582,7 +582,8 @@
       "seen_in": {
         "whatson": "2026-10-22T12:05:10+03:00",
         "comingsoon": "2026-10-22T12:05:10+03:00",
-        "showtimes:mall-of-egypt": "2026-10-22T12:05:10+03:00"
+        "showtimes:mall-of-egypt": "2026-10-22T12:05:10+03:00",
+        "showtimes:city-centre-almaza": "2026-10-22T18:00:12+03:00"
       }
     },
     "jumanji-open-world": {
@@ -685,12 +686,13 @@
       "changed": "2026-10-21T22:55:13+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "f94e698aed618ffd8cd4622d561a9b606107dc725bd9d85be2d501f8fb11bf65",
+      "hash": "225592f25652d5ed1a2ee75cdc87e4e3173f38f74b0c49b13d11194e5da2c548",
       "slugs": [
         "bts-world-tour-arirang-in-buenos-aires-live",
         "clayface",
         "digger",
         "heart-of-the-beast",
+        "hybe-cheering-party-3d",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
         "no-paradise-if-you-are-killed-by-a-woman",
@@ -707,7 +709,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-22T11:20:32+03:00"
+      "changed": "2026-10-22T18:00:12+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "b72b554dc622c903c293f4ebd33549e9c5dfe673676b03b6713541e2349cf590",
@@ -746,15 +748,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-22T17:55:11+03:00"
+      "checked": "2026-10-22T18:00:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-22T17:55:11+03:00"
+      "checked": "2026-10-22T18:00:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-22T17:55:11+03:00"
+      "checked": "2026-10-22T18:00:12+03:00"
     }
   }
 }
