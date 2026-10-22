@@ -591,6 +591,13 @@
       "seen_in": {
         "comingsoon": "2026-10-22T13:00:10+03:00"
       }
+    },
+    "hope-korean": {
+      "title": "Hope",
+      "first_seen": "2026-10-22T13:05:16+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-22T13:05:16+03:00"
+      }
     }
   },
   "sources": {
@@ -630,7 +637,7 @@
       "changed": "2026-10-22T12:15:12+03:00"
     },
     "comingsoon": {
-      "hash": "3f960d4ce04c867fdf2e91e95516d79b3d18a01991e162c4aeb4b3a71aed66eb",
+      "hash": "46e8acbeb45b50de24fa626db2ba345c87ef6174983b78c242f459f796fda4ee",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -645,6 +652,7 @@
         "godzilla-minus-zero-preview-screening-japanese",
         "hadoota-arabic",
         "hexed",
+        "hope-korean",
         "hybe-cheering-party-3d",
         "jumanji-open-world",
         "narnia-the-magicians-nephew",
@@ -659,7 +667,7 @@
         "violent-night-2",
         "wildwood"
       ],
-      "changed": "2026-10-22T13:00:10+03:00"
+      "changed": "2026-10-22T13:05:16+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "e1d8254ceeb79cc60b60f516c9654d67514526e83d7abbae014dfa6e5445db69",
@@ -738,15 +746,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-22T13:00:10+03:00"
+      "checked": "2026-10-22T13:05:16+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-22T13:00:10+03:00"
+      "checked": "2026-10-22T13:05:16+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-22T13:00:10+03:00"
+      "checked": "2026-10-22T13:05:16+03:00"
     }
   }
 }
