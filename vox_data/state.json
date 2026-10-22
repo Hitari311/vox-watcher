@@ -255,7 +255,8 @@
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00",
-        "whatson": "2026-10-21T10:55:10+03:00"
+        "whatson": "2026-10-21T10:55:10+03:00",
+        "showtimes:city-centre-almaza": "2026-10-22T19:35:13+03:00"
       }
     },
     "godzilla-minus-zero-japanese": {
@@ -301,7 +302,8 @@
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "showtimes:mall-of-egypt": "2026-10-21T11:30:10+03:00",
-        "whatson": "2026-10-21T11:35:09+03:00"
+        "whatson": "2026-10-21T11:35:09+03:00",
+        "showtimes:city-centre-almaza": "2026-10-22T19:35:13+03:00"
       }
     },
     "street-fighter": {
@@ -688,11 +690,12 @@
       "changed": "2026-10-22T18:50:12+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "225592f25652d5ed1a2ee75cdc87e4e3173f38f74b0c49b13d11194e5da2c548",
+      "hash": "0775aa36d3578a634dd07e4340c7e37405808a8c584d946d19340e321f58193e",
       "slugs": [
         "bts-world-tour-arirang-in-buenos-aires-live",
         "clayface",
         "digger",
+        "enhypen-world-tour-blood-saga",
         "heart-of-the-beast",
         "hybe-cheering-party-3d",
         "mahmoud-el-tany-arabic",
@@ -701,6 +704,7 @@
         "other-mommy",
         "red-flag-arabic",
         "resident-evil",
+        "seventeen-world-tour-new",
         "shish-dou-arabic",
         "soy-turkish",
         "street-fighter",
@@ -711,7 +715,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-22T18:00:12+03:00"
+      "changed": "2026-10-22T19:35:13+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "b72b554dc622c903c293f4ebd33549e9c5dfe673676b03b6713541e2349cf590",
@@ -750,15 +754,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-22T19:30:11+03:00"
+      "checked": "2026-10-22T19:35:13+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-22T19:30:11+03:00"
+      "checked": "2026-10-22T19:35:13+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-22T19:30:11+03:00"
+      "checked": "2026-10-22T19:35:13+03:00"
     }
   }
 }
