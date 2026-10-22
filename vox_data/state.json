@@ -588,7 +588,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "4ce1416ff974c80ca00efd2605f24c81c4e6e3f40df9a481d34d7d2d8e31b84a",
+      "hash": "e0ba1c75340e4f07874f82c13412f81ce6dbef47f014c1377c4f815e38069fad",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-buenos-aires-live",
@@ -597,7 +597,7 @@
         "digger",
         "enhypen-world-tour-blood-saga",
         "heart-of-the-beast",
-        "hybe-cheering-party",
+        "hybe-cheering-party-3d",
         "infiltrate",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
@@ -620,7 +620,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-22T12:10:15+03:00"
+      "changed": "2026-10-22T12:15:12+03:00"
     },
     "comingsoon": {
       "hash": "39c3d2d591e0b6a10310d5659565aae4805e6d32b77a57e91b77d32eccc14b1b",
@@ -730,15 +730,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-22T12:10:15+03:00"
+      "checked": "2026-10-22T12:15:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-22T12:10:15+03:00"
+      "checked": "2026-10-22T12:15:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-22T12:10:15+03:00"
+      "checked": "2026-10-22T12:15:12+03:00"
     }
   }
 }
