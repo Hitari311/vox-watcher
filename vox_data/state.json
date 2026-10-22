@@ -329,7 +329,8 @@
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "showtimes:mall-of-egypt": "2026-10-21T10:50:09+03:00",
         "whatson": "2026-10-21T10:55:10+03:00",
-        "showtimes:city-centre-almaza": "2026-10-21T20:25:19+03:00"
+        "showtimes:city-centre-almaza": "2026-10-21T20:25:19+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-22T18:50:12+03:00"
       }
     },
     "the-hunger-games-sunrise-on-the-reaping": {
@@ -671,7 +672,7 @@
       "changed": "2026-10-22T13:05:16+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "e1d8254ceeb79cc60b60f516c9654d67514526e83d7abbae014dfa6e5445db69",
+      "hash": "efa785e8e1adb7289abff5247f012382743f8298081a3a992b1f1701b12a5c37",
       "slugs": [
         "bts-world-tour-arirang-in-buenos-aires-live",
         "clayface",
@@ -679,11 +680,12 @@
         "matloub-3a2eleyain-arabic",
         "other-mommy",
         "street-fighter",
+        "the-dino-family",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-21T22:55:13+03:00"
+      "changed": "2026-10-22T18:50:12+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "225592f25652d5ed1a2ee75cdc87e4e3173f38f74b0c49b13d11194e5da2c548",
@@ -748,15 +750,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-22T18:45:14+03:00"
+      "checked": "2026-10-22T18:50:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-22T18:45:14+03:00"
+      "checked": "2026-10-22T18:50:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-22T18:45:14+03:00"
+      "checked": "2026-10-22T18:50:12+03:00"
     }
   }
 }
