@@ -646,12 +646,10 @@
       "changed": "2026-10-22T12:15:12+03:00"
     },
     "comingsoon": {
-      "hash": "daa53fa4fe62d226b170868507424482414e3a37464de87d590a5ba84bab79df",
+      "hash": "c9bc4f1a0e59df52129c4704042d87c16b383f331bc6f5504a67294a41bb1d3f",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
-        "bts-world-tour-arirang-in-buenos-aires-delayed",
-        "bts-world-tour-arirang-in-buenos-aires-live",
         "bts-world-tour-arirang-in-s-o-paulo-delayed",
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "children-of-blood-and-bone",
@@ -661,7 +659,6 @@
         "hadoota-arabic",
         "hexed",
         "hope-korean",
-        "hybe-cheering-party-3d",
         "jumanji-open-world",
         "narnia-the-magicians-nephew",
         "naseeb-arabic",
@@ -674,7 +671,7 @@
         "violent-night-2",
         "wildwood"
       ],
-      "changed": "2026-10-23T23:00:13+03:00"
+      "changed": "2026-10-24T23:00:10+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "81f834f8565b5319127786ab0fa5a4705be9a600d358cb0006c11c6964d7b899",
@@ -762,15 +759,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-24T22:55:11+03:00"
+      "checked": "2026-10-24T23:00:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-24T22:55:11+03:00"
+      "checked": "2026-10-24T23:00:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-24T22:55:11+03:00"
+      "checked": "2026-10-24T23:00:10+03:00"
     }
   }
 }
