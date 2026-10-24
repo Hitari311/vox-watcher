@@ -304,7 +304,8 @@
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "showtimes:mall-of-egypt": "2026-10-21T11:30:10+03:00",
         "whatson": "2026-10-21T11:35:09+03:00",
-        "showtimes:city-centre-almaza": "2026-10-22T19:35:13+03:00"
+        "showtimes:city-centre-almaza": "2026-10-22T19:35:13+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-24T10:35:09+03:00"
       }
     },
     "street-fighter": {
@@ -676,7 +677,7 @@
       "changed": "2026-10-23T23:00:13+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "783433d01ccd2a3d479477c31eb285fe09613c1b4e8ce57b6390f16afbf8f283",
+      "hash": "81f834f8565b5319127786ab0fa5a4705be9a600d358cb0006c11c6964d7b899",
       "slugs": [
         "bts-world-tour-arirang-in-buenos-aires-live",
         "clayface",
@@ -685,6 +686,7 @@
         "hybe-cheering-party-3d",
         "matloub-3a2eleyain-arabic",
         "other-mommy",
+        "seventeen-world-tour-new",
         "street-fighter",
         "the-dino-family",
         "tomorrow-x-together-world-tour-act-tomorrow",
@@ -692,7 +694,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-24T10:05:10+03:00"
+      "changed": "2026-10-24T10:35:09+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "e4e65aefbbce937f0ddc2c51a1cc98b093d2da9703ea91da0b7a4c6560f62e2b",
@@ -760,15 +762,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-27",
-      "checked": "2026-10-24T10:30:16+03:00"
+      "checked": "2026-10-24T10:35:09+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-24T10:30:16+03:00"
+      "checked": "2026-10-24T10:35:09+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-24T10:30:16+03:00"
+      "checked": "2026-10-24T10:35:09+03:00"
     }
   }
 }
