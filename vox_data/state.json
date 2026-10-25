@@ -645,7 +645,7 @@
       "changed": "2026-10-25T16:05:09+03:00"
     },
     "comingsoon": {
-      "hash": "c9bc4f1a0e59df52129c4704042d87c16b383f331bc6f5504a67294a41bb1d3f",
+      "hash": "adb4037849b7e612594f1f77bd965552160d733188e5e8aa0ce54313cb4be9ea",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -662,7 +662,6 @@
         "narnia-the-magicians-nephew",
         "naseeb-arabic",
         "sense-and-sensibility",
-        "seventeen-world-tour-new",
         "the-cat-in-the-hat",
         "the-hunger-games-sunrise-on-the-reaping",
         "the-influencer-project",
@@ -670,7 +669,7 @@
         "violent-night-2",
         "wildwood"
       ],
-      "changed": "2026-10-24T23:00:10+03:00"
+      "changed": "2026-10-25T23:05:10+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "fb20d67a922843c41d4687128ffeb31a6387b4f36a048c9e4943fe75d58bd064",
@@ -755,15 +754,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-25T23:00:13+03:00"
+      "checked": "2026-10-25T23:05:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-25T23:00:13+03:00"
+      "checked": "2026-10-25T23:05:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-25T23:00:13+03:00"
+      "checked": "2026-10-25T23:05:10+03:00"
     }
   }
 }
