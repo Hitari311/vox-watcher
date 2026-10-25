@@ -673,9 +673,8 @@
       "changed": "2026-10-24T23:00:10+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "81f834f8565b5319127786ab0fa5a4705be9a600d358cb0006c11c6964d7b899",
+      "hash": "fb20d67a922843c41d4687128ffeb31a6387b4f36a048c9e4943fe75d58bd064",
       "slugs": [
-        "bts-world-tour-arirang-in-buenos-aires-live",
         "clayface",
         "enhypen-world-tour-blood-saga",
         "heart-of-the-beast",
@@ -690,7 +689,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-24T10:35:09+03:00"
+      "changed": "2026-10-25T17:00:12+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "e4e65aefbbce937f0ddc2c51a1cc98b093d2da9703ea91da0b7a4c6560f62e2b",
@@ -758,15 +757,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-25T16:57:59+03:00"
+      "checked": "2026-10-25T17:00:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-25T16:57:59+03:00"
+      "checked": "2026-10-25T17:00:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-25T16:57:59+03:00"
+      "checked": "2026-10-25T17:00:12+03:00"
     }
   }
 }
