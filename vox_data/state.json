@@ -611,10 +611,9 @@
   },
   "sources": {
     "whatson": {
-      "hash": "e0ba1c75340e4f07874f82c13412f81ce6dbef47f014c1377c4f815e38069fad",
+      "hash": "09f2d3fc1df51d9faaefff7ab2642a72fa45ca375bef94cb6859a847e76b973f",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
-        "bts-world-tour-arirang-in-buenos-aires-live",
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
         "digger",
@@ -643,7 +642,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-22T12:15:12+03:00"
+      "changed": "2026-10-25T16:05:09+03:00"
     },
     "comingsoon": {
       "hash": "c9bc4f1a0e59df52129c4704042d87c16b383f331bc6f5504a67294a41bb1d3f",
@@ -759,15 +758,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-25T16:00:10+03:00"
+      "checked": "2026-10-25T16:05:09+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-25T16:00:10+03:00"
+      "checked": "2026-10-25T16:05:09+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-25T16:00:10+03:00"
+      "checked": "2026-10-25T16:05:09+03:00"
     }
   }
 }
