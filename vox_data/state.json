@@ -720,10 +720,9 @@
       "changed": "2026-10-25T17:05:08+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "b72b554dc622c903c293f4ebd33549e9c5dfe673676b03b6713541e2349cf590",
+      "hash": "2cd8182e39451f447fc9c45e0a70c010cf012c88b2b95ec1cbb338fe4af84d11",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
-        "bts-world-tour-arirang-in-buenos-aires-live",
         "clayface",
         "digger",
         "enhypen-world-tour-blood-saga",
@@ -750,21 +749,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-22T12:05:10+03:00"
+      "changed": "2026-10-25T17:15:14+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-25T17:10:10+03:00"
+      "checked": "2026-10-25T17:15:14+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-25T17:10:10+03:00"
+      "checked": "2026-10-25T17:15:14+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-25T17:10:10+03:00"
+      "checked": "2026-10-25T17:15:14+03:00"
     }
   }
 }
