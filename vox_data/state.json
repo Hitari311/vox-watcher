@@ -688,7 +688,7 @@
       "changed": "2026-10-26T17:35:10+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "ffe35a4c639b8830613afcc58b4e1adeb7d3737c62d4377716175b4d06a7e8f6",
+      "hash": "67cf108abca2091c34df9e883d170884ac53055762372676598df115235d4682",
       "slugs": [
         "clayface",
         "digger",
@@ -701,7 +701,6 @@
         "other-mommy",
         "red-flag-arabic",
         "resident-evil",
-        "seventeen-world-tour-new",
         "shish-dou-arabic",
         "soy-turkish",
         "street-fighter",
@@ -713,10 +712,10 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-25T17:05:08+03:00"
+      "changed": "2026-10-26T18:20:12+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "2cd8182e39451f447fc9c45e0a70c010cf012c88b2b95ec1cbb338fe4af84d11",
+      "hash": "f600a01ce4d820b2ad57ecc65538e3d8df3370d31966229fedc215e39c504b31",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "clayface",
@@ -731,7 +730,6 @@
         "other-mommy",
         "red-flag-arabic",
         "resident-evil",
-        "seventeen-world-tour-new",
         "soy-arabic",
         "soy-turkish",
         "spider-man-brand-new-day",
@@ -745,21 +743,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-25T17:15:14+03:00"
+      "changed": "2026-10-26T18:20:12+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-26T18:10:10+03:00"
+      "checked": "2026-10-26T18:20:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-26T18:10:10+03:00"
+      "checked": "2026-10-26T18:20:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-26T18:10:10+03:00"
+      "checked": "2026-10-26T18:20:12+03:00"
     }
   }
 }
