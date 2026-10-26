@@ -671,7 +671,7 @@
       "changed": "2026-10-25T23:05:10+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "e5b0564f035402ee15b057ddf82d9237b7c9c10a16f51187692fa8068c2ea9d7",
+      "hash": "a31445ef948a698110f25a151e87033500559e1599d19686c946be07c5589eb7",
       "slugs": [
         "clayface",
         "enhypen-world-tour-blood-saga",
@@ -680,12 +680,13 @@
         "matloub-3a2eleyain-arabic",
         "other-mommy",
         "street-fighter",
+        "the-dino-family",
         "tomorrow-x-together-world-tour-act-tomorrow",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-26T17:35:10+03:00"
+      "changed": "2026-10-27T01:50:14+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "67cf108abca2091c34df9e883d170884ac53055762372676598df115235d4682",
@@ -749,15 +750,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T01:45:11+03:00"
+      "checked": "2026-10-27T01:50:14+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T01:45:11+03:00"
+      "checked": "2026-10-27T01:50:14+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T01:45:11+03:00"
+      "checked": "2026-10-27T01:50:14+03:00"
     }
   }
 }
