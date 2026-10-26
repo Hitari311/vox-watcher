@@ -611,7 +611,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "09f2d3fc1df51d9faaefff7ab2642a72fa45ca375bef94cb6859a847e76b973f",
+      "hash": "c4e25a81647ff352ccb5ea57195e5f1337ac9f654d7ef885114f758a78f50e31",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-s-o-paulo-live",
@@ -627,7 +627,6 @@
         "other-mommy",
         "red-flag-arabic",
         "resident-evil",
-        "seventeen-world-tour-new",
         "shish-dou-arabic",
         "soy-arabic",
         "soy-turkish",
@@ -642,7 +641,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-25T16:05:09+03:00"
+      "changed": "2026-10-26T17:35:10+03:00"
     },
     "comingsoon": {
       "hash": "adb4037849b7e612594f1f77bd965552160d733188e5e8aa0ce54313cb4be9ea",
@@ -672,7 +671,7 @@
       "changed": "2026-10-25T23:05:10+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "e26af95529621406823d8be1613230d32799d85ebf6e5c3d326cb8201c88cbb4",
+      "hash": "e5b0564f035402ee15b057ddf82d9237b7c9c10a16f51187692fa8068c2ea9d7",
       "slugs": [
         "clayface",
         "enhypen-world-tour-blood-saga",
@@ -680,14 +679,13 @@
         "hybe-cheering-party-3d",
         "matloub-3a2eleyain-arabic",
         "other-mommy",
-        "seventeen-world-tour-new",
         "street-fighter",
         "tomorrow-x-together-world-tour-act-tomorrow",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-26T11:50:10+03:00"
+      "changed": "2026-10-26T17:35:10+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "ffe35a4c639b8830613afcc58b4e1adeb7d3737c62d4377716175b4d06a7e8f6",
@@ -753,15 +751,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-26T17:20:30+03:00"
+      "checked": "2026-10-26T17:35:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-26T17:20:30+03:00"
+      "checked": "2026-10-26T17:35:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-26T17:20:30+03:00"
+      "checked": "2026-10-26T17:35:10+03:00"
     }
   }
 }
