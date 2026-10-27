@@ -607,6 +607,13 @@
       "seen_in": {
         "comingsoon": "2026-10-22T13:05:16+03:00"
       }
+    },
+    "dune-part-three": {
+      "title": "Dune: Part Three",
+      "first_seen": "2026-10-27T15:00:13+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-27T15:00:13+03:00"
+      }
     }
   },
   "sources": {
@@ -644,7 +651,7 @@
       "changed": "2026-10-26T17:35:10+03:00"
     },
     "comingsoon": {
-      "hash": "adb4037849b7e612594f1f77bd965552160d733188e5e8aa0ce54313cb4be9ea",
+      "hash": "3745da8990e9a3606fbb87c9df9036a16e5241737e770ecd9141d6b21e4b350c",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -652,6 +659,7 @@
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "children-of-blood-and-bone",
         "day-drinker",
+        "dune-part-three",
         "godzilla-minus-zero-japanese",
         "godzilla-minus-zero-preview-screening-japanese",
         "hadoota-arabic",
@@ -668,7 +676,7 @@
         "violent-night-2",
         "wildwood"
       ],
-      "changed": "2026-10-25T23:05:10+03:00"
+      "changed": "2026-10-27T15:00:13+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "a31445ef948a698110f25a151e87033500559e1599d19686c946be07c5589eb7",
@@ -750,15 +758,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T14:55:09+03:00"
+      "checked": "2026-10-27T15:00:13+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T14:55:09+03:00"
+      "checked": "2026-10-27T15:00:13+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T14:55:09+03:00"
+      "checked": "2026-10-27T15:00:13+03:00"
     }
   }
 }
