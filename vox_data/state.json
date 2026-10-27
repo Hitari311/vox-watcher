@@ -512,7 +512,8 @@
       "first_seen": "2026-10-15T14:20:12+03:00",
       "seen_in": {
         "comingsoon": "2026-10-15T14:20:12+03:00",
-        "whatson": "2026-10-28T01:40:11+03:00"
+        "whatson": "2026-10-28T01:40:11+03:00",
+        "showtimes:mall-of-egypt": "2026-10-28T01:45:14+03:00"
       }
     },
     "bts-world-tour-arirang-in-buenos-aires-delayed": {
@@ -621,7 +622,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "a23b0920a70e99ff6c69ff7d4f28c7d49c1cc9e2d191e04bbdf8452fc3408acd",
+      "hash": "d855b3aba194c24e01c9ab6373ff3752dfd90a6b2f2e26688de837755aa30250",
       "slugs": [
         "avengers-doomsday-infinity-vision",
         "avengers-endgame-encore-infinity-vision",
@@ -635,7 +636,6 @@
         "infiltrate",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
-        "naseeb-arabic",
         "no-paradise-if-you-are-killed-by-a-woman",
         "other-mommy",
         "red-flag-arabic",
@@ -653,7 +653,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T01:40:11+03:00"
+      "changed": "2026-10-28T01:45:14+03:00"
     },
     "comingsoon": {
       "hash": "737798d09b13c8c8e44b6f1da61742d340e3c9d510c5c00280db0673c6a49e8e",
@@ -726,7 +726,7 @@
       "changed": "2026-10-27T21:00:13+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "78c1ae2c0d1b64ba73fb34eb643171caf11d75a79348bc9697611d57b1034632",
+      "hash": "7c3cc104c95735671f7e38c4c9fe34ea5e94350fe7483180aa1cf96d18b18ab9",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "clayface",
@@ -737,6 +737,7 @@
         "infiltrate",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
+        "naseeb-arabic",
         "no-paradise-if-you-are-killed-by-a-woman",
         "other-mommy",
         "red-flag-arabic",
@@ -753,21 +754,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-27T20:55:11+03:00"
+      "changed": "2026-10-28T01:45:14+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T01:40:11+03:00"
+      "checked": "2026-10-28T01:45:14+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T01:40:11+03:00"
+      "checked": "2026-10-28T01:45:14+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T01:40:11+03:00"
+      "checked": "2026-10-28T01:45:14+03:00"
     }
   }
 }
