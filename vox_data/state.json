@@ -682,7 +682,7 @@
       "changed": "2026-10-27T15:00:13+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "a31445ef948a698110f25a151e87033500559e1599d19686c946be07c5589eb7",
+      "hash": "6e007a3845df53a32610d455e8aceb2e934b90e643273445f275007d89de7bf7",
       "slugs": [
         "clayface",
         "enhypen-world-tour-blood-saga",
@@ -692,15 +692,14 @@
         "other-mommy",
         "street-fighter",
         "the-dino-family",
-        "tomorrow-x-together-world-tour-act-tomorrow",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-27T01:50:14+03:00"
+      "changed": "2026-10-27T20:50:14+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "67cf108abca2091c34df9e883d170884ac53055762372676598df115235d4682",
+      "hash": "38809c16fcecaa200bb4c6fad6c6a2087902b3704c644ade41bb34e5484a6ef7",
       "slugs": [
         "clayface",
         "digger",
@@ -719,12 +718,11 @@
         "the-dino-family",
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
-        "tomorrow-x-together-world-tour-act-tomorrow",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-26T18:20:12+03:00"
+      "changed": "2026-10-27T20:50:14+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "f600a01ce4d820b2ad57ecc65538e3d8df3370d31966229fedc215e39c504b31",
@@ -761,15 +759,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T20:45:11+03:00"
+      "checked": "2026-10-27T20:50:14+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T20:45:11+03:00"
+      "checked": "2026-10-27T20:50:14+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T20:45:11+03:00"
+      "checked": "2026-10-27T20:50:14+03:00"
     }
   }
 }
