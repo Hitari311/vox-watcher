@@ -699,7 +699,7 @@
       "changed": "2026-10-27T20:50:14+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "67cf108abca2091c34df9e883d170884ac53055762372676598df115235d4682",
+      "hash": "38809c16fcecaa200bb4c6fad6c6a2087902b3704c644ade41bb34e5484a6ef7",
       "slugs": [
         "clayface",
         "digger",
@@ -718,12 +718,11 @@
         "the-dino-family",
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
-        "tomorrow-x-together-world-tour-act-tomorrow",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-27T20:55:11+03:00"
+      "changed": "2026-10-27T21:00:13+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "78c1ae2c0d1b64ba73fb34eb643171caf11d75a79348bc9697611d57b1034632",
@@ -759,15 +758,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T20:55:11+03:00"
+      "checked": "2026-10-27T21:00:13+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T20:55:11+03:00"
+      "checked": "2026-10-27T21:00:13+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T20:55:11+03:00"
+      "checked": "2026-10-27T21:00:13+03:00"
     }
   }
 }
