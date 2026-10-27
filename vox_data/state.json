@@ -232,7 +232,8 @@
       "title": "Avengers: Doomsday (Infinity Vision)",
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-07T21:48:25+03:00"
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "whatson": "2026-10-27T17:20:09+03:00"
       }
     },
     "children-of-blood-and-bone": {
@@ -618,8 +619,9 @@
   },
   "sources": {
     "whatson": {
-      "hash": "c4e25a81647ff352ccb5ea57195e5f1337ac9f654d7ef885114f758a78f50e31",
+      "hash": "de1cefd8f78087341a0583d2bf98db3e933c2ea43f5734002b3f703b77f0aedc",
       "slugs": [
+        "avengers-doomsday-infinity-vision",
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
@@ -648,7 +650,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-26T17:35:10+03:00"
+      "changed": "2026-10-27T17:20:09+03:00"
     },
     "comingsoon": {
       "hash": "3745da8990e9a3606fbb87c9df9036a16e5241737e770ecd9141d6b21e4b350c",
@@ -758,15 +760,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T17:15:11+03:00"
+      "checked": "2026-10-27T17:20:09+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T17:15:11+03:00"
+      "checked": "2026-10-27T17:20:09+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T17:15:11+03:00"
+      "checked": "2026-10-27T17:20:09+03:00"
     }
   }
 }
