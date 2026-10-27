@@ -511,7 +511,8 @@
       "title": "Naseeb",
       "first_seen": "2026-10-15T14:20:12+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-15T14:20:12+03:00"
+        "comingsoon": "2026-10-15T14:20:12+03:00",
+        "whatson": "2026-10-28T01:40:11+03:00"
       }
     },
     "bts-world-tour-arirang-in-buenos-aires-delayed": {
@@ -620,7 +621,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "d855b3aba194c24e01c9ab6373ff3752dfd90a6b2f2e26688de837755aa30250",
+      "hash": "a23b0920a70e99ff6c69ff7d4f28c7d49c1cc9e2d191e04bbdf8452fc3408acd",
       "slugs": [
         "avengers-doomsday-infinity-vision",
         "avengers-endgame-encore-infinity-vision",
@@ -634,6 +635,7 @@
         "infiltrate",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
+        "naseeb-arabic",
         "no-paradise-if-you-are-killed-by-a-woman",
         "other-mommy",
         "red-flag-arabic",
@@ -651,7 +653,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-27T19:50:11+03:00"
+      "changed": "2026-10-28T01:40:11+03:00"
     },
     "comingsoon": {
       "hash": "737798d09b13c8c8e44b6f1da61742d340e3c9d510c5c00280db0673c6a49e8e",
@@ -757,15 +759,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T01:35:11+03:00"
+      "checked": "2026-10-28T01:40:11+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T01:35:11+03:00"
+      "checked": "2026-10-28T01:40:11+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T01:35:11+03:00"
+      "checked": "2026-10-28T01:40:11+03:00"
     }
   }
 }
