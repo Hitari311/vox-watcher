@@ -620,7 +620,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "5204c692587123d7bca8b9ec3b67e9b391ae28ee0941838e8016fb00269684de",
+      "hash": "d855b3aba194c24e01c9ab6373ff3752dfd90a6b2f2e26688de837755aa30250",
       "slugs": [
         "avengers-doomsday-infinity-vision",
         "avengers-endgame-encore-infinity-vision",
@@ -647,12 +647,11 @@
         "the-magic-faraway-tree",
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
-        "tomorrow-x-together-world-tour-act-tomorrow",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-27T19:10:10+03:00"
+      "changed": "2026-10-27T19:50:11+03:00"
     },
     "comingsoon": {
       "hash": "3745da8990e9a3606fbb87c9df9036a16e5241737e770ecd9141d6b21e4b350c",
@@ -762,15 +761,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T19:45:15+03:00"
+      "checked": "2026-10-27T19:50:11+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T19:45:15+03:00"
+      "checked": "2026-10-27T19:50:11+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-27T19:45:15+03:00"
+      "checked": "2026-10-27T19:50:11+03:00"
     }
   }
 }
