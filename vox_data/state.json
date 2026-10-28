@@ -697,7 +697,7 @@
       "changed": "2026-10-28T23:00:12+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "87f1650feb6a5055494c27e25427b94169ddca0c9db01d3f6c751b43e373f504",
+      "hash": "9a0e764b8806ca4c3d5799044f3b9b1e1356bebd0cba5afb4137a896e7e29cb2",
       "slugs": [
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
@@ -706,12 +706,11 @@
         "naseeb-arabic",
         "other-mommy",
         "seventeen-world-tour-new",
-        "street-fighter",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T21:10:11+03:00"
+      "changed": "2026-10-28T23:40:12+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "bb0ffab42ec3a7bfc2b30fe2dfa14f9d43033d9dfe9bbb1454d92dd4fc6038fe",
@@ -756,15 +755,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T23:35:10+03:00"
+      "checked": "2026-10-28T23:40:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T23:35:10+03:00"
+      "checked": "2026-10-28T23:40:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T23:35:10+03:00"
+      "checked": "2026-10-28T23:40:12+03:00"
     }
   }
 }
