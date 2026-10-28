@@ -738,7 +738,7 @@
       "changed": "2026-10-28T10:40:12+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "7c3cc104c95735671f7e38c4c9fe34ea5e94350fe7483180aa1cf96d18b18ab9",
+      "hash": "14aee99b40f504261bb0d56832116a91bcbd396c7278fb52549ef54e7316332b",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "clayface",
@@ -761,26 +761,25 @@
         "the-dino-family",
         "the-magic-faraway-tree",
         "the-odyssey",
-        "the-smurfs-timeless-adventure-volume-2",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T01:45:14+03:00"
+      "changed": "2026-10-28T14:40:11+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T14:35:12+03:00"
+      "checked": "2026-10-28T14:40:11+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T14:35:12+03:00"
+      "checked": "2026-10-28T14:40:11+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T14:35:12+03:00"
+      "checked": "2026-10-28T14:40:11+03:00"
     }
   }
 }
