@@ -720,7 +720,7 @@
       "changed": "2026-10-28T21:10:11+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "9fefdeb0fea8e163a10a82f607fcd0e8a20138a22fbf7b4f9359014df42a525e",
+      "hash": "9b3ff5485c6a8c65e50de0a60dc01e8210d0ffd40aaac5cfe02498454b548b19",
       "slugs": [
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
@@ -739,16 +739,15 @@
         "the-influencer-project",
         "the-magic-faraway-tree",
         "the-mongoose",
-        "the-odyssey",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-28T21:15:15+03:00"
+      "changed": "2026-10-28T22:30:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "d17351d6799713a3147f5e8dc16cd4eae6714d44ce6a3a98dd2b7de64a874290",
+      "hash": "df669197b5fdd42df4bdf8c154b233ac6c1b506ba547a68b1e598b3cb3d52de6",
       "slugs": [
         "clayface",
         "heart-of-the-beast",
@@ -761,26 +760,25 @@
         "resident-evil",
         "spider-man-brand-new-day",
         "street-fighter",
-        "the-dino-family",
         "the-odyssey",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T21:10:11+03:00"
+      "changed": "2026-10-28T22:30:10+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T22:25:14+03:00"
+      "checked": "2026-10-28T22:30:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T22:25:14+03:00"
+      "checked": "2026-10-28T22:30:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T22:25:14+03:00"
+      "checked": "2026-10-28T22:30:10+03:00"
     }
   }
 }
