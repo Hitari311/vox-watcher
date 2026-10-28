@@ -712,7 +712,7 @@
       "changed": "2026-10-28T21:10:11+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "9b3ff5485c6a8c65e50de0a60dc01e8210d0ffd40aaac5cfe02498454b548b19",
+      "hash": "bb0ffab42ec3a7bfc2b30fe2dfa14f9d43033d9dfe9bbb1454d92dd4fc6038fe",
       "slugs": [
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
@@ -721,7 +721,6 @@
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
-        "no-paradise-if-you-are-killed-by-a-woman",
         "other-mommy",
         "resident-evil",
         "sense-and-sensibility",
@@ -731,43 +730,41 @@
         "the-influencer-project",
         "the-magic-faraway-tree",
         "the-mongoose",
+        "the-odyssey",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-28T22:30:10+03:00"
+      "changed": "2026-10-28T23:15:09+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "7c1ad028de9751e772add23d772f3057e8d25317ff1e48a4f5e7351e8c2aae85",
+      "hash": "d7ed116699a84113d8b8e53b4e7b028bd93780353c391901e8e3e21d2930f216",
       "slugs": [
         "clayface",
-        "heart-of-the-beast",
-        "infiltrate",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
-        "other-mommy",
         "red-flag-arabic",
         "resident-evil",
         "street-fighter",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T23:00:12+03:00"
+      "changed": "2026-10-28T23:15:09+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T23:10:10+03:00"
+      "checked": "2026-10-28T23:15:09+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T23:10:10+03:00"
+      "checked": "2026-10-28T23:15:09+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T23:10:10+03:00"
+      "checked": "2026-10-28T23:15:09+03:00"
     }
   }
 }
