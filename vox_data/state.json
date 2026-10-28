@@ -653,10 +653,11 @@
   },
   "sources": {
     "whatson": {
-      "hash": "05fc3667dd2db23d005b270c4bd452579cb6bde7f95e05d5f35fedef12189c50",
+      "hash": "623908bf38eefefebec1cbb6da6310b582ce99b79143f5a61c09b87498be9325",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
+        "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
         "dune-part-three",
@@ -670,6 +671,7 @@
         "resident-evil",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
+        "spider-man-brand-new-day",
         "street-fighter",
         "the-dino-family",
         "the-influencer-project",
@@ -681,7 +683,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-28T23:25:10+03:00"
+      "changed": "2026-10-29T02:20:10+03:00"
     },
     "comingsoon": {
       "hash": "19bfa2e3c929f0f55f59b402f19213725071b7b5bf7f6ea37bf1fee06eecebac",
@@ -781,15 +783,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T02:15:09+03:00"
+      "checked": "2026-10-29T02:20:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T02:15:09+03:00"
+      "checked": "2026-10-29T02:20:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-31",
-      "checked": "2026-10-29T02:15:09+03:00"
+      "checked": "2026-10-29T02:20:10+03:00"
     }
   }
 }
