@@ -644,7 +644,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "4b24cdba2e36914d15fe47d330b9bfca2481c94df11840291620b553f13000ce",
+      "hash": "619642ae2a5efaecb559ae2ebf8d4fb2b50886d97734f4e51f4ad199b4eb2687",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -664,7 +664,6 @@
         "resident-evil",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
-        "spider-man-brand-new-day",
         "street-fighter",
         "the-dino-family",
         "the-influencer-project",
@@ -676,7 +675,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-28T21:15:15+03:00"
+      "changed": "2026-10-28T21:55:11+03:00"
     },
     "comingsoon": {
       "hash": "6abcef9242c010b68331e5b08125b4903ef328938da5187957706d2e691ebbf2",
@@ -776,15 +775,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T21:50:12+03:00"
+      "checked": "2026-10-28T21:55:11+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T21:50:12+03:00"
+      "checked": "2026-10-28T21:55:11+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T21:50:12+03:00"
+      "checked": "2026-10-28T21:55:11+03:00"
     }
   }
 }
