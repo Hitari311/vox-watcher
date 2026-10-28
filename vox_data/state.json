@@ -741,32 +741,30 @@
       "changed": "2026-10-28T23:15:09+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "d7ed116699a84113d8b8e53b4e7b028bd93780353c391901e8e3e21d2930f216",
+      "hash": "ef89e9d4266c522247c6837b561192c147d7fcdd160bec539da0b86fc1723062",
       "slugs": [
-        "clayface",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
-        "red-flag-arabic",
         "resident-evil",
         "street-fighter",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T23:25:10+03:00"
+      "changed": "2026-10-28T23:35:10+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T23:30:12+03:00"
+      "checked": "2026-10-28T23:35:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T23:30:12+03:00"
+      "checked": "2026-10-28T23:35:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T23:30:12+03:00"
+      "checked": "2026-10-28T23:35:10+03:00"
     }
   }
 }
