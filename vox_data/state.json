@@ -632,7 +632,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "0864263be910378854ba47d66dcf760658316883e6f63bb1ec6b4552d0b970ce",
+      "hash": "ba4081105b57dcdd60950d8f7d2aee92f7d4b69059a1d12c402e8ab5052c7042",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -649,8 +649,6 @@
         "other-mommy",
         "red-flag-arabic",
         "resident-evil",
-        "soy-arabic",
-        "soy-turkish",
         "spider-man-brand-new-day",
         "street-fighter",
         "the-dino-family",
@@ -659,7 +657,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T19:05:15+03:00"
+      "changed": "2026-10-28T19:35:14+03:00"
     },
     "comingsoon": {
       "hash": "6abcef9242c010b68331e5b08125b4903ef328938da5187957706d2e691ebbf2",
@@ -757,15 +755,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T19:30:15+03:00"
+      "checked": "2026-10-28T19:35:14+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T19:30:15+03:00"
+      "checked": "2026-10-28T19:35:14+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T19:30:15+03:00"
+      "checked": "2026-10-28T19:35:14+03:00"
     }
   }
 }
