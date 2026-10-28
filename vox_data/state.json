@@ -644,7 +644,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "4cbfdd03294524e52727d412b1e3af1f396154416576c32cbc4ac7e1603bc57f",
+      "hash": "57d60fa55cec7ee236c77f83b50307d625a385e959c768042275e6c4dca40503",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -658,7 +658,6 @@
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "other-mommy",
-        "resident-evil",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
         "street-fighter",
@@ -671,7 +670,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-28T22:35:10+03:00"
+      "changed": "2026-10-28T22:50:10+03:00"
     },
     "comingsoon": {
       "hash": "6abcef9242c010b68331e5b08125b4903ef328938da5187957706d2e691ebbf2",
@@ -768,15 +767,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T22:48:55+03:00"
+      "checked": "2026-10-28T22:50:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T22:48:55+03:00"
+      "checked": "2026-10-28T22:50:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T22:48:55+03:00"
+      "checked": "2026-10-28T22:50:10+03:00"
     }
   }
 }
