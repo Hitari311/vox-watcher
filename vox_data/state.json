@@ -296,7 +296,8 @@
       "title": "Sense and Sensibility",
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-07T21:48:25+03:00"
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "whatson": "2026-10-28T20:40:11+03:00"
       }
     },
     "seventeen-world-tour-new": {
@@ -350,14 +351,16 @@
       "title": "The Influencer Project",
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-07T21:48:25+03:00"
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "whatson": "2026-10-28T20:40:11+03:00"
       }
     },
     "the-mongoose": {
       "title": "The Mongoose",
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-07T21:48:25+03:00"
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "whatson": "2026-10-28T20:40:11+03:00"
       }
     },
     "tomorrow-x-together-world-tour-act-tomorrow": {
@@ -404,7 +407,8 @@
       "title": "Wildwood",
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-07T21:48:25+03:00"
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "whatson": "2026-10-28T20:40:11+03:00"
       }
     },
     "coyote-vs-acme": {
@@ -611,7 +615,8 @@
       "title": "Hope",
       "first_seen": "2026-10-22T13:05:16+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-22T13:05:16+03:00"
+        "comingsoon": "2026-10-22T13:05:16+03:00",
+        "whatson": "2026-10-28T20:40:11+03:00"
       }
     },
     "dune-part-three": {
@@ -632,7 +637,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "54ae1774b8641870785a1ff4e5aa82241064cf83906c6c604fe4124c0b097f35",
+      "hash": "c322abc47887dafc23ea0cb42e65940104a97dad95b647e428329f97023e8133",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -640,6 +645,7 @@
         "clayface",
         "dune-part-three",
         "heart-of-the-beast",
+        "hope-korean",
         "infiltrate",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
@@ -648,15 +654,21 @@
         "other-mommy",
         "red-flag-arabic",
         "resident-evil",
+        "sense-and-sensibility",
+        "seventeen-world-tour-new",
         "spider-man-brand-new-day",
         "street-fighter",
         "the-dino-family",
+        "the-influencer-project",
+        "the-magic-faraway-tree",
+        "the-mongoose",
         "the-odyssey",
         "verity",
         "wala-kan-ala-el-bal-arabic",
-        "whalefall"
+        "whalefall",
+        "wildwood"
       ],
-      "changed": "2026-10-28T20:05:24+03:00"
+      "changed": "2026-10-28T20:40:11+03:00"
     },
     "comingsoon": {
       "hash": "6abcef9242c010b68331e5b08125b4903ef328938da5187957706d2e691ebbf2",
@@ -748,15 +760,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T20:35:12+03:00"
+      "checked": "2026-10-28T20:40:11+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T20:35:12+03:00"
+      "checked": "2026-10-28T20:40:11+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T20:35:12+03:00"
+      "checked": "2026-10-28T20:40:11+03:00"
     }
   }
 }
