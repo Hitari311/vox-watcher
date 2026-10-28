@@ -301,7 +301,9 @@
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "whatson": "2026-10-28T20:40:11+03:00",
-        "showtimes:city-centre-almaza": "2026-10-28T20:45:14+03:00"
+        "showtimes:city-centre-almaza": "2026-10-28T20:45:14+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-29T02:10:09+03:00",
+        "showtimes:mall-of-egypt": "2026-10-29T02:10:09+03:00"
       }
     },
     "seventeen-world-tour-new": {
@@ -357,7 +359,8 @@
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "whatson": "2026-10-28T20:40:11+03:00",
-        "showtimes:city-centre-almaza": "2026-10-28T20:45:14+03:00"
+        "showtimes:city-centre-almaza": "2026-10-28T20:45:14+03:00",
+        "showtimes:mall-of-egypt": "2026-10-29T02:10:09+03:00"
       }
     },
     "the-mongoose": {
@@ -366,7 +369,9 @@
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "whatson": "2026-10-28T20:40:11+03:00",
-        "showtimes:city-centre-almaza": "2026-10-28T20:45:14+03:00"
+        "showtimes:city-centre-almaza": "2026-10-28T20:45:14+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-29T02:10:09+03:00",
+        "showtimes:mall-of-egypt": "2026-10-29T02:10:09+03:00"
       }
     },
     "tomorrow-x-together-world-tour-act-tomorrow": {
@@ -415,7 +420,8 @@
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "whatson": "2026-10-28T20:40:11+03:00",
-        "showtimes:city-centre-almaza": "2026-10-28T20:45:14+03:00"
+        "showtimes:city-centre-almaza": "2026-10-28T20:45:14+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-29T02:10:09+03:00"
       }
     },
     "coyote-vs-acme": {
@@ -624,7 +630,9 @@
       "seen_in": {
         "comingsoon": "2026-10-22T13:05:16+03:00",
         "whatson": "2026-10-28T20:40:11+03:00",
-        "showtimes:city-centre-almaza": "2026-10-28T20:45:14+03:00"
+        "showtimes:city-centre-almaza": "2026-10-28T20:45:14+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-29T02:10:09+03:00",
+        "showtimes:mall-of-egypt": "2026-10-29T02:10:09+03:00"
       }
     },
     "dune-part-three": {
@@ -698,20 +706,24 @@
       "changed": "2026-10-28T23:00:12+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "9a0e764b8806ca4c3d5799044f3b9b1e1356bebd0cba5afb4137a896e7e29cb2",
+      "hash": "71f02e780fff77d3b8e9425a749c45e41ccdb39adc8730a35a38dbbcb2fd1990",
       "slugs": [
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
+        "hope-korean",
         "hybe-cheering-party-3d",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "other-mommy",
+        "sense-and-sensibility",
         "seventeen-world-tour-new",
+        "the-mongoose",
         "verity",
         "wala-kan-ala-el-bal-arabic",
-        "whalefall"
+        "whalefall",
+        "wildwood"
       ],
-      "changed": "2026-10-28T23:40:12+03:00"
+      "changed": "2026-10-29T02:10:09+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "bb0ffab42ec3a7bfc2b30fe2dfa14f9d43033d9dfe9bbb1454d92dd4fc6038fe",
@@ -741,25 +753,43 @@
       "changed": "2026-10-28T23:15:09+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "78dc8a634ce726c8e2fd138915992dae24d392e5d9c4f821abc91b1ff32244cf",
+      "hash": "fbd745c87d076950d80a866cd8acb1e3144f415c62949ebe3da5e895ff8a13fa",
       "slugs": [
-        "bts-world-tour-arirang-in-s-o-paulo-live"
+        "avengers-endgame-encore-infinity-vision",
+        "bts-world-tour-arirang-in-s-o-paulo-live",
+        "clayface",
+        "heart-of-the-beast",
+        "hope-korean",
+        "hybe-cheering-party-3d",
+        "matloub-3a2eleyain-arabic",
+        "naseeb-arabic",
+        "resident-evil",
+        "sense-and-sensibility",
+        "seventeen-world-tour-new",
+        "spider-man-brand-new-day",
+        "street-fighter",
+        "the-dino-family",
+        "the-influencer-project",
+        "the-mongoose",
+        "verity",
+        "wala-kan-ala-el-bal-arabic",
+        "whalefall"
       ],
-      "changed": "2026-10-29T00:00:19+03:00"
+      "changed": "2026-10-29T02:10:09+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T02:05:10+03:00"
+      "checked": "2026-10-29T02:10:09+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T02:05:10+03:00"
+      "checked": "2026-10-29T02:10:09+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-31",
-      "checked": "2026-10-29T02:05:10+03:00"
+      "checked": "2026-10-29T02:10:09+03:00"
     }
   }
 }
