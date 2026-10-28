@@ -632,14 +632,13 @@
   },
   "sources": {
     "whatson": {
-      "hash": "ba4081105b57dcdd60950d8f7d2aee92f7d4b69059a1d12c402e8ab5052c7042",
+      "hash": "54ae1774b8641870785a1ff4e5aa82241064cf83906c6c604fe4124c0b097f35",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
         "dune-part-three",
-        "enhypen-world-tour-blood-saga",
         "heart-of-the-beast",
         "infiltrate",
         "mahmoud-el-tany-arabic",
@@ -657,7 +656,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T19:35:14+03:00"
+      "changed": "2026-10-28T20:05:24+03:00"
     },
     "comingsoon": {
       "hash": "6abcef9242c010b68331e5b08125b4903ef328938da5187957706d2e691ebbf2",
@@ -725,11 +724,9 @@
       "changed": "2026-10-28T18:50:17+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "012f361835fd65e26b512c70c1014a8ba198fb89736be7498678708b61acfe5b",
+      "hash": "d2d0c5c1c9205c9d5101c9d9dc45ff698b6c4938a8530668892ad717cf2eaf4e",
       "slugs": [
-        "avengers-endgame-encore-infinity-vision",
         "clayface",
-        "digger",
         "enhypen-world-tour-blood-saga",
         "heart-of-the-beast",
         "infiltrate",
@@ -749,21 +746,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T18:25:10+03:00"
+      "changed": "2026-10-28T20:05:24+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T20:00:12+03:00"
+      "checked": "2026-10-28T20:05:24+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T20:00:12+03:00"
+      "checked": "2026-10-28T20:05:24+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T20:00:12+03:00"
+      "checked": "2026-10-28T20:05:24+03:00"
     }
   }
 }
