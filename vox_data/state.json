@@ -620,6 +620,13 @@
         "comingsoon": "2026-10-27T15:00:13+03:00",
         "whatson": "2026-10-27T19:10:10+03:00"
       }
+    },
+    "moscow-cairo-arabic": {
+      "title": "Moscow Cairo",
+      "first_seen": "2026-10-28T11:20:11+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-28T11:20:11+03:00"
+      }
     }
   },
   "sources": {
@@ -659,7 +666,7 @@
       "changed": "2026-10-28T01:50:10+03:00"
     },
     "comingsoon": {
-      "hash": "737798d09b13c8c8e44b6f1da61742d340e3c9d510c5c00280db0673c6a49e8e",
+      "hash": "6abcef9242c010b68331e5b08125b4903ef328938da5187957706d2e691ebbf2",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -674,6 +681,7 @@
         "hexed",
         "hope-korean",
         "jumanji-open-world",
+        "moscow-cairo-arabic",
         "narnia-the-magicians-nephew",
         "sense-and-sensibility",
         "the-cat-in-the-hat",
@@ -683,7 +691,7 @@
         "violent-night-2",
         "wildwood"
       ],
-      "changed": "2026-10-27T23:00:12+03:00"
+      "changed": "2026-10-28T11:20:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "7a4f09aad2b64b890fff8085d600a7d09a3511f7b093d68b3b1c2fb123ffe5c5",
@@ -765,15 +773,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T11:15:10+03:00"
+      "checked": "2026-10-28T11:20:11+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T11:15:10+03:00"
+      "checked": "2026-10-28T11:20:11+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T11:15:10+03:00"
+      "checked": "2026-10-28T11:20:11+03:00"
     }
   }
 }
