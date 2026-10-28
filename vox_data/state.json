@@ -707,7 +707,7 @@
       "changed": "2026-10-28T18:25:10+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "fbdff850cb4ba20277e9fcb0c3a5912aa083f897f7233234d2c26cd94965a18c",
+      "hash": "20abf4ab043042198bdcd5f9615cf6224968025c0cec12950658ed212ec363b3",
       "slugs": [
         "clayface",
         "enhypen-world-tour-blood-saga",
@@ -719,7 +719,6 @@
         "other-mommy",
         "red-flag-arabic",
         "resident-evil",
-        "shish-dou-arabic",
         "soy-turkish",
         "street-fighter",
         "the-odyssey",
@@ -727,7 +726,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T18:25:10+03:00"
+      "changed": "2026-10-28T18:50:17+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "012f361835fd65e26b512c70c1014a8ba198fb89736be7498678708b61acfe5b",
@@ -760,15 +759,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T18:45:11+03:00"
+      "checked": "2026-10-28T18:50:17+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T18:45:11+03:00"
+      "checked": "2026-10-28T18:50:17+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T18:45:11+03:00"
+      "checked": "2026-10-28T18:50:17+03:00"
     }
   }
 }
