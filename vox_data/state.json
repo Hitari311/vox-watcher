@@ -644,7 +644,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "c322abc47887dafc23ea0cb42e65940104a97dad95b647e428329f97023e8133",
+      "hash": "4b24cdba2e36914d15fe47d330b9bfca2481c94df11840291620b553f13000ce",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -653,6 +653,7 @@
         "dune-part-three",
         "heart-of-the-beast",
         "hope-korean",
+        "hybe-cheering-party-3d",
         "infiltrate",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
@@ -675,7 +676,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-28T20:40:11+03:00"
+      "changed": "2026-10-28T21:15:15+03:00"
     },
     "comingsoon": {
       "hash": "6abcef9242c010b68331e5b08125b4903ef328938da5187957706d2e691ebbf2",
@@ -723,7 +724,7 @@
       "changed": "2026-10-28T21:10:11+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "73a1ee45c7bcfeafea509dbce95220a31fc8cd07c16786df4f6087a336c5352e",
+      "hash": "9fefdeb0fea8e163a10a82f607fcd0e8a20138a22fbf7b4f9359014df42a525e",
       "slugs": [
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
@@ -734,7 +735,6 @@
         "naseeb-arabic",
         "no-paradise-if-you-are-killed-by-a-woman",
         "other-mommy",
-        "red-flag-arabic",
         "resident-evil",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
@@ -749,7 +749,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-28T20:45:14+03:00"
+      "changed": "2026-10-28T21:15:15+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "d17351d6799713a3147f5e8dc16cd4eae6714d44ce6a3a98dd2b7de64a874290",
@@ -776,15 +776,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T21:10:11+03:00"
+      "checked": "2026-10-28T21:15:15+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T21:10:11+03:00"
+      "checked": "2026-10-28T21:15:15+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T21:10:11+03:00"
+      "checked": "2026-10-28T21:15:15+03:00"
     }
   }
 }
