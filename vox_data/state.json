@@ -735,7 +735,7 @@
       "changed": "2026-10-28T10:40:12+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "4b226f9b176337aaf7e6bbf918565d726780ac9759e41f0ef070a2c22f5585f2",
+      "hash": "14aee99b40f504261bb0d56832116a91bcbd396c7278fb52549ef54e7316332b",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "clayface",
@@ -752,6 +752,7 @@
         "red-flag-arabic",
         "resident-evil",
         "soy-arabic",
+        "soy-turkish",
         "spider-man-brand-new-day",
         "street-fighter",
         "the-dino-family",
@@ -761,21 +762,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T15:20:11+03:00"
+      "changed": "2026-10-28T15:25:13+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T15:20:11+03:00"
+      "checked": "2026-10-28T15:25:13+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T15:20:11+03:00"
+      "checked": "2026-10-28T15:25:13+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T15:20:11+03:00"
+      "checked": "2026-10-28T15:25:13+03:00"
     }
   }
 }
