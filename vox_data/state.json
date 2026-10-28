@@ -225,7 +225,8 @@
       "title": "Avengers: Doomsday",
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-07T21:48:25+03:00"
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "whatson": "2026-10-28T16:45:09+03:00"
       }
     },
     "avengers-doomsday-infinity-vision": {
@@ -631,8 +632,9 @@
   },
   "sources": {
     "whatson": {
-      "hash": "9c4479de333ce03947ff2c046e73d3694670651176370a99c5cd8ed8f3bada49",
+      "hash": "ad2e64acee203d47541a4d5c9ae07932eb6bd1f6c98abeb80ec2d1c1b5cc326c",
       "slugs": [
+        "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-s-o-paulo-live",
@@ -662,7 +664,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T15:50:11+03:00"
+      "changed": "2026-10-28T16:45:09+03:00"
     },
     "comingsoon": {
       "hash": "6abcef9242c010b68331e5b08125b4903ef328938da5187957706d2e691ebbf2",
@@ -733,7 +735,7 @@
       "changed": "2026-10-28T15:50:11+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "4b226f9b176337aaf7e6bbf918565d726780ac9759e41f0ef070a2c22f5585f2",
+      "hash": "c24b4f763867cbc27f9dc2712fd42be0f0a74361655a378798f17796f6751e27",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "clayface",
@@ -753,27 +755,26 @@
         "spider-man-brand-new-day",
         "street-fighter",
         "the-dino-family",
-        "the-magic-faraway-tree",
         "the-odyssey",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T15:30:12+03:00"
+      "changed": "2026-10-28T16:45:09+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T16:40:11+03:00"
+      "checked": "2026-10-28T16:45:09+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T16:40:11+03:00"
+      "checked": "2026-10-28T16:45:09+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T16:40:11+03:00"
+      "checked": "2026-10-28T16:45:09+03:00"
     }
   }
 }
