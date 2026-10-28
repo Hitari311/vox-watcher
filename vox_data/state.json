@@ -693,24 +693,25 @@
       "changed": "2026-10-28T11:20:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "81e92ec9dc1ce922840740e685a506773a6eaf041eda7f4f232a4b139bd1958b",
+      "hash": "1c9cb16f382bd90113644131960cfd2e9621645087c9edc45399334e2c84b01e",
       "slugs": [
         "clayface",
+        "enhypen-world-tour-blood-saga",
         "hybe-cheering-party-3d",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "other-mommy",
+        "street-fighter",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T15:10:09+03:00"
+      "changed": "2026-10-28T17:30:10+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "59ab6b12f494adfca19e82d6502d7397a17ff653d1cb10b55a8311ae81e000d3",
+      "hash": "169bc58329e697a87fc789c2953c87d936581082ff4b13aa925f346c602ae6f7",
       "slugs": [
         "clayface",
-        "digger",
         "enhypen-world-tour-blood-saga",
         "heart-of-the-beast",
         "hybe-cheering-party-3d",
@@ -730,7 +731,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T15:50:11+03:00"
+      "changed": "2026-10-28T17:30:10+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "c24b4f763867cbc27f9dc2712fd42be0f0a74361655a378798f17796f6751e27",
@@ -764,15 +765,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T17:24:49+03:00"
+      "checked": "2026-10-28T17:30:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T17:24:49+03:00"
+      "checked": "2026-10-28T17:30:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T17:24:49+03:00"
+      "checked": "2026-10-28T17:30:10+03:00"
     }
   }
 }
