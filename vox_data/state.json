@@ -746,7 +746,7 @@
       "changed": "2026-10-28T22:30:10+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "df669197b5fdd42df4bdf8c154b233ac6c1b506ba547a68b1e598b3cb3d52de6",
+      "hash": "78fc1de0cab600ed0b9580d9571b5cc53560e1b80e8db95d37f15d6294f7c496",
       "slugs": [
         "clayface",
         "heart-of-the-beast",
@@ -757,27 +757,26 @@
         "other-mommy",
         "red-flag-arabic",
         "resident-evil",
-        "spider-man-brand-new-day",
         "street-fighter",
         "the-odyssey",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T22:30:10+03:00"
+      "changed": "2026-10-28T22:48:55+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T22:45:11+03:00"
+      "checked": "2026-10-28T22:48:55+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T22:45:11+03:00"
+      "checked": "2026-10-28T22:48:55+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T22:45:11+03:00"
+      "checked": "2026-10-28T22:48:55+03:00"
     }
   }
 }
