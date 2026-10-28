@@ -58,7 +58,8 @@
         "whatson": "2026-10-07T21:48:25+03:00",
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "showtimes:city-centre-almaza": "2026-10-28T20:45:14+03:00",
-        "showtimes:city-centre-alexandria": "2026-10-28T21:10:11+03:00"
+        "showtimes:city-centre-alexandria": "2026-10-28T21:10:11+03:00",
+        "showtimes:mall-of-egypt": "2026-10-29T00:00:19+03:00"
       }
     },
     "cahim-2-turkish": {
@@ -740,29 +741,25 @@
       "changed": "2026-10-28T23:15:09+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "05bb864d562bd23290d30ee35e7173f2cbba750b373b0b4ff3291fc255167706",
+      "hash": "78dc8a634ce726c8e2fd138915992dae24d392e5d9c4f821abc91b1ff32244cf",
       "slugs": [
-        "matloub-3a2eleyain-arabic",
-        "naseeb-arabic",
-        "street-fighter",
-        "wala-kan-ala-el-bal-arabic",
-        "whalefall"
+        "bts-world-tour-arirang-in-s-o-paulo-live"
       ],
-      "changed": "2026-10-28T23:55:12+03:00"
+      "changed": "2026-10-29T00:00:19+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T23:55:12+03:00"
+      "checked": "2026-10-29T00:00:19+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T23:55:12+03:00"
+      "checked": "2026-10-29T00:00:19+03:00"
     },
     "mall-of-egypt": {
-      "last_date": "2026-10-28",
-      "checked": "2026-10-28T23:55:12+03:00"
+      "last_date": "2026-10-31",
+      "checked": "2026-10-29T00:00:19+03:00"
     }
   }
 }
