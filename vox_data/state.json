@@ -644,7 +644,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "619642ae2a5efaecb559ae2ebf8d4fb2b50886d97734f4e51f4ad199b4eb2687",
+      "hash": "2abc4b4d0fa67e1b7e5db23f6730bba0a6b59cc3026aa86fcd05a65d538b39fb",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -658,7 +658,6 @@
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
-        "no-paradise-if-you-are-killed-by-a-woman",
         "other-mommy",
         "red-flag-arabic",
         "resident-evil",
@@ -669,13 +668,12 @@
         "the-influencer-project",
         "the-magic-faraway-tree",
         "the-mongoose",
-        "the-odyssey",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-28T21:55:11+03:00"
+      "changed": "2026-10-28T22:10:10+03:00"
     },
     "comingsoon": {
       "hash": "6abcef9242c010b68331e5b08125b4903ef328938da5187957706d2e691ebbf2",
@@ -775,15 +773,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T22:05:10+03:00"
+      "checked": "2026-10-28T22:10:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T22:05:10+03:00"
+      "checked": "2026-10-28T22:10:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T22:05:10+03:00"
+      "checked": "2026-10-28T22:10:10+03:00"
     }
   }
 }
