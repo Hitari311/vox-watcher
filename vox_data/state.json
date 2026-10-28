@@ -514,7 +514,8 @@
         "comingsoon": "2026-10-15T14:20:12+03:00",
         "whatson": "2026-10-28T01:40:11+03:00",
         "showtimes:mall-of-egypt": "2026-10-28T01:45:14+03:00",
-        "showtimes:city-centre-alexandria": "2026-10-28T10:05:09+03:00"
+        "showtimes:city-centre-alexandria": "2026-10-28T10:05:09+03:00",
+        "showtimes:city-centre-almaza": "2026-10-28T10:40:12+03:00"
       }
     },
     "bts-world-tour-arirang-in-buenos-aires-delayed": {
@@ -703,7 +704,7 @@
       "changed": "2026-10-28T10:05:09+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "38809c16fcecaa200bb4c6fad6c6a2087902b3704c644ade41bb34e5484a6ef7",
+      "hash": "d77426a12025a378467ca7afe27b1c528fb005cc25f81000de51ae4a12621a45",
       "slugs": [
         "clayface",
         "digger",
@@ -712,6 +713,7 @@
         "hybe-cheering-party-3d",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
+        "naseeb-arabic",
         "no-paradise-if-you-are-killed-by-a-woman",
         "other-mommy",
         "red-flag-arabic",
@@ -726,7 +728,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-27T21:00:13+03:00"
+      "changed": "2026-10-28T10:40:12+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "7c3cc104c95735671f7e38c4c9fe34ea5e94350fe7483180aa1cf96d18b18ab9",
@@ -763,15 +765,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T10:35:09+03:00"
+      "checked": "2026-10-28T10:40:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T10:35:09+03:00"
+      "checked": "2026-10-28T10:40:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T10:35:09+03:00"
+      "checked": "2026-10-28T10:40:12+03:00"
     }
   }
 }
