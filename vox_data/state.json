@@ -644,7 +644,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "57d60fa55cec7ee236c77f83b50307d625a385e959c768042275e6c4dca40503",
+      "hash": "05fc3667dd2db23d005b270c4bd452579cb6bde7f95e05d5f35fedef12189c50",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -658,6 +658,7 @@
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "other-mommy",
+        "resident-evil",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
         "street-fighter",
@@ -665,12 +666,13 @@
         "the-influencer-project",
         "the-magic-faraway-tree",
         "the-mongoose",
+        "the-odyssey",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-28T22:50:10+03:00"
+      "changed": "2026-10-28T23:25:10+03:00"
     },
     "comingsoon": {
       "hash": "19bfa2e3c929f0f55f59b402f19213725071b7b5bf7f6ea37bf1fee06eecebac",
@@ -739,35 +741,32 @@
       "changed": "2026-10-28T23:15:09+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "7c1ad028de9751e772add23d772f3057e8d25317ff1e48a4f5e7351e8c2aae85",
+      "hash": "d7ed116699a84113d8b8e53b4e7b028bd93780353c391901e8e3e21d2930f216",
       "slugs": [
         "clayface",
-        "heart-of-the-beast",
-        "infiltrate",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
-        "other-mommy",
         "red-flag-arabic",
         "resident-evil",
         "street-fighter",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T23:20:11+03:00"
+      "changed": "2026-10-28T23:25:10+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T23:20:11+03:00"
+      "checked": "2026-10-28T23:25:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T23:20:11+03:00"
+      "checked": "2026-10-28T23:25:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T23:20:11+03:00"
+      "checked": "2026-10-28T23:25:10+03:00"
     }
   }
 }
