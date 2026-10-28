@@ -57,7 +57,8 @@
       "seen_in": {
         "whatson": "2026-10-07T21:48:25+03:00",
         "comingsoon": "2026-10-07T21:48:25+03:00",
-        "showtimes:city-centre-almaza": "2026-10-28T20:45:14+03:00"
+        "showtimes:city-centre-almaza": "2026-10-28T20:45:14+03:00",
+        "showtimes:city-centre-alexandria": "2026-10-28T21:10:11+03:00"
       }
     },
     "cahim-2-turkish": {
@@ -705,17 +706,21 @@
       "changed": "2026-10-28T11:20:11+03:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "ef0abb2915b420746e82e5ef54d4cdf800bc223fb55a82a473f1d3af06336de6",
+      "hash": "87f1650feb6a5055494c27e25427b94169ddca0c9db01d3f6c751b43e373f504",
       "slugs": [
+        "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
+        "hybe-cheering-party-3d",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "other-mommy",
+        "seventeen-world-tour-new",
         "street-fighter",
+        "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T20:45:14+03:00"
+      "changed": "2026-10-28T21:10:11+03:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "73a1ee45c7bcfeafea509dbce95220a31fc8cd07c16786df4f6087a336c5352e",
@@ -747,12 +752,11 @@
       "changed": "2026-10-28T20:45:14+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "d2a785a4c212e2fcd8ab00de8bcf86927f1da6a0a1b54959cfefb31b2a5f6c32",
+      "hash": "d17351d6799713a3147f5e8dc16cd4eae6714d44ce6a3a98dd2b7de64a874290",
       "slugs": [
         "clayface",
         "heart-of-the-beast",
         "infiltrate",
-        "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "no-paradise-if-you-are-killed-by-a-woman",
@@ -766,21 +770,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-28T21:05:13+03:00"
+      "changed": "2026-10-28T21:10:11+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
-      "last_date": "2026-10-28",
-      "checked": "2026-10-28T21:05:13+03:00"
+      "last_date": "2026-11-04",
+      "checked": "2026-10-28T21:10:11+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-28T21:05:13+03:00"
+      "checked": "2026-10-28T21:10:11+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-28",
-      "checked": "2026-10-28T21:05:13+03:00"
+      "checked": "2026-10-28T21:10:11+03:00"
     }
   }
 }
