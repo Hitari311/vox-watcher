@@ -748,7 +748,7 @@
       "changed": "2026-10-29T02:10:09+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "b939cf6ae491229f928dbcc5de943b3f467601f6e9b6b5efaf086cc7337fedd5",
+      "hash": "1b2a6a320cef355496a849e39b77c5fb6efd7a6f7126a1c8536a1f6c489b6722",
       "slugs": [
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
@@ -757,7 +757,6 @@
         "hybe-cheering-party-3d",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
-        "moscow-cairo-arabic",
         "naseeb-arabic",
         "other-mommy",
         "resident-evil",
@@ -774,7 +773,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-29T13:20:11+03:00"
+      "changed": "2026-10-29T18:00:13+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "1172d74100b011a51aa6eb66e735cc12e46a5274f3238b0851504956255ed74b",
@@ -809,15 +808,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T17:55:10+03:00"
+      "checked": "2026-10-29T18:00:13+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T17:55:10+03:00"
+      "checked": "2026-10-29T18:00:13+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-31",
-      "checked": "2026-10-29T17:55:10+03:00"
+      "checked": "2026-10-29T18:00:13+03:00"
     }
   }
 }
