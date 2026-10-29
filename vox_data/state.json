@@ -784,7 +784,7 @@
       "changed": "2026-10-29T21:05:11+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "b95bfa71b9c9cb3940d810ca556b0f02e7948726ccc7357222b6de9c6129b8ef",
+      "hash": "fbd745c87d076950d80a866cd8acb1e3144f415c62949ebe3da5e895ff8a13fa",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-s-o-paulo-live",
@@ -802,26 +802,25 @@
         "the-dino-family",
         "the-influencer-project",
         "the-mongoose",
-        "the-odyssey",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-10-29T22:55:10+03:00"
+      "changed": "2026-10-29T23:00:11+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T22:55:10+03:00"
+      "checked": "2026-10-29T23:00:11+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T22:55:10+03:00"
+      "checked": "2026-10-29T23:00:11+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-31",
-      "checked": "2026-10-29T22:55:10+03:00"
+      "checked": "2026-10-29T23:00:11+03:00"
     }
   }
 }
