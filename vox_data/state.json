@@ -784,7 +784,7 @@
       "changed": "2026-10-29T21:05:11+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "e72d3da9f568d60ddad666b79416c36d2879455ba7bebea6e680066ce8204781",
+      "hash": "69cb8e56d4aff3934938e295f79c8f27fa6583d3d72661befa6b46bf4aec5ccb",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-s-o-paulo-live",
@@ -794,6 +794,7 @@
         "hybe-cheering-party-3d",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
+        "other-mommy",
         "resident-evil",
         "sense-and-sensibility",
         "seventeen-world-tour-new",
@@ -808,21 +809,21 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-29T21:20:10+03:00"
+      "changed": "2026-10-29T21:25:12+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T21:20:10+03:00"
+      "checked": "2026-10-29T21:25:12+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T21:20:10+03:00"
+      "checked": "2026-10-29T21:25:12+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-31",
-      "checked": "2026-10-29T21:20:10+03:00"
+      "checked": "2026-10-29T21:25:12+03:00"
     }
   }
 }
