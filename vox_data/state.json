@@ -499,7 +499,8 @@
       "title": "Godzilla Minus Zero - Preview Screening",
       "first_seen": "2026-10-12T23:20:09+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-12T23:20:09+03:00"
+        "comingsoon": "2026-10-12T23:20:09+03:00",
+        "showtimes:city-centre-almaza": "2026-10-29T21:05:11+03:00"
       }
     },
     "the-magic-faraway-tree": {
@@ -748,14 +749,17 @@
       "changed": "2026-10-29T02:10:09+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "bb0ffab42ec3a7bfc2b30fe2dfa14f9d43033d9dfe9bbb1454d92dd4fc6038fe",
+      "hash": "64ae00be680fa4b570307659bb897640908cf0c7c04874135127c48f7e306afd",
       "slugs": [
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
+        "godzilla-minus-zero-preview-screening-japanese",
         "heart-of-the-beast",
         "hope-korean",
+        "hybe-cheering-party-3d",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
+        "moscow-cairo-arabic",
         "naseeb-arabic",
         "other-mommy",
         "resident-evil",
@@ -767,12 +771,13 @@
         "the-magic-faraway-tree",
         "the-mongoose",
         "the-odyssey",
+        "the-smurfs-timeless-adventure-volume-2",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-29T18:25:11+03:00"
+      "changed": "2026-10-29T21:05:11+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "69cb8e56d4aff3934938e295f79c8f27fa6583d3d72661befa6b46bf4aec5ccb",
@@ -806,15 +811,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T21:00:12+03:00"
+      "checked": "2026-10-29T21:05:11+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T21:00:12+03:00"
+      "checked": "2026-10-29T21:05:11+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-31",
-      "checked": "2026-10-29T21:00:12+03:00"
+      "checked": "2026-10-29T21:05:11+03:00"
     }
   }
 }
