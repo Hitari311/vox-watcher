@@ -659,6 +659,13 @@
       "seen_in": {
         "comingsoon": "2026-10-29T10:35:11+03:00"
       }
+    },
+    "ebenezer": {
+      "title": "Ebenezer",
+      "first_seen": "2026-10-29T11:20:09+03:00",
+      "seen_in": {
+        "comingsoon": "2026-10-29T11:20:09+03:00"
+      }
     }
   },
   "sources": {
@@ -698,7 +705,7 @@
       "changed": "2026-10-29T10:35:11+03:00"
     },
     "comingsoon": {
-      "hash": "e04911a2ec2ec45e89f02d54370aa2e415f169a24deaf0bb5e6c43bfa5300ef8",
+      "hash": "9e76720e428ceb566b268a57dadf4eb90727042fea3e7da5a6cdb6fdd21b7d16",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -707,6 +714,7 @@
         "children-of-blood-and-bone",
         "day-drinker",
         "dune-part-three",
+        "ebenezer",
         "godzilla-minus-zero-japanese",
         "godzilla-minus-zero-preview-screening-japanese",
         "hadoota-arabic",
@@ -718,7 +726,7 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-10-29T10:35:11+03:00"
+      "changed": "2026-10-29T11:20:09+03:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "71f02e780fff77d3b8e9425a749c45e41ccdb39adc8730a35a38dbbcb2fd1990",
@@ -800,15 +808,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T11:15:14+03:00"
+      "checked": "2026-10-29T11:20:09+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T11:15:14+03:00"
+      "checked": "2026-10-29T11:20:09+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-31",
-      "checked": "2026-10-29T11:15:14+03:00"
+      "checked": "2026-10-29T11:20:09+03:00"
     }
   }
 }
