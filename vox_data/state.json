@@ -777,7 +777,7 @@
       "changed": "2026-10-29T13:20:11+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "b1321b381af33fe5d3707063e7203191bc60065afe5ab9b63f77dafd2c7cc0d7",
+      "hash": "1172d74100b011a51aa6eb66e735cc12e46a5274f3238b0851504956255ed74b",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-s-o-paulo-live",
@@ -798,27 +798,26 @@
         "the-influencer-project",
         "the-mongoose",
         "the-odyssey",
-        "the-smurfs-timeless-adventure-volume-2",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-29T16:40:10+03:00"
+      "changed": "2026-10-29T17:55:10+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T17:50:10+03:00"
+      "checked": "2026-10-29T17:55:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T17:50:10+03:00"
+      "checked": "2026-10-29T17:55:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-31",
-      "checked": "2026-10-29T17:50:10+03:00"
+      "checked": "2026-10-29T17:55:10+03:00"
     }
   }
 }
