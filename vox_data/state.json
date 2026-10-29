@@ -750,7 +750,7 @@
       "changed": "2026-10-29T02:10:09+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "efccf3206c0ac8b65653148afcd73498c13e4f77fe91a4552a67e1ba19903980",
+      "hash": "b939cf6ae491229f928dbcc5de943b3f467601f6e9b6b5efaf086cc7337fedd5",
       "slugs": [
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
@@ -771,13 +771,12 @@
         "the-magic-faraway-tree",
         "the-mongoose",
         "the-odyssey",
-        "the-smurfs-timeless-adventure-volume-2",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-29T12:15:11+03:00"
+      "changed": "2026-10-29T13:20:11+03:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "2d1b00bd32fe1170315f28a75e4a8c8775ec9bac705565633da3547f03dadf64",
@@ -811,15 +810,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T13:15:10+03:00"
+      "checked": "2026-10-29T13:20:11+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T13:15:10+03:00"
+      "checked": "2026-10-29T13:20:11+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-31",
-      "checked": "2026-10-29T13:15:10+03:00"
+      "checked": "2026-10-29T13:20:11+03:00"
     }
   }
 }
