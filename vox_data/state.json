@@ -421,7 +421,8 @@
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "whatson": "2026-10-28T20:40:11+03:00",
         "showtimes:city-centre-almaza": "2026-10-28T20:45:14+03:00",
-        "showtimes:city-centre-alexandria": "2026-10-29T02:10:09+03:00"
+        "showtimes:city-centre-alexandria": "2026-10-29T02:10:09+03:00",
+        "showtimes:mall-of-egypt": "2026-10-29T10:40:10+03:00"
       }
     },
     "coyote-vs-acme": {
@@ -648,7 +649,8 @@
       "first_seen": "2026-10-28T11:20:11+03:00",
       "seen_in": {
         "comingsoon": "2026-10-28T11:20:11+03:00",
-        "whatson": "2026-10-29T10:35:11+03:00"
+        "whatson": "2026-10-29T10:35:11+03:00",
+        "showtimes:mall-of-egypt": "2026-10-29T10:40:10+03:00"
       }
     },
     "maserati-the-brothers": {
@@ -766,7 +768,7 @@
       "changed": "2026-10-28T23:15:09+03:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "fbd745c87d076950d80a866cd8acb1e3144f415c62949ebe3da5e895ff8a13fa",
+      "hash": "2d1b00bd32fe1170315f28a75e4a8c8775ec9bac705565633da3547f03dadf64",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-s-o-paulo-live",
@@ -775,6 +777,7 @@
         "hope-korean",
         "hybe-cheering-party-3d",
         "matloub-3a2eleyain-arabic",
+        "moscow-cairo-arabic",
         "naseeb-arabic",
         "resident-evil",
         "sense-and-sensibility",
@@ -784,25 +787,27 @@
         "the-dino-family",
         "the-influencer-project",
         "the-mongoose",
+        "the-smurfs-timeless-adventure-volume-2",
         "verity",
         "wala-kan-ala-el-bal-arabic",
-        "whalefall"
+        "whalefall",
+        "wildwood"
       ],
-      "changed": "2026-10-29T02:10:09+03:00"
+      "changed": "2026-10-29T10:40:10+03:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T10:35:11+03:00"
+      "checked": "2026-10-29T10:40:10+03:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-29T10:35:11+03:00"
+      "checked": "2026-10-29T10:40:10+03:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-10-31",
-      "checked": "2026-10-29T10:35:11+03:00"
+      "checked": "2026-10-29T10:40:10+03:00"
     }
   }
 }
