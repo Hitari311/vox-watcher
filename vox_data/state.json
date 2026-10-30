@@ -708,12 +708,10 @@
       "changed": "2026-10-30T19:45:16+02:00"
     },
     "comingsoon": {
-      "hash": "9e76720e428ceb566b268a57dadf4eb90727042fea3e7da5a6cdb6fdd21b7d16",
+      "hash": "9a270b315247d05fa44fc1d43e9e752298fb8a4825e54ba9373080d22ad386be",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
-        "bts-world-tour-arirang-in-s-o-paulo-delayed",
-        "bts-world-tour-arirang-in-s-o-paulo-live",
         "children-of-blood-and-bone",
         "day-drinker",
         "dune-part-three",
@@ -729,7 +727,7 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-10-29T11:20:09+03:00"
+      "changed": "2026-10-30T22:00:20+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "17f4c6687c9458f55c94045978af3df0fcfa4221934cd411db5232646847fd9d",
@@ -812,15 +810,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-30T21:55:10+02:00"
+      "checked": "2026-10-30T22:00:20+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-30T21:55:10+02:00"
+      "checked": "2026-10-30T22:00:20+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-30T21:55:10+02:00"
+      "checked": "2026-10-30T22:00:20+02:00"
     }
   }
 }
