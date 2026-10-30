@@ -752,7 +752,7 @@
       "changed": "2026-10-29T02:10:09+03:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "64ae00be680fa4b570307659bb897640908cf0c7c04874135127c48f7e306afd",
+      "hash": "1fc5e17798086e874679363b773dad1e0085d31059fa0938e48e4b90abec0838",
       "slugs": [
         "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
@@ -767,7 +767,6 @@
         "other-mommy",
         "resident-evil",
         "sense-and-sensibility",
-        "seventeen-world-tour-new",
         "street-fighter",
         "the-dino-family",
         "the-influencer-project",
@@ -780,7 +779,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-29T21:05:11+03:00"
+      "changed": "2026-10-30T20:55:12+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "6adb94c9f538f064290a1aa8429eaf1910f8e5cbf2ec7c9ca341777b9a57525b",
@@ -815,15 +814,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-30T20:50:13+02:00"
+      "checked": "2026-10-30T20:55:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-30T20:50:13+02:00"
+      "checked": "2026-10-30T20:55:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-30T20:50:13+02:00"
+      "checked": "2026-10-30T20:55:12+02:00"
     }
   }
 }
