@@ -782,7 +782,7 @@
       "changed": "2026-10-30T20:55:12+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "6adb94c9f538f064290a1aa8429eaf1910f8e5cbf2ec7c9ca341777b9a57525b",
+      "hash": "8090d589a8bcd1f47f5d5e7519288506b0b8083dfa77fd55c71248685e39c269",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "bts-world-tour-arirang-in-s-o-paulo-live",
@@ -795,7 +795,6 @@
         "other-mommy",
         "resident-evil",
         "sense-and-sensibility",
-        "seventeen-world-tour-new",
         "spider-man-brand-new-day",
         "street-fighter",
         "the-dino-family",
@@ -808,21 +807,21 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-30T18:25:10+02:00"
+      "changed": "2026-10-30T21:25:10+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-30T21:20:11+02:00"
+      "checked": "2026-10-30T21:25:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-30T21:20:11+02:00"
+      "checked": "2026-10-30T21:25:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-30T21:20:11+02:00"
+      "checked": "2026-10-30T21:25:10+02:00"
     }
   }
 }
