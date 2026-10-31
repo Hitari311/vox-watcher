@@ -669,6 +669,20 @@
       "seen_in": {
         "comingsoon": "2026-10-29T11:20:09+03:00"
       }
+    },
+    "bts-world-tour-arirang-in-jakarta-live-viewing": {
+      "title": "BTS WORLD TOUR 'ARIRANG' IN JAKARTA: LIVE VIEWING",
+      "first_seen": "2026-10-31T15:50:08+02:00",
+      "seen_in": {
+        "comingsoon": "2026-10-31T15:50:08+02:00"
+      }
+    },
+    "bts-world-tour-arirang-in-kaohsiung-live-viewin": {
+      "title": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWIN",
+      "first_seen": "2026-10-31T15:50:08+02:00",
+      "seen_in": {
+        "comingsoon": "2026-10-31T15:50:08+02:00"
+      }
     }
   },
   "sources": {
@@ -706,10 +720,12 @@
       "changed": "2026-10-31T15:15:11+02:00"
     },
     "comingsoon": {
-      "hash": "9a270b315247d05fa44fc1d43e9e752298fb8a4825e54ba9373080d22ad386be",
+      "hash": "fdeb731bf6c18dbda9d0a3b0920051289daf927211c0db10a010eea51db1f977",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
+        "bts-world-tour-arirang-in-jakarta-live-viewing",
+        "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "children-of-blood-and-bone",
         "day-drinker",
         "dune-part-three",
@@ -725,7 +741,7 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-10-30T22:00:20+02:00"
+      "changed": "2026-10-31T15:50:08+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "17f4c6687c9458f55c94045978af3df0fcfa4221934cd411db5232646847fd9d",
@@ -808,15 +824,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-31T15:45:09+02:00"
+      "checked": "2026-10-31T15:50:08+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-31T15:45:09+02:00"
+      "checked": "2026-10-31T15:50:08+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-31T15:45:09+02:00"
+      "checked": "2026-10-31T15:50:08+02:00"
     }
   }
 }
