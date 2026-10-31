@@ -744,8 +744,9 @@
       "changed": "2026-10-31T15:50:08+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "8ade010cbfb7d85d298462d2faacebf681021b4edfd2030ee15468f5806705fc",
+      "hash": "17f4c6687c9458f55c94045978af3df0fcfa4221934cd411db5232646847fd9d",
       "slugs": [
+        "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
         "hope-korean",
         "hybe-cheering-party-3d",
@@ -759,7 +760,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-31T16:00:11+02:00"
+      "changed": "2026-10-31T16:05:10+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "8ffc07976de4cf0c8805df876acc71a5792f696001dc3af766a204558b6bc3e6",
@@ -791,9 +792,10 @@
       "changed": "2026-10-31T16:00:11+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "b969fb1a5306018d015b5d39450b30886724620382fbbffd1ef4b1c0c60ee198",
+      "hash": "8090d589a8bcd1f47f5d5e7519288506b0b8083dfa77fd55c71248685e39c269",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
+        "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
         "heart-of-the-beast",
         "hope-korean",
@@ -815,21 +817,21 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-31T16:00:11+02:00"
+      "changed": "2026-10-31T16:05:10+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-31T16:00:11+02:00"
+      "checked": "2026-10-31T16:05:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-31T16:00:11+02:00"
+      "checked": "2026-10-31T16:05:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-31T16:00:11+02:00"
+      "checked": "2026-10-31T16:05:10+02:00"
     }
   }
 }
