@@ -673,12 +673,11 @@
   },
   "sources": {
     "whatson": {
-      "hash": "02a510ebe06698605d93f1f8e4632a1495d7131698e9eb80acdbe1d017b5e6f0",
+      "hash": "7c4fd128621ea6785254cf37b43d9424f981a4d5d72812b0e6685a5aa477b794",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "avengers-endgame-encore-infinity-vision",
-        "bts-world-tour-arirang-in-s-o-paulo-live",
         "clayface",
         "dune-part-three",
         "godzilla-minus-zero-preview-screening-japanese",
@@ -705,7 +704,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-30T19:45:16+02:00"
+      "changed": "2026-10-31T14:15:09+02:00"
     },
     "comingsoon": {
       "hash": "9a270b315247d05fa44fc1d43e9e752298fb8a4825e54ba9373080d22ad386be",
@@ -810,15 +809,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-31T14:10:11+02:00"
+      "checked": "2026-10-31T14:15:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-31T14:10:11+02:00"
+      "checked": "2026-10-31T14:15:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-31T14:10:11+02:00"
+      "checked": "2026-10-31T14:15:09+02:00"
     }
   }
 }
