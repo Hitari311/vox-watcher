@@ -821,15 +821,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-31T16:35:11+02:00"
+      "checked": "2026-10-31T16:40:17+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-31T16:35:11+02:00"
+      "checked": "2026-10-31T16:40:17+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-31T16:35:11+02:00"
+      "checked": "2026-10-31T16:40:17+02:00"
     }
   }
 }
