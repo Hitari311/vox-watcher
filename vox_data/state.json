@@ -673,7 +673,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "7c4fd128621ea6785254cf37b43d9424f981a4d5d72812b0e6685a5aa477b794",
+      "hash": "ab7dcd9b5077c9422c6687f4c6fb255b7bc9d848cfd8a2e4ad1fbd34aa2069fc",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -683,7 +683,6 @@
         "godzilla-minus-zero-preview-screening-japanese",
         "heart-of-the-beast",
         "hope-korean",
-        "hybe-cheering-party-3d",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
         "moscow-cairo-arabic",
@@ -704,7 +703,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-31T14:15:09+02:00"
+      "changed": "2026-10-31T15:15:11+02:00"
     },
     "comingsoon": {
       "hash": "9a270b315247d05fa44fc1d43e9e752298fb8a4825e54ba9373080d22ad386be",
@@ -809,15 +808,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-31T15:10:16+02:00"
+      "checked": "2026-10-31T15:15:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-31T15:10:16+02:00"
+      "checked": "2026-10-31T15:15:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-10-31T15:10:16+02:00"
+      "checked": "2026-10-31T15:15:11+02:00"
     }
   }
 }
