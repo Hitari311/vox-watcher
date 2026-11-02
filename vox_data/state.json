@@ -683,6 +683,27 @@
       "seen_in": {
         "comingsoon": "2026-10-31T15:50:08+02:00"
       }
+    },
+    "a-talent-for-murder": {
+      "title": "A Talent for Murder",
+      "first_seen": "2026-11-02T18:45:30+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-02T18:45:30+02:00"
+      }
+    },
+    "idiots": {
+      "title": "Idiots",
+      "first_seen": "2026-11-02T18:45:30+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-02T18:45:30+02:00"
+      }
+    },
+    "the-cycle": {
+      "title": "The Cycle",
+      "first_seen": "2026-11-02T18:45:30+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-02T18:45:30+02:00"
+      }
     }
   },
   "sources": {
@@ -720,8 +741,9 @@
       "changed": "2026-10-31T15:15:11+02:00"
     },
     "comingsoon": {
-      "hash": "fdeb731bf6c18dbda9d0a3b0920051289daf927211c0db10a010eea51db1f977",
+      "hash": "44949d8bbab3fd9ea004a94782bfaf5d62e1c6df82b6ee234c01d99a91506c43",
       "slugs": [
+        "a-talent-for-murder",
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "bts-world-tour-arirang-in-jakarta-live-viewing",
@@ -734,14 +756,16 @@
         "godzilla-minus-zero-preview-screening-japanese",
         "hadoota-arabic",
         "hexed",
+        "idiots",
         "jumanji-open-world",
         "maserati-the-brothers",
         "narnia-the-magicians-nephew",
         "the-cat-in-the-hat",
+        "the-cycle",
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-10-31T15:50:08+02:00"
+      "changed": "2026-11-02T18:45:30+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "6068b10d431e732538ece9be768ff866bd7b59de4d30bd160ab80ac61054ea54",
@@ -819,15 +843,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-02T18:40:19+02:00"
+      "checked": "2026-11-02T18:45:30+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-02T18:40:19+02:00"
+      "checked": "2026-11-02T18:45:30+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-02T18:40:19+02:00"
+      "checked": "2026-11-02T18:45:30+02:00"
     }
   }
 }
