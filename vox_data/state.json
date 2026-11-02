@@ -704,6 +704,20 @@
       "seen_in": {
         "comingsoon": "2026-11-02T18:45:30+02:00"
       }
+    },
+    "ramayana-english": {
+      "title": "Ramayana - English",
+      "first_seen": "2026-11-02T19:20:11+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-02T19:20:11+02:00"
+      }
+    },
+    "ramayana-hindi": {
+      "title": "Ramayana",
+      "first_seen": "2026-11-02T19:20:11+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-02T19:20:11+02:00"
+      }
     }
   },
   "sources": {
@@ -741,7 +755,7 @@
       "changed": "2026-10-31T15:15:11+02:00"
     },
     "comingsoon": {
-      "hash": "44949d8bbab3fd9ea004a94782bfaf5d62e1c6df82b6ee234c01d99a91506c43",
+      "hash": "b7c281069c407d831f6a7ff2378bcb983df59d9763071de0f40584f718615ccf",
       "slugs": [
         "a-talent-for-murder",
         "avengers-doomsday",
@@ -760,12 +774,14 @@
         "jumanji-open-world",
         "maserati-the-brothers",
         "narnia-the-magicians-nephew",
+        "ramayana-english",
+        "ramayana-hindi",
         "the-cat-in-the-hat",
         "the-cycle",
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-11-02T18:45:30+02:00"
+      "changed": "2026-11-02T19:20:11+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "6068b10d431e732538ece9be768ff866bd7b59de4d30bd160ab80ac61054ea54",
@@ -843,15 +859,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-02T19:15:14+02:00"
+      "checked": "2026-11-02T19:20:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-02T19:15:14+02:00"
+      "checked": "2026-11-02T19:20:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-02T19:15:14+02:00"
+      "checked": "2026-11-02T19:20:11+02:00"
     }
   }
 }
