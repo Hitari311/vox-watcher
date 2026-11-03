@@ -797,10 +797,9 @@
       "changed": "2026-10-31T17:05:09+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "ac4fed2b81526b9417f29afa4de93c7d376d39b4d4d0a970c793651b82252498",
+      "hash": "0ab7e06b82cf11cde30d634aa2776a164808b6f6af8441388c6707b2ba1a65ef",
       "slugs": [
         "clayface",
-        "godzilla-minus-zero-preview-screening-japanese",
         "heart-of-the-beast",
         "hope-korean",
         "mahmoud-el-tany-arabic",
@@ -822,7 +821,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-03T20:10:18+02:00"
+      "changed": "2026-11-03T20:20:27+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "b969fb1a5306018d015b5d39450b30886724620382fbbffd1ef4b1c0c60ee198",
@@ -855,15 +854,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-03T20:15:13+02:00"
+      "checked": "2026-11-03T20:20:27+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-03T20:15:13+02:00"
+      "checked": "2026-11-03T20:20:27+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-03T20:15:13+02:00"
+      "checked": "2026-11-03T20:20:27+02:00"
     }
   }
 }
