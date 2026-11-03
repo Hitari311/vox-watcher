@@ -755,9 +755,8 @@
       "changed": "2026-10-31T15:15:11+02:00"
     },
     "comingsoon": {
-      "hash": "15bd783bf802154a3280962e243de916abde63458a9caf97aad573a29f3bfc52",
+      "hash": "45f8b8d7b7b5278b6b4d5e54da2f43abb6d436600694a88f891990e98baadf01",
       "slugs": [
-        "a-talent-for-murder",
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "bts-world-tour-arirang-in-jakarta-live-viewing",
@@ -774,13 +773,12 @@
         "maserati-the-brothers",
         "narnia-the-magicians-nephew",
         "ramayana-english",
-        "ramayana-hindi",
         "the-cat-in-the-hat",
         "the-cycle",
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-11-02T22:05:11+02:00"
+      "changed": "2026-11-03T10:35:12+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "6068b10d431e732538ece9be768ff866bd7b59de4d30bd160ab80ac61054ea54",
@@ -858,15 +856,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-03T10:30:10+02:00"
+      "checked": "2026-11-03T10:35:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-03T10:30:10+02:00"
+      "checked": "2026-11-03T10:35:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-03T10:30:10+02:00"
+      "checked": "2026-11-03T10:35:12+02:00"
     }
   }
 }
