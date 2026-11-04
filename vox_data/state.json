@@ -806,7 +806,7 @@
       "changed": "2026-10-31T17:05:09+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "0ab7e06b82cf11cde30d634aa2776a164808b6f6af8441388c6707b2ba1a65ef",
+      "hash": "202e597d11fbd9ff11f2387c87a483453c50b24a117bd3d8032f2ad10e84adcf",
       "slugs": [
         "clayface",
         "heart-of-the-beast",
@@ -824,13 +824,12 @@
         "the-magic-faraway-tree",
         "the-mongoose",
         "the-odyssey",
-        "the-smurfs-timeless-adventure-volume-2",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-03T20:20:27+02:00"
+      "changed": "2026-11-04T14:30:11+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "b969fb1a5306018d015b5d39450b30886724620382fbbffd1ef4b1c0c60ee198",
@@ -863,15 +862,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T14:25:10+02:00"
+      "checked": "2026-11-04T14:30:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T14:25:10+02:00"
+      "checked": "2026-11-04T14:30:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T14:25:10+02:00"
+      "checked": "2026-11-04T14:30:11+02:00"
     }
   }
 }
