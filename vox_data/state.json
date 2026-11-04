@@ -826,7 +826,7 @@
       "changed": "2026-11-04T23:20:11+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "abd6968bff0934a7fd8b76c034a623102908cfd8f68453449a82628932980bfe",
+      "hash": "8c119150612e334056962e4dcf065a0ebeab69f178bedaeca1fc5323884511c3",
       "slugs": [
         "clayface",
         "godzilla-minus-zero-japanese",
@@ -840,33 +840,31 @@
         "ramayana-hindi",
         "resident-evil",
         "sense-and-sensibility",
-        "street-fighter",
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
         "the-cycle",
         "the-dino-family",
-        "the-mongoose",
         "uc-harfliler-muhur-turkish",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-04T23:25:11+02:00"
+      "changed": "2026-11-04T23:40:11+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-05",
-      "checked": "2026-11-04T23:35:10+02:00"
+      "checked": "2026-11-04T23:40:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T23:35:10+02:00"
+      "checked": "2026-11-04T23:40:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-04T23:35:10+02:00"
+      "checked": "2026-11-04T23:40:11+02:00"
     }
   }
 }
