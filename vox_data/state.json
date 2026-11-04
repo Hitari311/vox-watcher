@@ -729,7 +729,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "ee59c84f574ea108f3086aa5fe2dc1160c2fc46439a057199916b3d1da9d6b64",
+      "hash": "dad6580a2d4f1bb841df09414a722c350fec45f383a05900afab2354149d8ce5",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -749,7 +749,6 @@
         "street-fighter",
         "the-dino-family",
         "the-influencer-project",
-        "the-magic-faraway-tree",
         "the-mongoose",
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
@@ -758,7 +757,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-03T18:20:12+02:00"
+      "changed": "2026-11-04T14:40:11+02:00"
     },
     "comingsoon": {
       "hash": "4d7d7a6b754f7652a31155dbd36d36df8cd6b66a33102f9afc294effaa0f1084",
@@ -862,15 +861,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T14:35:09+02:00"
+      "checked": "2026-11-04T14:40:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T14:35:09+02:00"
+      "checked": "2026-11-04T14:40:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T14:35:09+02:00"
+      "checked": "2026-11-04T14:40:11+02:00"
     }
   }
 }
