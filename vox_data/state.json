@@ -782,7 +782,7 @@
       "changed": "2026-11-04T21:50:11+02:00"
     },
     "comingsoon": {
-      "hash": "77c2731f34a1ec7044eb86f277981d3877f4189a1b7eeb005f76e85469287772",
+      "hash": "50469d9a462bac1a7349f5c2b333697194a1cdd32a67f282e395b0331dd2cc6c",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -792,21 +792,16 @@
         "day-drinker",
         "dune-part-three",
         "ebenezer",
-        "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "hexed",
-        "idiots",
         "jumanji-open-world",
         "mamsous-arabic",
         "maserati-the-brothers",
         "narnia-the-magicians-nephew",
-        "ramayana-hindi",
-        "the-cat-in-the-hat",
-        "the-cycle",
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-11-04T15:05:10+02:00"
+      "changed": "2026-11-04T22:00:11+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "a1149b77657e1385243cf7d229d4bd12052e67652322e30df5b78e413b323ab4",
@@ -823,7 +818,7 @@
       "changed": "2026-11-04T21:35:20+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "587849464123a8e3de1a4269b4618fedd80d7ea1bc7d7506b55b6a8a379c3a77",
+      "hash": "90b073ecb0377cd7e6e13a23560539a1c7a6251d2e5f97f20d4b6482f71a1d4f",
       "slugs": [
         "clayface",
         "hope-korean",
@@ -832,12 +827,11 @@
         "other-mommy",
         "street-fighter",
         "the-mongoose",
-        "the-odyssey",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-04T21:55:12+02:00"
+      "changed": "2026-11-04T22:00:11+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "ca0de7d3eb37a8f8e43760c14667c19f980a103f45be39f945a1462d6f35ab22",
@@ -875,15 +869,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-05",
-      "checked": "2026-11-04T21:55:12+02:00"
+      "checked": "2026-11-04T22:00:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T21:55:12+02:00"
+      "checked": "2026-11-04T22:00:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-04T21:55:12+02:00"
+      "checked": "2026-11-04T22:00:11+02:00"
     }
   }
 }
