@@ -858,7 +858,7 @@
       "changed": "2026-11-04T16:30:14+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "b181d33b18970bd4d198fa2c52ae450328d2ad42ff385d67d63d02b8745eafbc",
+      "hash": "e1250b0e9c47c7ceaa9d6af7f31f991fd9ccf6dc2e6ce63d78f8513e35c91e6d",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "clayface",
@@ -883,28 +883,27 @@
         "the-influencer-project",
         "the-mongoose",
         "the-odyssey",
-        "the-smurfs-timeless-adventure-volume-2",
         "uc-harfliler-muhur-turkish",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-04T16:15:09+02:00"
+      "changed": "2026-11-04T17:45:09+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T17:40:12+02:00"
+      "checked": "2026-11-04T17:45:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T17:40:12+02:00"
+      "checked": "2026-11-04T17:45:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-04T17:40:12+02:00"
+      "checked": "2026-11-04T17:45:09+02:00"
     }
   }
 }
