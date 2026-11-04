@@ -729,7 +729,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "dad6580a2d4f1bb841df09414a722c350fec45f383a05900afab2354149d8ce5",
+      "hash": "f0d6081f2e58c6b0d03ce229359140a5bbc8c58520e3713b4cd00d3ec2e08ad3",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -751,13 +751,12 @@
         "the-influencer-project",
         "the-mongoose",
         "the-odyssey",
-        "the-smurfs-timeless-adventure-volume-2",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-04T14:40:11+02:00"
+      "changed": "2026-11-04T15:55:11+02:00"
     },
     "comingsoon": {
       "hash": "77c2731f34a1ec7044eb86f277981d3877f4189a1b7eeb005f76e85469287772",
@@ -860,15 +859,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T15:50:10+02:00"
+      "checked": "2026-11-04T15:55:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T15:50:10+02:00"
+      "checked": "2026-11-04T15:55:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T15:50:10+02:00"
+      "checked": "2026-11-04T15:55:11+02:00"
     }
   }
 }
