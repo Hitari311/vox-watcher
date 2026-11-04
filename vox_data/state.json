@@ -751,7 +751,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "f93775d841aa01a3cf6bdc5da632a6051d0a89a12245e60cc8bfa0d5ea569089",
+      "hash": "234df7c3fef411c15adae276e6fce4c248b547e9476c01f09c7d808211429e8d",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -763,7 +763,6 @@
         "heart-of-the-beast",
         "hope-korean",
         "idiots",
-        "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
         "moscow-cairo-arabic",
         "naseeb-arabic",
@@ -786,7 +785,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-04T18:35:14+02:00"
+      "changed": "2026-11-04T18:55:18+02:00"
     },
     "comingsoon": {
       "hash": "77c2731f34a1ec7044eb86f277981d3877f4189a1b7eeb005f76e85469287772",
@@ -893,15 +892,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T18:50:24+02:00"
+      "checked": "2026-11-04T18:55:18+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T18:50:24+02:00"
+      "checked": "2026-11-04T18:55:18+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-04T18:50:24+02:00"
+      "checked": "2026-11-04T18:55:18+02:00"
     }
   }
 }
