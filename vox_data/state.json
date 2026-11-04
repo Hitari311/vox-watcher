@@ -850,7 +850,7 @@
       "changed": "2026-11-04T19:40:11+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "e1250b0e9c47c7ceaa9d6af7f31f991fd9ccf6dc2e6ce63d78f8513e35c91e6d",
+      "hash": "f5384bb22adce24b0e8b8c20f2a831404c5ef507ce560e4cd079315f5c8df55e",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "clayface",
@@ -874,28 +874,27 @@
         "the-dino-family",
         "the-influencer-project",
         "the-mongoose",
-        "the-odyssey",
         "uc-harfliler-muhur-turkish",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-04T17:45:09+02:00"
+      "changed": "2026-11-04T20:00:13+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T19:55:10+02:00"
+      "checked": "2026-11-04T20:00:13+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T19:55:10+02:00"
+      "checked": "2026-11-04T20:00:13+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-04T19:55:10+02:00"
+      "checked": "2026-11-04T20:00:13+02:00"
     }
   }
 }
