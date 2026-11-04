@@ -833,7 +833,7 @@
       "changed": "2026-10-31T17:05:09+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "41c6124d17702718ab724789880075bd87a2859a68944d444e151c5a6acb2396",
+      "hash": "5a9c717bb263fe1159c6bd26f269623a8bae22088cf1de53c567b696b507d81c",
       "slugs": [
         "clayface",
         "heart-of-the-beast",
@@ -852,10 +852,9 @@
         "the-odyssey",
         "verity",
         "wala-kan-ala-el-bal-arabic",
-        "whalefall",
-        "wildwood"
+        "whalefall"
       ],
-      "changed": "2026-11-04T16:30:14+02:00"
+      "changed": "2026-11-04T18:00:10+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "e1250b0e9c47c7ceaa9d6af7f31f991fd9ccf6dc2e6ce63d78f8513e35c91e6d",
@@ -895,15 +894,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T17:55:10+02:00"
+      "checked": "2026-11-04T18:00:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T17:55:10+02:00"
+      "checked": "2026-11-04T18:00:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-04T17:55:10+02:00"
+      "checked": "2026-11-04T18:00:10+02:00"
     }
   }
 }
