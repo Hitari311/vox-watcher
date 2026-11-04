@@ -751,11 +751,10 @@
   },
   "sources": {
     "whatson": {
-      "hash": "224dd3b5fad87f78a44349e32dad0f6eb740ab0e235da8520b20991727dadb0b",
+      "hash": "4ed0c30798ef2365636f11bac664a0362aea0b77842c0af8e60717cd741e5ab0",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
-        "avengers-endgame-encore-infinity-vision",
         "clayface",
         "dune-part-three",
         "godzilla-minus-zero-japanese",
@@ -783,7 +782,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-04T20:10:13+02:00"
+      "changed": "2026-11-04T20:35:09+02:00"
     },
     "comingsoon": {
       "hash": "77c2731f34a1ec7044eb86f277981d3877f4189a1b7eeb005f76e85469287772",
@@ -883,15 +882,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T20:30:11+02:00"
+      "checked": "2026-11-04T20:35:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T20:30:11+02:00"
+      "checked": "2026-11-04T20:35:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-04T20:30:11+02:00"
+      "checked": "2026-11-04T20:35:09+02:00"
     }
   }
 }
