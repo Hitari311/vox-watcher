@@ -751,7 +751,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "f93775d841aa01a3cf6bdc5da632a6051d0a89a12245e60cc8bfa0d5ea569089",
+      "hash": "5419c3db76f2d030f551aed73ebcf8f54f9b1201c46f025c911bc86c82d931ac",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -774,7 +774,6 @@
         "spider-man-brand-new-day",
         "street-fighter",
         "the-cat-in-the-hat",
-        "the-cat-in-the-hat-arabic",
         "the-cycle",
         "the-dino-family",
         "the-influencer-project",
@@ -786,7 +785,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-04T16:15:09+02:00"
+      "changed": "2026-11-04T16:25:19+02:00"
     },
     "comingsoon": {
       "hash": "77c2731f34a1ec7044eb86f277981d3877f4189a1b7eeb005f76e85469287772",
@@ -897,15 +896,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T16:20:12+02:00"
+      "checked": "2026-11-04T16:25:19+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T16:20:12+02:00"
+      "checked": "2026-11-04T16:25:19+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-04T16:20:12+02:00"
+      "checked": "2026-11-04T16:25:19+02:00"
     }
   }
 }
