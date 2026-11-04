@@ -269,7 +269,9 @@
       "title": "Godzilla Minus Zero",
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-07T21:48:25+03:00"
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "whatson": "2026-11-04T16:15:09+02:00",
+        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
       }
     },
     "hexed": {
@@ -332,7 +334,9 @@
       "title": "The Cat In The Hat",
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-07T21:48:25+03:00"
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "whatson": "2026-11-04T16:15:09+02:00",
+        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
       }
     },
     "the-dino-family": {
@@ -525,7 +529,9 @@
       "title": "Hadoota",
       "first_seen": "2026-10-15T13:35:12+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-15T13:35:12+03:00"
+        "comingsoon": "2026-10-15T13:35:12+03:00",
+        "whatson": "2026-11-04T16:15:09+02:00",
+        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
       }
     },
     "naseeb-arabic": {
@@ -606,7 +612,9 @@
       "title": "The Cat In The Hat",
       "first_seen": "2026-10-20T15:05:10+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-20T15:05:10+03:00"
+        "comingsoon": "2026-10-20T15:05:10+03:00",
+        "whatson": "2026-11-04T16:15:09+02:00",
+        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
       }
     },
     "hybe-cheering-party-3d": {
@@ -695,14 +703,18 @@
       "title": "Idiots",
       "first_seen": "2026-11-02T18:45:30+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-02T18:45:30+02:00"
+        "comingsoon": "2026-11-02T18:45:30+02:00",
+        "whatson": "2026-11-04T16:15:09+02:00",
+        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
       }
     },
     "the-cycle": {
       "title": "The Cycle",
       "first_seen": "2026-11-02T18:45:30+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-02T18:45:30+02:00"
+        "comingsoon": "2026-11-02T18:45:30+02:00",
+        "whatson": "2026-11-04T16:15:09+02:00",
+        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
       }
     },
     "ramayana-english": {
@@ -716,7 +728,9 @@
       "title": "Ramayana",
       "first_seen": "2026-11-02T19:20:11+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-02T19:20:11+02:00"
+        "comingsoon": "2026-11-02T19:20:11+02:00",
+        "whatson": "2026-11-04T16:15:09+02:00",
+        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
       }
     },
     "mamsous-arabic": {
@@ -725,38 +739,54 @@
       "seen_in": {
         "comingsoon": "2026-11-04T08:05:10+02:00"
       }
+    },
+    "uc-harfliler-muhur-turkish": {
+      "title": "Uc Harfliler Muhur",
+      "first_seen": "2026-11-04T16:15:09+02:00",
+      "seen_in": {
+        "whatson": "2026-11-04T16:15:09+02:00",
+        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
+      }
     }
   },
   "sources": {
     "whatson": {
-      "hash": "f0d6081f2e58c6b0d03ce229359140a5bbc8c58520e3713b4cd00d3ec2e08ad3",
+      "hash": "f93775d841aa01a3cf6bdc5da632a6051d0a89a12245e60cc8bfa0d5ea569089",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "avengers-endgame-encore-infinity-vision",
         "clayface",
         "dune-part-three",
+        "godzilla-minus-zero-japanese",
+        "hadoota-arabic",
         "heart-of-the-beast",
         "hope-korean",
+        "idiots",
         "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
         "moscow-cairo-arabic",
         "naseeb-arabic",
         "other-mommy",
+        "ramayana-hindi",
         "resident-evil",
         "sense-and-sensibility",
         "spider-man-brand-new-day",
         "street-fighter",
+        "the-cat-in-the-hat",
+        "the-cat-in-the-hat-arabic",
+        "the-cycle",
         "the-dino-family",
         "the-influencer-project",
         "the-mongoose",
         "the-odyssey",
+        "uc-harfliler-muhur-turkish",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-04T15:55:11+02:00"
+      "changed": "2026-11-04T16:15:09+02:00"
     },
     "comingsoon": {
       "hash": "77c2731f34a1ec7044eb86f277981d3877f4189a1b7eeb005f76e85469287772",
@@ -829,45 +859,53 @@
       "changed": "2026-11-04T14:30:11+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "b969fb1a5306018d015b5d39450b30886724620382fbbffd1ef4b1c0c60ee198",
+      "hash": "b181d33b18970bd4d198fa2c52ae450328d2ad42ff385d67d63d02b8745eafbc",
       "slugs": [
         "avengers-endgame-encore-infinity-vision",
         "clayface",
+        "godzilla-minus-zero-japanese",
+        "hadoota-arabic",
         "heart-of-the-beast",
         "hope-korean",
+        "idiots",
         "matloub-3a2eleyain-arabic",
         "moscow-cairo-arabic",
         "naseeb-arabic",
         "other-mommy",
+        "ramayana-hindi",
         "resident-evil",
         "sense-and-sensibility",
         "spider-man-brand-new-day",
         "street-fighter",
+        "the-cat-in-the-hat",
+        "the-cat-in-the-hat-arabic",
+        "the-cycle",
         "the-dino-family",
         "the-influencer-project",
         "the-mongoose",
         "the-odyssey",
         "the-smurfs-timeless-adventure-volume-2",
+        "uc-harfliler-muhur-turkish",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-10-31T16:10:09+02:00"
+      "changed": "2026-11-04T16:15:09+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T16:10:13+02:00"
+      "checked": "2026-11-04T16:15:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T16:10:13+02:00"
+      "checked": "2026-11-04T16:15:09+02:00"
     },
     "mall-of-egypt": {
-      "last_date": "2026-11-04",
-      "checked": "2026-11-04T16:10:13+02:00"
+      "last_date": "2026-11-11",
+      "checked": "2026-11-04T16:15:09+02:00"
     }
   }
 }
