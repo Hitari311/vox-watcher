@@ -817,18 +817,17 @@
       "changed": "2026-11-04T22:15:11+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "bfce0f3176da4831a8ec0f7b66fc7a0283665ff3ed69813c12abcc659f19a932",
+      "hash": "8a2d758326fd9634dd7c9888121229d1ba057c4b49a0af89af1831eaa89fc25e",
       "slugs": [
         "clayface",
         "hope-korean",
         "matloub-3a2eleyain-arabic",
         "other-mommy",
         "the-mongoose",
-        "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-04T22:20:09+02:00"
+      "changed": "2026-11-04T22:40:09+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "46f5779aaed772ad21d04c93b66e2368a1720054d2ed69492b6a7031bc109a3b",
@@ -865,15 +864,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-05",
-      "checked": "2026-11-04T22:35:15+02:00"
+      "checked": "2026-11-04T22:40:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T22:35:15+02:00"
+      "checked": "2026-11-04T22:40:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-04T22:35:15+02:00"
+      "checked": "2026-11-04T22:40:09+02:00"
     }
   }
 }
