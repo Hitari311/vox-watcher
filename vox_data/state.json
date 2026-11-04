@@ -271,7 +271,8 @@
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "whatson": "2026-11-04T16:15:09+02:00",
-        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
+        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00",
+        "showtimes:city-centre-alexandria": "2026-11-04T21:35:20+02:00"
       }
     },
     "hexed": {
@@ -751,7 +752,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "4cce1ca7f2fb39eaf675801af9d51760e24dd3eac46df7aa056e5ad97a31b8ef",
+      "hash": "cee63b72f5be78075b2f9b2ad8e90237e4c0e26a06765b887ad369855a9c007c",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -768,7 +769,6 @@
         "ramayana-hindi",
         "resident-evil",
         "sense-and-sensibility",
-        "street-fighter",
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
         "the-cycle",
@@ -780,7 +780,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-04T21:25:24+02:00"
+      "changed": "2026-11-04T21:35:20+02:00"
     },
     "comingsoon": {
       "hash": "77c2731f34a1ec7044eb86f277981d3877f4189a1b7eeb005f76e85469287772",
@@ -810,9 +810,10 @@
       "changed": "2026-11-04T15:05:10+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "efa691b142e70b685d89c0c8860bc57a504a8722f095eb5746c3d8b3f2e4f08c",
+      "hash": "a1149b77657e1385243cf7d229d4bd12052e67652322e30df5b78e413b323ab4",
       "slugs": [
         "clayface",
+        "godzilla-minus-zero-japanese",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "verity",
@@ -820,7 +821,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-04T20:30:11+02:00"
+      "changed": "2026-11-04T21:35:20+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "58a41b71cf33560ec0b82f50120c042af0bf97b13b2119e02e32dd8aa9b15c70",
@@ -876,16 +877,16 @@
   },
   "schedule": {
     "city-centre-alexandria": {
-      "last_date": "2026-11-04",
-      "checked": "2026-11-04T21:30:11+02:00"
+      "last_date": "2026-11-05",
+      "checked": "2026-11-04T21:35:20+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T21:30:11+02:00"
+      "checked": "2026-11-04T21:35:20+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-04T21:30:11+02:00"
+      "checked": "2026-11-04T21:35:20+02:00"
     }
   }
 }
