@@ -751,10 +751,11 @@
   },
   "sources": {
     "whatson": {
-      "hash": "4ed0c30798ef2365636f11bac664a0362aea0b77842c0af8e60717cd741e5ab0",
+      "hash": "a3946fdb0572e2faa75a9a1508534524b10e4942f7f5fc32e35f9852b8791486",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
+        "avengers-endgame-encore-infinity-vision",
         "clayface",
         "dune-part-three",
         "godzilla-minus-zero-japanese",
@@ -772,7 +773,6 @@
         "spider-man-brand-new-day",
         "street-fighter",
         "the-cat-in-the-hat",
-        "the-cat-in-the-hat-arabic",
         "the-cycle",
         "the-dino-family",
         "the-mongoose",
@@ -782,7 +782,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-04T20:35:09+02:00"
+      "changed": "2026-11-04T20:45:10+02:00"
     },
     "comingsoon": {
       "hash": "77c2731f34a1ec7044eb86f277981d3877f4189a1b7eeb005f76e85469287772",
@@ -825,12 +825,11 @@
       "changed": "2026-11-04T20:30:11+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "a06bb348255c15fdfcde37bfc305cb51c808b72c3f46df974086fc3d49e6d832",
+      "hash": "9dfb95c6833a3732a60e82c401929fe8cccae891162374324c59a00a41c7c0ee",
       "slugs": [
         "clayface",
         "heart-of-the-beast",
         "hope-korean",
-        "mahmoud-el-tany-arabic",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "other-mommy",
@@ -843,7 +842,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-04T20:05:10+02:00"
+      "changed": "2026-11-04T20:45:10+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "f5384bb22adce24b0e8b8c20f2a831404c5ef507ce560e4cd079315f5c8df55e",
@@ -882,15 +881,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T20:40:10+02:00"
+      "checked": "2026-11-04T20:45:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T20:40:10+02:00"
+      "checked": "2026-11-04T20:45:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-04T20:40:10+02:00"
+      "checked": "2026-11-04T20:45:10+02:00"
     }
   }
 }
