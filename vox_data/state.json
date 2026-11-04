@@ -751,7 +751,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "234df7c3fef411c15adae276e6fce4c248b547e9476c01f09c7d808211429e8d",
+      "hash": "4d30f8ae4cbbcc416e3ee79f26f3c6ea62250c07ec111ef2b473854f36b0b536",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -776,7 +776,6 @@
         "the-cat-in-the-hat-arabic",
         "the-cycle",
         "the-dino-family",
-        "the-influencer-project",
         "the-mongoose",
         "the-odyssey",
         "uc-harfliler-muhur-turkish",
@@ -785,7 +784,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-04T18:55:18+02:00"
+      "changed": "2026-11-04T19:25:10+02:00"
     },
     "comingsoon": {
       "hash": "77c2731f34a1ec7044eb86f277981d3877f4189a1b7eeb005f76e85469287772",
@@ -815,19 +814,18 @@
       "changed": "2026-11-04T15:05:10+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "6c3e3250e6e3a4c41c06f3bf0828cb7c0691f737fb794bad9a7969b114ac6f05",
+      "hash": "aab7c23e8d9c192f7b981a4d9e4a0e775af8d29a35acc630de8e18f873cd44d2",
       "slugs": [
         "clayface",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "other-mommy",
-        "sense-and-sensibility",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-04T19:20:11+02:00"
+      "changed": "2026-11-04T19:25:10+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "4a7b8c8d2ca2ed0b17a990f13d8f31ccc0004183b35766632ad555e930fd1504",
@@ -890,15 +888,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T19:20:11+02:00"
+      "checked": "2026-11-04T19:25:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T19:20:11+02:00"
+      "checked": "2026-11-04T19:25:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-04T19:20:11+02:00"
+      "checked": "2026-11-04T19:25:10+02:00"
     }
   }
 }
