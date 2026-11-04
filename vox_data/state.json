@@ -828,7 +828,7 @@
       "changed": "2026-11-04T19:25:10+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "4a7b8c8d2ca2ed0b17a990f13d8f31ccc0004183b35766632ad555e930fd1504",
+      "hash": "ca33be61570985104fb2b668f6fdb10808dbc4ddb9921278aa344e17c6022e10",
       "slugs": [
         "clayface",
         "heart-of-the-beast",
@@ -838,7 +838,6 @@
         "moscow-cairo-arabic",
         "naseeb-arabic",
         "other-mommy",
-        "resident-evil",
         "sense-and-sensibility",
         "street-fighter",
         "the-influencer-project",
@@ -848,7 +847,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-04T19:20:11+02:00"
+      "changed": "2026-11-04T19:40:11+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "e1250b0e9c47c7ceaa9d6af7f31f991fd9ccf6dc2e6ce63d78f8513e35c91e6d",
@@ -888,15 +887,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T19:35:11+02:00"
+      "checked": "2026-11-04T19:40:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T19:35:11+02:00"
+      "checked": "2026-11-04T19:40:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-04T19:35:11+02:00"
+      "checked": "2026-11-04T19:40:11+02:00"
     }
   }
 }
