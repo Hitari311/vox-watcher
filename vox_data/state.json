@@ -830,7 +830,7 @@
       "changed": "2026-11-04T22:40:09+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "46f5779aaed772ad21d04c93b66e2368a1720054d2ed69492b6a7031bc109a3b",
+      "hash": "9fb53d22a4a609eec30d78ceb46abac3b97a03dfd9d9d7e88f7f8f59ed6ceed4",
       "slugs": [
         "clayface",
         "godzilla-minus-zero-japanese",
@@ -839,7 +839,6 @@
         "hope-korean",
         "idiots",
         "matloub-3a2eleyain-arabic",
-        "moscow-cairo-arabic",
         "naseeb-arabic",
         "other-mommy",
         "ramayana-hindi",
@@ -858,21 +857,21 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-04T22:30:10+02:00"
+      "changed": "2026-11-04T22:50:11+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-05",
-      "checked": "2026-11-04T22:45:09+02:00"
+      "checked": "2026-11-04T22:50:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T22:45:09+02:00"
+      "checked": "2026-11-04T22:50:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-04T22:45:09+02:00"
+      "checked": "2026-11-04T22:50:11+02:00"
     }
   }
 }
