@@ -761,7 +761,7 @@
       "changed": "2026-11-03T18:20:12+02:00"
     },
     "comingsoon": {
-      "hash": "22bff964fbe03e1239b889253e3d79c6217e041ff41af0e273118ab986c22564",
+      "hash": "4d7d7a6b754f7652a31155dbd36d36df8cd6b66a33102f9afc294effaa0f1084",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -780,12 +780,13 @@
         "maserati-the-brothers",
         "narnia-the-magicians-nephew",
         "ramayana-english",
+        "ramayana-hindi",
         "the-cat-in-the-hat",
         "the-cycle",
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-11-04T08:05:10+02:00"
+      "changed": "2026-11-04T14:05:10+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "6068b10d431e732538ece9be768ff866bd7b59de4d30bd160ab80ac61054ea54",
@@ -862,15 +863,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T14:00:11+02:00"
+      "checked": "2026-11-04T14:05:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T14:00:11+02:00"
+      "checked": "2026-11-04T14:05:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-04",
-      "checked": "2026-11-04T14:00:11+02:00"
+      "checked": "2026-11-04T14:05:10+02:00"
     }
   }
 }
