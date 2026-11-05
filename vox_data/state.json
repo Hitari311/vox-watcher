@@ -855,7 +855,7 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-05",
-      "checked": "2026-11-05T05:45:20+02:00"
+      "checked": "2026-11-05T05:50:13+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
@@ -863,7 +863,7 @@
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-05T05:45:20+02:00"
+      "checked": "2026-11-05T05:50:13+02:00"
     }
   }
 }
