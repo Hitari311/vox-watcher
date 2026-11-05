@@ -535,7 +535,8 @@
       "seen_in": {
         "comingsoon": "2026-10-15T13:35:12+03:00",
         "whatson": "2026-11-04T16:15:09+02:00",
-        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
+        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00",
+        "showtimes:city-centre-alexandria": "2026-11-05T15:35:13+02:00"
       }
     },
     "naseeb-arabic": {
@@ -823,10 +824,11 @@
       "changed": "2026-11-05T10:15:10+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "f124373e9c360f754ab515f3d8b92bfceaf9e3444983bef7a785dcf51b5c05e9",
+      "hash": "c09f728c886de4252fdbfad4146e937395e04f49568c94416634967f74972bf2",
       "slugs": [
         "clayface",
         "godzilla-minus-zero-japanese",
+        "hadoota-arabic",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "the-cat-in-the-hat",
@@ -835,7 +837,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-05T12:15:11+02:00"
+      "changed": "2026-11-05T15:35:13+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "75e127a89c3b73c266ae03de642d9e196cfd9d21d4bb10fe34dfcde8a5861b76",
@@ -890,16 +892,16 @@
   },
   "schedule": {
     "city-centre-alexandria": {
-      "last_date": "2026-11-05",
-      "checked": "2026-11-05T15:30:21+02:00"
+      "last_date": "2026-11-15",
+      "checked": "2026-11-05T15:35:13+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-07",
-      "checked": "2026-11-05T15:30:21+02:00"
+      "checked": "2026-11-05T15:35:13+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-05T15:30:21+02:00"
+      "checked": "2026-11-05T15:35:13+02:00"
     }
   }
 }
