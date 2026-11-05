@@ -339,7 +339,8 @@
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "whatson": "2026-11-04T16:15:09+02:00",
         "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00",
-        "showtimes:city-centre-almaza": "2026-11-05T11:05:11+02:00"
+        "showtimes:city-centre-almaza": "2026-11-05T11:05:11+02:00",
+        "showtimes:city-centre-alexandria": "2026-11-05T12:15:11+02:00"
       }
     },
     "the-dino-family": {
@@ -618,7 +619,8 @@
         "comingsoon": "2026-10-20T15:05:10+03:00",
         "whatson": "2026-11-04T16:15:09+02:00",
         "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00",
-        "showtimes:city-centre-almaza": "2026-11-05T11:05:11+02:00"
+        "showtimes:city-centre-almaza": "2026-11-05T11:05:11+02:00",
+        "showtimes:city-centre-alexandria": "2026-11-05T12:15:11+02:00"
       }
     },
     "hybe-cheering-party-3d": {
@@ -821,17 +823,19 @@
       "changed": "2026-11-05T10:15:10+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "723e38a4c0e55efd8a6806da9f53beb3f9fab31d6c1f2853868292c66c044b36",
+      "hash": "f124373e9c360f754ab515f3d8b92bfceaf9e3444983bef7a785dcf51b5c05e9",
       "slugs": [
         "clayface",
         "godzilla-minus-zero-japanese",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
+        "the-cat-in-the-hat",
+        "the-cat-in-the-hat-arabic",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-04T22:15:11+02:00"
+      "changed": "2026-11-05T12:15:11+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "75e127a89c3b73c266ae03de642d9e196cfd9d21d4bb10fe34dfcde8a5861b76",
@@ -887,15 +891,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-05",
-      "checked": "2026-11-05T12:10:10+02:00"
+      "checked": "2026-11-05T12:15:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-05",
-      "checked": "2026-11-05T12:10:10+02:00"
+      "checked": "2026-11-05T12:15:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-05T12:10:10+02:00"
+      "checked": "2026-11-05T12:15:11+02:00"
     }
   }
 }
