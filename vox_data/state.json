@@ -272,7 +272,8 @@
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "whatson": "2026-11-04T16:15:09+02:00",
         "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00",
-        "showtimes:city-centre-alexandria": "2026-11-04T21:35:20+02:00"
+        "showtimes:city-centre-alexandria": "2026-11-04T21:35:20+02:00",
+        "showtimes:city-centre-almaza": "2026-11-05T11:05:11+02:00"
       }
     },
     "hexed": {
@@ -337,7 +338,8 @@
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "whatson": "2026-11-04T16:15:09+02:00",
-        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
+        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00",
+        "showtimes:city-centre-almaza": "2026-11-05T11:05:11+02:00"
       }
     },
     "the-dino-family": {
@@ -615,7 +617,8 @@
       "seen_in": {
         "comingsoon": "2026-10-20T15:05:10+03:00",
         "whatson": "2026-11-04T16:15:09+02:00",
-        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
+        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00",
+        "showtimes:city-centre-almaza": "2026-11-05T11:05:11+02:00"
       }
     },
     "hybe-cheering-party-3d": {
@@ -706,7 +709,8 @@
       "seen_in": {
         "comingsoon": "2026-11-02T18:45:30+02:00",
         "whatson": "2026-11-04T16:15:09+02:00",
-        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
+        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00",
+        "showtimes:city-centre-almaza": "2026-11-05T11:05:11+02:00"
       }
     },
     "the-cycle": {
@@ -715,7 +719,8 @@
       "seen_in": {
         "comingsoon": "2026-11-02T18:45:30+02:00",
         "whatson": "2026-11-04T16:15:09+02:00",
-        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
+        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00",
+        "showtimes:city-centre-almaza": "2026-11-05T11:05:11+02:00"
       }
     },
     "ramayana-english": {
@@ -731,7 +736,8 @@
       "seen_in": {
         "comingsoon": "2026-11-02T19:20:11+02:00",
         "whatson": "2026-11-04T16:15:09+02:00",
-        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
+        "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00",
+        "showtimes:city-centre-almaza": "2026-11-05T11:05:11+02:00"
       }
     },
     "mamsous-arabic": {
@@ -825,13 +831,28 @@
       "changed": "2026-11-04T22:15:11+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "cf4f9c4ecbcb0770ab3ec4cd9ccdb73524995c32c1ba528577e2499f829ce505",
+      "hash": "75e127a89c3b73c266ae03de642d9e196cfd9d21d4bb10fe34dfcde8a5861b76",
       "slugs": [
+        "clayface",
+        "godzilla-minus-zero-japanese",
+        "idiots",
         "matloub-3a2eleyain-arabic",
+        "naseeb-arabic",
+        "ramayana-hindi",
+        "resident-evil",
+        "sense-and-sensibility",
+        "street-fighter",
+        "the-cat-in-the-hat",
+        "the-cat-in-the-hat-arabic",
+        "the-cycle",
         "the-mongoose",
-        "wala-kan-ala-el-bal-arabic"
+        "the-odyssey",
+        "verity",
+        "wala-kan-ala-el-bal-arabic",
+        "whalefall",
+        "wildwood"
       ],
-      "changed": "2026-11-04T23:20:11+02:00"
+      "changed": "2026-11-05T11:05:11+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "d7f6618be8b856c9c384a76e6293bc8b46e27b0dd0510e9182b3c9d11c8a2ca1",
@@ -863,15 +884,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-05",
-      "checked": "2026-11-05T11:00:13+02:00"
+      "checked": "2026-11-05T11:05:11+02:00"
     },
     "city-centre-almaza": {
-      "last_date": "2026-11-04",
-      "checked": "2026-11-04T23:45:09+02:00"
+      "last_date": "2026-11-05",
+      "checked": "2026-11-05T11:05:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-05T11:00:13+02:00"
+      "checked": "2026-11-05T11:05:11+02:00"
     }
   }
 }
