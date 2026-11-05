@@ -748,11 +748,18 @@
         "whatson": "2026-11-04T16:15:09+02:00",
         "showtimes:mall-of-egypt": "2026-11-04T16:15:09+02:00"
       }
+    },
+    "how-to-rob-a-bank": {
+      "title": "How to Rob a Bank",
+      "first_seen": "2026-11-05T10:15:10+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-05T10:15:10+02:00"
+      }
     }
   },
   "sources": {
     "whatson": {
-      "hash": "186d3ed0ad0b11a7c2b48e1af892265fa356300ee678ff1a2e56d251cda9591f",
+      "hash": "86443919e44d3c43f4780e4686002568ee9984fd3633153a1a3058e2518290d7",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -770,6 +777,7 @@
         "resident-evil",
         "sense-and-sensibility",
         "the-cat-in-the-hat",
+        "the-cat-in-the-hat-arabic",
         "the-cycle",
         "the-dino-family",
         "uc-harfliler-muhur-turkish",
@@ -778,10 +786,10 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-05T10:10:10+02:00"
+      "changed": "2026-11-05T10:15:10+02:00"
     },
     "comingsoon": {
-      "hash": "50469d9a462bac1a7349f5c2b333697194a1cdd32a67f282e395b0331dd2cc6c",
+      "hash": "520b2d7ec73d6280016870d50706936be49eadd4d3b51e8fa796c457b90fda16",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -793,6 +801,7 @@
         "ebenezer",
         "hadoota-arabic",
         "hexed",
+        "how-to-rob-a-bank",
         "jumanji-open-world",
         "mamsous-arabic",
         "maserati-the-brothers",
@@ -800,7 +809,7 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-11-04T22:00:11+02:00"
+      "changed": "2026-11-05T10:15:10+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "723e38a4c0e55efd8a6806da9f53beb3f9fab31d6c1f2853868292c66c044b36",
@@ -854,7 +863,7 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-05",
-      "checked": "2026-11-05T10:10:10+02:00"
+      "checked": "2026-11-05T10:15:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-04",
@@ -862,7 +871,7 @@
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-05T10:10:10+02:00"
+      "checked": "2026-11-05T10:15:10+02:00"
     }
   }
 }
