@@ -905,6 +905,55 @@
       "seen_in": {
         "comingsoon": "2026-11-09T17:50:17+02:00"
       }
+    },
+    "ciff-2026-fleak-finnish": {
+      "title": "CIFF 2026: Fleak",
+      "first_seen": "2026-11-09T18:50:09+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-09T18:50:09+02:00"
+      }
+    },
+    "ciff-2026-shafika-the-copt-arabic": {
+      "title": "CIFF 2026: Shafika the Copt",
+      "first_seen": "2026-11-09T18:50:09+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-09T18:50:09+02:00"
+      }
+    },
+    "ciff-2026-summer-meadow-french-arabic": {
+      "title": "CIFF 2026: Summer Meadow",
+      "first_seen": "2026-11-09T18:50:09+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-09T18:50:09+02:00"
+      }
+    },
+    "ciff-2026-the-female-idol-arabic": {
+      "title": "CIFF 2026: The Female Idol",
+      "first_seen": "2026-11-09T18:50:09+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-09T18:50:09+02:00"
+      }
+    },
+    "ciff-2026-the-mirage-arabic": {
+      "title": "CIFF 2026: The Mirage",
+      "first_seen": "2026-11-09T18:50:09+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-09T18:50:09+02:00"
+      }
+    },
+    "ciff-2026-the-people-and-the-nile-arabic": {
+      "title": "CIFF 2026: The People and The Nile",
+      "first_seen": "2026-11-09T18:50:09+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-09T18:50:09+02:00"
+      }
+    },
+    "ciff-2026-the-second-wife-arabic": {
+      "title": "CIFF 2026: The Second Wife",
+      "first_seen": "2026-11-09T18:50:09+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-09T18:50:09+02:00"
+      }
     }
   },
   "sources": {
@@ -942,7 +991,7 @@
       "changed": "2026-11-09T14:05:13+02:00"
     },
     "comingsoon": {
-      "hash": "f42dec4654ccac3851994c252f515a3ab6af47c070791f97aebd0dfd7ae775ff",
+      "hash": "3651922b2f9d052ebc157ab77d6442c719b0235d685e7ef52581004405392a95",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -954,6 +1003,7 @@
         "ciff-2026-cairo-30-arabic",
         "ciff-2026-dead-dogs-dont-bite-turkish",
         "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
+        "ciff-2026-fleak-finnish",
         "ciff-2026-for-life-arabic",
         "ciff-2026-home-bitter-home-arabic",
         "ciff-2026-inherited-persian",
@@ -962,10 +1012,14 @@
         "ciff-2026-my-wife-general-manager-arabic",
         "ciff-2026-night-and-jail-bars-arabic",
         "ciff-2026-palace-of-desire-arabic",
+        "ciff-2026-shafika-the-copt-arabic",
         "ciff-2026-something-of-fear-arabic",
-        "ciff-2026-the-impossible-arabic",
+        "ciff-2026-summer-meadow-french-arabic",
+        "ciff-2026-the-female-idol-arabic",
         "ciff-2026-the-lamp-of-umm-hashim-arabic",
-        "ciff-2026-the-mirage-finnish",
+        "ciff-2026-the-mirage-arabic",
+        "ciff-2026-the-people-and-the-nile-arabic",
+        "ciff-2026-the-second-wife-arabic",
         "ciff-2026-the-sin-arabic",
         "ciff-2026-the-violinist-arabic-japanese",
         "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
@@ -982,7 +1036,7 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-11-09T17:50:17+02:00"
+      "changed": "2026-11-09T18:50:09+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "c09f728c886de4252fdbfad4146e937395e04f49568c94416634967f74972bf2",
@@ -1055,15 +1109,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-15",
-      "checked": "2026-11-09T18:45:12+02:00"
+      "checked": "2026-11-09T18:50:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-09T18:45:12+02:00"
+      "checked": "2026-11-09T18:50:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-09T18:45:12+02:00"
+      "checked": "2026-11-09T18:50:09+02:00"
     }
   }
 }
