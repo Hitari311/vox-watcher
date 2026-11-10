@@ -683,7 +683,8 @@
       "title": "Ebenezer",
       "first_seen": "2026-10-29T11:20:09+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-29T11:20:09+03:00"
+        "comingsoon": "2026-10-29T11:20:09+03:00",
+        "whatson": "2026-11-10T19:00:11+02:00"
       }
     },
     "bts-world-tour-arirang-in-jakarta-live-viewing": {
@@ -763,7 +764,8 @@
       "title": "How to Rob a Bank",
       "first_seen": "2026-11-05T10:15:10+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-05T10:15:10+02:00"
+        "comingsoon": "2026-11-05T10:15:10+02:00",
+        "whatson": "2026-11-10T19:00:11+02:00"
       }
     },
     "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic": {
@@ -812,7 +814,8 @@
       "title": "CIFF 2026: Home Bitter Home",
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T17:50:17+02:00"
+        "comingsoon": "2026-11-09T17:50:17+02:00",
+        "whatson": "2026-11-10T19:00:11+02:00"
       }
     },
     "ciff-2026-inherited-persian": {
@@ -910,7 +913,8 @@
       "title": "CIFF 2026: Fleak",
       "first_seen": "2026-11-09T18:50:09+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T18:50:09+02:00"
+        "comingsoon": "2026-11-09T18:50:09+02:00",
+        "whatson": "2026-11-10T19:00:11+02:00"
       }
     },
     "ciff-2026-shafika-the-copt-arabic": {
@@ -945,7 +949,8 @@
       "title": "CIFF 2026: The People and The Nile",
       "first_seen": "2026-11-09T18:50:09+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T18:50:09+02:00"
+        "comingsoon": "2026-11-09T18:50:09+02:00",
+        "whatson": "2026-11-10T19:00:11+02:00"
       }
     },
     "ciff-2026-the-second-wife-arabic": {
@@ -966,22 +971,29 @@
       "title": "Best Pancakes in the County",
       "first_seen": "2026-11-10T17:50:10+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-10T17:50:10+02:00"
+        "comingsoon": "2026-11-10T17:50:10+02:00",
+        "whatson": "2026-11-10T19:00:11+02:00"
       }
     }
   },
   "sources": {
     "whatson": {
-      "hash": "64114ccbda27a6ed1a52bc8575e7f78ed3dd4783318210cd4d15e874679e3b58",
+      "hash": "abcd13f1c250b0556372b4213b734759086f94f0fb107c33648417bcc21b8d39",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
+        "best-pancakes-in-the-county",
+        "ciff-2026-fleak-finnish",
+        "ciff-2026-home-bitter-home-arabic",
+        "ciff-2026-the-people-and-the-nile-arabic",
         "clayface",
         "dune-part-three",
+        "ebenezer",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "heart-of-the-beast",
         "hope-korean",
+        "how-to-rob-a-bank",
         "idiots",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
@@ -1001,7 +1013,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-10T18:25:13+02:00"
+      "changed": "2026-11-10T19:00:11+02:00"
     },
     "comingsoon": {
       "hash": "bc6026fb97153dd1c1e091c53a68c819857d3bfbba7139fd17575e02c925fd68",
@@ -1122,15 +1134,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-15",
-      "checked": "2026-11-10T18:55:13+02:00"
+      "checked": "2026-11-10T19:00:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-10T18:55:13+02:00"
+      "checked": "2026-11-10T19:00:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-11",
-      "checked": "2026-11-10T18:55:13+02:00"
+      "checked": "2026-11-10T19:00:11+02:00"
     }
   }
 }
