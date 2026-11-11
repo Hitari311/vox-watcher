@@ -1123,7 +1123,7 @@
       "changed": "2026-11-11T23:40:14+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "626bfe18d194e77700b4eb34d100c6588c2d0052e7819c702233ea39a0a649be",
+      "hash": "ece2f48d20b63ae0c09b78d6dbf767984896eb19c30557b01ca0011123c9f3db",
       "slugs": [
         "ciff-2026-a-woman-on-the-road-arabic",
         "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
@@ -1142,13 +1142,14 @@
         "matloub-3a2eleyain-arabic",
         "sense-and-sensibility",
         "the-cat-in-the-hat",
+        "the-odyssey",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-11T23:15:09+02:00"
+      "changed": "2026-11-11T23:50:13+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "5098b54a1069e7bc4d0ee42bfe912970d297075a0420fd8a4a482ef59336a512",
+      "hash": "40afb6df59b5cfcb1bd93828cb34cb621fafabe5a64c50fdc289d9b6ff851339",
       "slugs": [
         "best-pancakes-in-the-county",
         "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic",
@@ -1166,7 +1167,6 @@
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "how-to-rob-a-bank",
-        "idiots",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "other-mommy",
@@ -1177,21 +1177,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-11T23:15:09+02:00"
+      "changed": "2026-11-11T23:50:13+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T23:45:13+02:00"
+      "checked": "2026-11-11T23:50:13+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T23:45:13+02:00"
+      "checked": "2026-11-11T23:50:13+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T23:45:13+02:00"
+      "checked": "2026-11-11T23:50:13+02:00"
     }
   }
 }
