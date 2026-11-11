@@ -1020,7 +1020,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "f96558999ae51c2d20778611c24f1a253ed59e9fb87b7b0d6c36937833ed6a70",
+      "hash": "fe0d61b18536806774829e5add71250ebf8a51f3f7bd7ab694fae7b33cfc369f",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1058,11 +1058,10 @@
         "sense-and-sensibility",
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
-        "the-dino-family",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-11T22:00:11+02:00"
+      "changed": "2026-11-11T22:57:22+02:00"
     },
     "comingsoon": {
       "hash": "b076edaac2b9d1cff96ee79c12e44c81c4b63110d9f93aff6c221492d118d627",
@@ -1125,7 +1124,7 @@
       "changed": "2026-11-11T18:55:12+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "e4afa3e16f61f6b4e3fe129ed53f8ee19106ee4023e5b336e8c3fe233a08f9b2",
+      "hash": "9ca3acab787fd13798cf64b4162ee65ce8f82ce65125cf00a12394f508a08452",
       "slugs": [
         "ciff-2026-a-woman-on-the-road-arabic",
         "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
@@ -1144,17 +1143,14 @@
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "sense-and-sensibility",
-        "street-fighter",
         "the-cat-in-the-hat",
-        "the-odyssey",
         "wala-kan-ala-el-bal-arabic",
-        "whalefall",
-        "wildwood"
+        "whalefall"
       ],
-      "changed": "2026-11-11T21:20:10+02:00"
+      "changed": "2026-11-11T22:57:22+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "fe4caf3689e153ea2555088efcaa21cf784c0f681b5e2c16fdd0bb94be43bce7",
+      "hash": "80713df2a5c020d48ffff1acf997648aa373577bb6c3991187645e29fccc5ea4",
       "slugs": [
         "best-pancakes-in-the-county",
         "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic",
@@ -1176,7 +1172,6 @@
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "other-mommy",
-        "ramayana-hindi",
         "resident-evil",
         "sense-and-sensibility",
         "the-cat-in-the-hat",
@@ -1185,21 +1180,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-11T21:20:10+02:00"
+      "changed": "2026-11-11T22:57:22+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T22:15:11+02:00"
+      "checked": "2026-11-11T22:57:22+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T22:15:11+02:00"
+      "checked": "2026-11-11T22:57:22+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T22:15:11+02:00"
+      "checked": "2026-11-11T22:57:22+02:00"
     }
   }
 }
