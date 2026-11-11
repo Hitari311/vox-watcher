@@ -1133,7 +1133,7 @@
       "changed": "2026-11-11T18:55:12+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "9fe6b6ab97b45d6250e5444b25683a61d7419541aecbbb9dd8f2bbd76af86746",
+      "hash": "d85d40001cff26fbb2471aeb254394e12b85a806c4062f460441a9d2473293a5",
       "slugs": [
         "ciff-2026-a-woman-on-the-road-arabic",
         "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
@@ -1157,12 +1157,11 @@
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
         "the-odyssey",
-        "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-11T19:50:10+02:00"
+      "changed": "2026-11-11T19:55:11+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "2398d42ad5092f8bb7360a75ea4ff5e8d8f0a638676c2440ae46552923002e02",
@@ -1203,15 +1202,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T19:50:10+02:00"
+      "checked": "2026-11-11T19:55:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T19:50:10+02:00"
+      "checked": "2026-11-11T19:55:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T19:50:10+02:00"
+      "checked": "2026-11-11T19:55:11+02:00"
     }
   }
 }
