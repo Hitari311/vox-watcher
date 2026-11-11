@@ -1019,7 +1019,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "f9d7cb4ac59faac1d19d6a7b72be38823cf21d70d419470250a49d64b1c1bb45",
+      "hash": "b476439db0a79a9b1c6a30723fa5f3cbd3456bbf5c403cd9366f3533f17e5adb",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1050,7 +1050,6 @@
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "heart-of-the-beast",
-        "hope-korean",
         "how-to-rob-a-bank",
         "idiots",
         "matloub-3a2eleyain-arabic",
@@ -1069,7 +1068,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-11T17:15:11+02:00"
+      "changed": "2026-11-11T17:45:14+02:00"
     },
     "comingsoon": {
       "hash": "a42c456c98a631f9844a4a17136b124d9c69bb5533be5f6efaf2d43b0a53fa8d",
@@ -1208,15 +1207,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-15",
-      "checked": "2026-11-11T17:40:10+02:00"
+      "checked": "2026-11-11T17:45:14+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T17:40:10+02:00"
+      "checked": "2026-11-11T17:45:14+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T17:40:10+02:00"
+      "checked": "2026-11-11T17:45:14+02:00"
     }
   }
 }
