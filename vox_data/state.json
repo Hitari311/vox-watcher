@@ -812,7 +812,8 @@
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
         "comingsoon": "2026-11-09T17:50:17+02:00",
-        "showtimes:city-centre-almaza": "2026-11-11T17:05:11+02:00"
+        "showtimes:city-centre-almaza": "2026-11-11T17:05:11+02:00",
+        "whatson": "2026-11-11T17:15:11+02:00"
       }
     },
     "ciff-2026-for-life-arabic": {
@@ -854,7 +855,8 @@
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
         "comingsoon": "2026-11-09T17:50:17+02:00",
-        "showtimes:city-centre-almaza": "2026-11-11T17:05:11+02:00"
+        "showtimes:city-centre-almaza": "2026-11-11T17:05:11+02:00",
+        "whatson": "2026-11-11T17:15:11+02:00"
       }
     },
     "ciff-2026-my-wife-general-manager-arabic": {
@@ -862,7 +864,8 @@
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
         "comingsoon": "2026-11-09T17:50:17+02:00",
-        "showtimes:city-centre-almaza": "2026-11-11T17:05:11+02:00"
+        "showtimes:city-centre-almaza": "2026-11-11T17:05:11+02:00",
+        "whatson": "2026-11-11T17:15:11+02:00"
       }
     },
     "ciff-2026-night-and-jail-bars-arabic": {
@@ -879,7 +882,8 @@
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
         "comingsoon": "2026-11-09T17:50:17+02:00",
-        "showtimes:city-centre-almaza": "2026-11-11T17:05:11+02:00"
+        "showtimes:city-centre-almaza": "2026-11-11T17:05:11+02:00",
+        "whatson": "2026-11-11T17:15:11+02:00"
       }
     },
     "ciff-2026-something-of-fear-arabic": {
@@ -902,7 +906,9 @@
       "title": "CIFF 2026: The Lamp of Umm Hashim",
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T17:50:17+02:00"
+        "comingsoon": "2026-11-09T17:50:17+02:00",
+        "whatson": "2026-11-11T17:15:11+02:00",
+        "showtimes:city-centre-almaza": "2026-11-11T17:15:11+02:00"
       }
     },
     "ciff-2026-the-mirage-finnish": {
@@ -933,7 +939,8 @@
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
         "comingsoon": "2026-11-09T17:50:17+02:00",
-        "showtimes:city-centre-almaza": "2026-11-11T17:10:11+02:00"
+        "showtimes:city-centre-almaza": "2026-11-11T17:10:11+02:00",
+        "whatson": "2026-11-11T17:15:11+02:00"
       }
     },
     "ciff-2026-fleak-finnish": {
@@ -957,7 +964,8 @@
       "first_seen": "2026-11-09T18:50:09+02:00",
       "seen_in": {
         "comingsoon": "2026-11-09T18:50:09+02:00",
-        "showtimes:city-centre-almaza": "2026-11-11T17:10:11+02:00"
+        "showtimes:city-centre-almaza": "2026-11-11T17:10:11+02:00",
+        "whatson": "2026-11-11T17:15:11+02:00"
       }
     },
     "ciff-2026-the-female-idol-arabic": {
@@ -972,7 +980,8 @@
       "first_seen": "2026-11-09T18:50:09+02:00",
       "seen_in": {
         "comingsoon": "2026-11-09T18:50:09+02:00",
-        "showtimes:city-centre-almaza": "2026-11-11T17:10:11+02:00"
+        "showtimes:city-centre-almaza": "2026-11-11T17:10:11+02:00",
+        "whatson": "2026-11-11T17:15:11+02:00"
       }
     },
     "ciff-2026-the-people-and-the-nile-arabic": {
@@ -1010,7 +1019,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "05cb3c78da056a075e62367af95535011fde9fe2933f1825ef761c516ab74e0d",
+      "hash": "f9d7cb4ac59faac1d19d6a7b72be38823cf21d70d419470250a49d64b1c1bb45",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1019,14 +1028,22 @@
         "ciff-2026-a-woman-on-the-road-arabic",
         "ciff-2026-cairo-30-arabic",
         "ciff-2026-dead-dogs-dont-bite-turkish",
+        "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
         "ciff-2026-fleak-finnish",
         "ciff-2026-home-bitter-home-arabic",
         "ciff-2026-inherited-persian",
         "ciff-2026-khan-el-khalili-arabic",
+        "ciff-2026-my-wife-and-the-dog-arabic",
+        "ciff-2026-my-wife-general-manager-arabic",
         "ciff-2026-night-and-jail-bars-arabic",
+        "ciff-2026-palace-of-desire-arabic",
+        "ciff-2026-summer-meadow-french-arabic",
         "ciff-2026-the-impossible-arabic",
+        "ciff-2026-the-lamp-of-umm-hashim-arabic",
+        "ciff-2026-the-mirage-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
         "ciff-2026-the-sin-arabic",
+        "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
         "clayface",
         "dune-part-three",
         "ebenezer",
@@ -1052,7 +1069,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-11T16:55:11+02:00"
+      "changed": "2026-11-11T17:15:11+02:00"
     },
     "comingsoon": {
       "hash": "a42c456c98a631f9844a4a17136b124d9c69bb5533be5f6efaf2d43b0a53fa8d",
@@ -1117,7 +1134,7 @@
       "changed": "2026-11-11T14:50:11+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "0afd88b3b9d0ab61bc89247c8d9bf7cc949f8ce9941cb569e35d15068a0eb0ff",
+      "hash": "22ebea3e807d12800022f0eeb16bfe1569d2b2119920943c7f09660a18e3ae07",
       "slugs": [
         "ciff-2026-a-woman-on-the-road-arabic",
         "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
@@ -1126,6 +1143,7 @@
         "ciff-2026-palace-of-desire-arabic",
         "ciff-2026-summer-meadow-french-arabic",
         "ciff-2026-the-impossible-arabic",
+        "ciff-2026-the-lamp-of-umm-hashim-arabic",
         "ciff-2026-the-mirage-arabic",
         "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
         "clayface",
@@ -1147,7 +1165,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-11T17:10:11+02:00"
+      "changed": "2026-11-11T17:15:11+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "c68132c40ec1167e566529935dd3226f1ae17f938703a428069461d9293a8993",
@@ -1191,15 +1209,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-15",
-      "checked": "2026-11-11T17:10:11+02:00"
+      "checked": "2026-11-11T17:15:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T17:10:11+02:00"
+      "checked": "2026-11-11T17:15:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T17:10:11+02:00"
+      "checked": "2026-11-11T17:15:11+02:00"
     }
   }
 }
