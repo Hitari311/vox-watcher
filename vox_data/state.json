@@ -1020,7 +1020,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "e3b51535266d46a01a3249db4638cce0b42f7b7a05ab4da6628735363b912e52",
+      "hash": "fd38c542451e03c3fa4158823b441d3ac0c913eb12e87713ae49e1829a0acb3d",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1061,10 +1061,9 @@
         "the-cat-in-the-hat-arabic",
         "the-dino-family",
         "wala-kan-ala-el-bal-arabic",
-        "whalefall",
-        "wildwood"
+        "whalefall"
       ],
-      "changed": "2026-11-11T20:40:10+02:00"
+      "changed": "2026-11-11T20:56:18+02:00"
     },
     "comingsoon": {
       "hash": "a42c456c98a631f9844a4a17136b124d9c69bb5533be5f6efaf2d43b0a53fa8d",
@@ -1198,15 +1197,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T20:50:11+02:00"
+      "checked": "2026-11-11T20:56:18+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T20:50:11+02:00"
+      "checked": "2026-11-11T20:56:18+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T20:50:11+02:00"
+      "checked": "2026-11-11T20:56:18+02:00"
     }
   }
 }
