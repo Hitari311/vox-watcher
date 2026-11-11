@@ -1020,7 +1020,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "af45913ea25286b023c5e799a3813d13cec15aa8fc589ea8400d6d5a077cb5d5",
+      "hash": "f5fd79334124f89dad1478ca217fdf4387832ef6c9f1e8b17f504fac54e8c90a",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1050,7 +1050,6 @@
         "ebenezer",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
-        "heart-of-the-beast",
         "how-to-rob-a-bank",
         "idiots",
         "matloub-3a2eleyain-arabic",
@@ -1068,7 +1067,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-11T17:55:11+02:00"
+      "changed": "2026-11-11T19:30:10+02:00"
     },
     "comingsoon": {
       "hash": "a42c456c98a631f9844a4a17136b124d9c69bb5533be5f6efaf2d43b0a53fa8d",
@@ -1166,7 +1165,7 @@
       "changed": "2026-11-11T18:55:12+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "5f956b5a80b8d8a01954f18aa239564ca75a0af3d335742a220bd0ce42d4cba4",
+      "hash": "2398d42ad5092f8bb7360a75ea4ff5e8d8f0a638676c2440ae46552923002e02",
       "slugs": [
         "best-pancakes-in-the-county",
         "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic",
@@ -1184,7 +1183,6 @@
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "heart-of-the-beast",
-        "hope-korean",
         "how-to-rob-a-bank",
         "idiots",
         "matloub-3a2eleyain-arabic",
@@ -1197,24 +1195,23 @@
         "the-cat-in-the-hat-arabic",
         "the-dino-family",
         "wala-kan-ala-el-bal-arabic",
-        "whalefall",
-        "wildwood"
+        "whalefall"
       ],
-      "changed": "2026-11-11T18:40:12+02:00"
+      "changed": "2026-11-11T19:30:10+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T19:24:35+02:00"
+      "checked": "2026-11-11T19:30:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T19:24:35+02:00"
+      "checked": "2026-11-11T19:30:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T19:24:35+02:00"
+      "checked": "2026-11-11T19:30:10+02:00"
     }
   }
 }
