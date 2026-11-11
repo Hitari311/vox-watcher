@@ -1165,7 +1165,7 @@
       "changed": "2026-11-11T18:55:12+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "2398d42ad5092f8bb7360a75ea4ff5e8d8f0a638676c2440ae46552923002e02",
+      "hash": "5f956b5a80b8d8a01954f18aa239564ca75a0af3d335742a220bd0ce42d4cba4",
       "slugs": [
         "best-pancakes-in-the-county",
         "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic",
@@ -1183,6 +1183,7 @@
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "heart-of-the-beast",
+        "hope-korean",
         "how-to-rob-a-bank",
         "idiots",
         "matloub-3a2eleyain-arabic",
@@ -1195,23 +1196,24 @@
         "the-cat-in-the-hat-arabic",
         "the-dino-family",
         "wala-kan-ala-el-bal-arabic",
-        "whalefall"
+        "whalefall",
+        "wildwood"
       ],
-      "changed": "2026-11-11T19:30:10+02:00"
+      "changed": "2026-11-11T19:40:11+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T19:35:14+02:00"
+      "checked": "2026-11-11T19:40:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T19:35:14+02:00"
+      "checked": "2026-11-11T19:40:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T19:35:14+02:00"
+      "checked": "2026-11-11T19:40:11+02:00"
     }
   }
 }
