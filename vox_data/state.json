@@ -1129,7 +1129,7 @@
       "changed": "2026-11-11T18:55:12+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "37fca9007a998aa860111f0c1849193b24869bfdfd73a33ae6d55cc72350f021",
+      "hash": "e4afa3e16f61f6b4e3fe129ed53f8ee19106ee4023e5b336e8c3fe233a08f9b2",
       "slugs": [
         "ciff-2026-a-woman-on-the-road-arabic",
         "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
@@ -1145,7 +1145,6 @@
         "ebenezer",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
-        "idiots",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "sense-and-sensibility",
@@ -1156,10 +1155,10 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-11T20:15:11+02:00"
+      "changed": "2026-11-11T21:20:10+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "2398d42ad5092f8bb7360a75ea4ff5e8d8f0a638676c2440ae46552923002e02",
+      "hash": "fe4caf3689e153ea2555088efcaa21cf784c0f681b5e2c16fdd0bb94be43bce7",
       "slugs": [
         "best-pancakes-in-the-county",
         "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic",
@@ -1176,7 +1175,6 @@
         "ebenezer",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
-        "heart-of-the-beast",
         "how-to-rob-a-bank",
         "idiots",
         "matloub-3a2eleyain-arabic",
@@ -1191,21 +1189,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-11T19:45:12+02:00"
+      "changed": "2026-11-11T21:20:10+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T21:15:10+02:00"
+      "checked": "2026-11-11T21:20:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T21:15:10+02:00"
+      "checked": "2026-11-11T21:20:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T21:15:10+02:00"
+      "checked": "2026-11-11T21:20:10+02:00"
     }
   }
 }
