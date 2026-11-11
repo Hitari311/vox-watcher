@@ -1150,7 +1150,7 @@
       "changed": "2026-11-11T23:50:13+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "40afb6df59b5cfcb1bd93828cb34cb621fafabe5a64c50fdc289d9b6ff851339",
+      "hash": "3ee974ba4daac41d925426b1af897237f621383d57acfd20a57ae2a4a3f1d7c3",
       "slugs": [
         "best-pancakes-in-the-county",
         "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic",
@@ -1174,25 +1174,24 @@
         "resident-evil",
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
-        "the-dino-family",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-11T23:50:13+02:00"
+      "changed": "2026-11-12T00:00:10+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T23:55:11+02:00"
+      "checked": "2026-11-12T00:00:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T23:55:11+02:00"
+      "checked": "2026-11-12T00:00:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T23:55:11+02:00"
+      "checked": "2026-11-12T00:00:10+02:00"
     }
   }
 }
