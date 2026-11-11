@@ -1092,7 +1092,7 @@
       "changed": "2026-11-10T22:05:12+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "0a9b902dc6c7888ea30691fe2401fffec22e57a12ce8b92360ed3e37b5dd2e36",
+      "hash": "1a6f1a1b363fc5816ee9530f42b3a4c645c0bdfbca0c3a348909652c140bc577",
       "slugs": [
         "clayface",
         "godzilla-minus-zero-japanese",
@@ -1100,13 +1100,12 @@
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "the-cat-in-the-hat",
-        "the-cat-in-the-hat-arabic",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-10T23:20:11+02:00"
+      "changed": "2026-11-11T14:50:11+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "6cab7626077fa35a52df808478ae7fac75bf11ab2c845d475f8bf4fd3dcb7d1e",
+      "hash": "302029367a35bb917292b804f5f81383524e226f4045655dcb96d8ba68559337",
       "slugs": [
         "clayface",
         "godzilla-minus-zero-japanese",
@@ -1119,7 +1118,6 @@
         "street-fighter",
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
-        "the-cycle",
         "the-mongoose",
         "the-odyssey",
         "verity",
@@ -1127,7 +1125,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-11T11:30:09+02:00"
+      "changed": "2026-11-11T14:50:11+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "c68132c40ec1167e566529935dd3226f1ae17f938703a428069461d9293a8993",
@@ -1171,15 +1169,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-15",
-      "checked": "2026-11-11T14:45:11+02:00"
+      "checked": "2026-11-11T14:50:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T14:45:11+02:00"
+      "checked": "2026-11-11T14:50:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T14:45:11+02:00"
+      "checked": "2026-11-11T14:50:11+02:00"
     }
   }
 }
