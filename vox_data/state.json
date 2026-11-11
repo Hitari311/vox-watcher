@@ -686,7 +686,8 @@
         "comingsoon": "2026-10-29T11:20:09+03:00",
         "whatson": "2026-11-10T19:00:11+02:00",
         "showtimes:mall-of-egypt": "2026-11-10T19:20:10+02:00",
-        "showtimes:city-centre-almaza": "2026-11-11T16:20:09+02:00"
+        "showtimes:city-centre-almaza": "2026-11-11T16:20:09+02:00",
+        "showtimes:city-centre-alexandria": "2026-11-11T18:55:12+02:00"
       }
     },
     "bts-world-tour-arirang-in-jakarta-live-viewing": {
@@ -1119,9 +1120,10 @@
       "changed": "2026-11-10T22:05:12+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "1a6f1a1b363fc5816ee9530f42b3a4c645c0bdfbca0c3a348909652c140bc577",
+      "hash": "abf04bd3978f63e1322d298e3a7ec7e6c3b4ba96a951bd15c3354ca629f29fad",
       "slugs": [
         "clayface",
+        "ebenezer",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "matloub-3a2eleyain-arabic",
@@ -1129,10 +1131,10 @@
         "the-cat-in-the-hat",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-11T14:50:11+02:00"
+      "changed": "2026-11-11T18:55:12+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "3aa215ab2e559cf76eef721ed19e1f158124d22dd17d829679739cb4a89ca0ed",
+      "hash": "9fe6b6ab97b45d6250e5444b25683a61d7419541aecbbb9dd8f2bbd76af86746",
       "slugs": [
         "ciff-2026-a-woman-on-the-road-arabic",
         "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
@@ -1155,14 +1157,13 @@
         "street-fighter",
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
-        "the-mongoose",
         "the-odyssey",
         "verity",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-11T17:35:12+02:00"
+      "changed": "2026-11-11T18:55:12+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "5f956b5a80b8d8a01954f18aa239564ca75a0af3d335742a220bd0ce42d4cba4",
@@ -1204,16 +1205,16 @@
   },
   "schedule": {
     "city-centre-alexandria": {
-      "last_date": "2026-11-15",
-      "checked": "2026-11-11T18:50:09+02:00"
+      "last_date": "2026-11-18",
+      "checked": "2026-11-11T18:55:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T18:50:09+02:00"
+      "checked": "2026-11-11T18:55:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T18:50:09+02:00"
+      "checked": "2026-11-11T18:55:12+02:00"
     }
   }
 }
