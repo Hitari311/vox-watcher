@@ -1106,7 +1106,7 @@
       "changed": "2026-11-10T23:20:11+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "bfd143492fcddd70a65744fb5c645d2074587419461f00300d2567f59aecc071",
+      "hash": "6cab7626077fa35a52df808478ae7fac75bf11ab2c845d475f8bf4fd3dcb7d1e",
       "slugs": [
         "clayface",
         "godzilla-minus-zero-japanese",
@@ -1114,7 +1114,6 @@
         "idiots",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
-        "ramayana-hindi",
         "resident-evil",
         "sense-and-sensibility",
         "street-fighter",
@@ -1128,7 +1127,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-05T17:45:13+02:00"
+      "changed": "2026-11-11T11:30:09+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "8ef89dc68fb4d9c22059fdc45328dd580c13c45fd7e0f5f000c2a6418aeb194a",
@@ -1173,15 +1172,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-15",
-      "checked": "2026-11-11T11:25:10+02:00"
+      "checked": "2026-11-11T11:30:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T11:25:10+02:00"
+      "checked": "2026-11-11T11:30:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T11:25:10+02:00"
+      "checked": "2026-11-11T11:30:09+02:00"
     }
   }
 }
