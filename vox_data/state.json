@@ -811,7 +811,8 @@
       "title": "CIFF 2026: Fatma and the Abdelwahab Plan",
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T17:50:17+02:00"
+        "comingsoon": "2026-11-09T17:50:17+02:00",
+        "showtimes:city-centre-almaza": "2026-11-11T17:05:11+02:00"
       }
     },
     "ciff-2026-for-life-arabic": {
@@ -852,14 +853,16 @@
       "title": "CIFF 2026: My Wife and the Dog",
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T17:50:17+02:00"
+        "comingsoon": "2026-11-09T17:50:17+02:00",
+        "showtimes:city-centre-almaza": "2026-11-11T17:05:11+02:00"
       }
     },
     "ciff-2026-my-wife-general-manager-arabic": {
       "title": "CIFF 2026: My Wife, General Manager",
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T17:50:17+02:00"
+        "comingsoon": "2026-11-09T17:50:17+02:00",
+        "showtimes:city-centre-almaza": "2026-11-11T17:05:11+02:00"
       }
     },
     "ciff-2026-night-and-jail-bars-arabic": {
@@ -875,7 +878,8 @@
       "title": "CIFF 2026: Palace of Desire",
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T17:50:17+02:00"
+        "comingsoon": "2026-11-09T17:50:17+02:00",
+        "showtimes:city-centre-almaza": "2026-11-11T17:05:11+02:00"
       }
     },
     "ciff-2026-something-of-fear-arabic": {
@@ -1110,9 +1114,13 @@
       "changed": "2026-11-11T14:50:11+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "078146f690bf29f812f16491636c9306c62e20cb00921ac6cb5af9eb45b071f7",
+      "hash": "eccc40ca7779729089f5add4e38566397b399a3d58753af1c39cc1d786fba89d",
       "slugs": [
         "ciff-2026-a-woman-on-the-road-arabic",
+        "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
+        "ciff-2026-my-wife-and-the-dog-arabic",
+        "ciff-2026-my-wife-general-manager-arabic",
+        "ciff-2026-palace-of-desire-arabic",
         "ciff-2026-the-impossible-arabic",
         "clayface",
         "ebenezer",
@@ -1133,7 +1141,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-11T16:20:09+02:00"
+      "changed": "2026-11-11T17:05:11+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "c68132c40ec1167e566529935dd3226f1ae17f938703a428069461d9293a8993",
@@ -1177,15 +1185,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-15",
-      "checked": "2026-11-11T17:00:13+02:00"
+      "checked": "2026-11-11T17:05:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T17:00:13+02:00"
+      "checked": "2026-11-11T17:05:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T17:00:13+02:00"
+      "checked": "2026-11-11T17:05:11+02:00"
     }
   }
 }
