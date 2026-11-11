@@ -1134,7 +1134,7 @@
       "changed": "2026-11-11T14:50:11+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "22ebea3e807d12800022f0eeb16bfe1569d2b2119920943c7f09660a18e3ae07",
+      "hash": "3aa215ab2e559cf76eef721ed19e1f158124d22dd17d829679739cb4a89ca0ed",
       "slugs": [
         "ciff-2026-a-woman-on-the-road-arabic",
         "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
@@ -1153,7 +1153,6 @@
         "idiots",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
-        "resident-evil",
         "sense-and-sensibility",
         "street-fighter",
         "the-cat-in-the-hat",
@@ -1165,7 +1164,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-11T17:15:11+02:00"
+      "changed": "2026-11-11T17:35:12+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "c68132c40ec1167e566529935dd3226f1ae17f938703a428069461d9293a8993",
@@ -1209,15 +1208,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-15",
-      "checked": "2026-11-11T17:30:12+02:00"
+      "checked": "2026-11-11T17:35:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T17:30:12+02:00"
+      "checked": "2026-11-11T17:35:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T17:30:12+02:00"
+      "checked": "2026-11-11T17:35:12+02:00"
     }
   }
 }
