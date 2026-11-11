@@ -998,7 +998,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "ab742cc935b2d3b1e5336cc5f5b52319dea46e3613c7817c639199439bc14607",
+      "hash": "50e4fe8f83546d9d3ed35f9e04483d55fabecc754eb8313999ecb806e8cc49e4",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1032,6 +1032,7 @@
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
         "the-cycle",
+        "the-dino-family",
         "the-mongoose",
         "the-odyssey",
         "uc-harfliler-muhur-turkish",
@@ -1040,7 +1041,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-11T09:30:11+02:00"
+      "changed": "2026-11-11T10:35:09+02:00"
     },
     "comingsoon": {
       "hash": "a42c456c98a631f9844a4a17136b124d9c69bb5533be5f6efaf2d43b0a53fa8d",
@@ -1131,7 +1132,7 @@
       "changed": "2026-11-05T17:45:13+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "05e9bed4681c2e2dc0fe7532c945c3ae4d19349b31dfeadea37441b75699cc5e",
+      "hash": "8ef89dc68fb4d9c22059fdc45328dd580c13c45fd7e0f5f000c2a6418aeb194a",
       "slugs": [
         "best-pancakes-in-the-county",
         "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic",
@@ -1161,26 +1162,27 @@
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
         "the-cycle",
+        "the-dino-family",
         "uc-harfliler-muhur-turkish",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-10T19:20:10+02:00"
+      "changed": "2026-11-11T10:35:09+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-15",
-      "checked": "2026-11-11T10:30:11+02:00"
+      "checked": "2026-11-11T10:35:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T10:30:11+02:00"
+      "checked": "2026-11-11T10:35:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T10:30:11+02:00"
+      "checked": "2026-11-11T10:35:09+02:00"
     }
   }
 }
