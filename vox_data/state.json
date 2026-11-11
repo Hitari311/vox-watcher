@@ -1130,7 +1130,7 @@
       "changed": "2026-11-11T11:30:09+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "8ef89dc68fb4d9c22059fdc45328dd580c13c45fd7e0f5f000c2a6418aeb194a",
+      "hash": "c68132c40ec1167e566529935dd3226f1ae17f938703a428069461d9293a8993",
       "slugs": [
         "best-pancakes-in-the-county",
         "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic",
@@ -1161,26 +1161,25 @@
         "the-cat-in-the-hat-arabic",
         "the-cycle",
         "the-dino-family",
-        "uc-harfliler-muhur-turkish",
         "wala-kan-ala-el-bal-arabic",
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-11T10:35:09+02:00"
+      "changed": "2026-11-11T13:00:13+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-15",
-      "checked": "2026-11-11T12:55:10+02:00"
+      "checked": "2026-11-11T13:00:13+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T12:55:10+02:00"
+      "checked": "2026-11-11T13:00:13+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T12:55:10+02:00"
+      "checked": "2026-11-11T13:00:13+02:00"
     }
   }
 }
