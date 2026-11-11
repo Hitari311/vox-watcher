@@ -932,7 +932,8 @@
       "title": "CIFF 2026: To the Sun and Beyond",
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T17:50:17+02:00"
+        "comingsoon": "2026-11-09T17:50:17+02:00",
+        "showtimes:city-centre-almaza": "2026-11-11T17:10:11+02:00"
       }
     },
     "ciff-2026-fleak-finnish": {
@@ -955,7 +956,8 @@
       "title": "CIFF 2026: Summer Meadow",
       "first_seen": "2026-11-09T18:50:09+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T18:50:09+02:00"
+        "comingsoon": "2026-11-09T18:50:09+02:00",
+        "showtimes:city-centre-almaza": "2026-11-11T17:10:11+02:00"
       }
     },
     "ciff-2026-the-female-idol-arabic": {
@@ -969,7 +971,8 @@
       "title": "CIFF 2026: The Mirage",
       "first_seen": "2026-11-09T18:50:09+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T18:50:09+02:00"
+        "comingsoon": "2026-11-09T18:50:09+02:00",
+        "showtimes:city-centre-almaza": "2026-11-11T17:10:11+02:00"
       }
     },
     "ciff-2026-the-people-and-the-nile-arabic": {
@@ -1114,14 +1117,17 @@
       "changed": "2026-11-11T14:50:11+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "eccc40ca7779729089f5add4e38566397b399a3d58753af1c39cc1d786fba89d",
+      "hash": "0afd88b3b9d0ab61bc89247c8d9bf7cc949f8ce9941cb569e35d15068a0eb0ff",
       "slugs": [
         "ciff-2026-a-woman-on-the-road-arabic",
         "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
         "ciff-2026-my-wife-and-the-dog-arabic",
         "ciff-2026-my-wife-general-manager-arabic",
         "ciff-2026-palace-of-desire-arabic",
+        "ciff-2026-summer-meadow-french-arabic",
         "ciff-2026-the-impossible-arabic",
+        "ciff-2026-the-mirage-arabic",
+        "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
         "clayface",
         "ebenezer",
         "godzilla-minus-zero-japanese",
@@ -1141,7 +1147,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-11T17:05:11+02:00"
+      "changed": "2026-11-11T17:10:11+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "c68132c40ec1167e566529935dd3226f1ae17f938703a428069461d9293a8993",
@@ -1185,15 +1191,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-15",
-      "checked": "2026-11-11T17:05:11+02:00"
+      "checked": "2026-11-11T17:10:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T17:05:11+02:00"
+      "checked": "2026-11-11T17:10:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T17:05:11+02:00"
+      "checked": "2026-11-11T17:10:11+02:00"
     }
   }
 }
