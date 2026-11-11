@@ -1020,7 +1020,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "fd38c542451e03c3fa4158823b441d3ac0c913eb12e87713ae49e1829a0acb3d",
+      "hash": "f96558999ae51c2d20778611c24f1a253ed59e9fb87b7b0d6c36937833ed6a70",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1051,7 +1051,6 @@
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "how-to-rob-a-bank",
-        "idiots",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "other-mommy",
@@ -1063,14 +1062,13 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-11T20:56:18+02:00"
+      "changed": "2026-11-11T22:00:11+02:00"
     },
     "comingsoon": {
-      "hash": "a42c456c98a631f9844a4a17136b124d9c69bb5533be5f6efaf2d43b0a53fa8d",
+      "hash": "b076edaac2b9d1cff96ee79c12e44c81c4b63110d9f93aff6c221492d118d627",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
-        "best-pancakes-in-the-county",
         "bts-world-tour-arirang-in-jakarta-live-viewing",
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "children-of-blood-and-bone",
@@ -1102,9 +1100,7 @@
         "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
         "day-drinker",
         "dune-part-three",
-        "ebenezer",
         "hexed",
-        "how-to-rob-a-bank",
         "jumanji-open-world",
         "mamsous-arabic",
         "maserati-the-brothers",
@@ -1112,7 +1108,7 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-11-10T22:05:12+02:00"
+      "changed": "2026-11-11T22:00:11+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "abf04bd3978f63e1322d298e3a7ec7e6c3b4ba96a951bd15c3354ca629f29fad",
@@ -1195,15 +1191,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T21:55:11+02:00"
+      "checked": "2026-11-11T22:00:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T21:55:11+02:00"
+      "checked": "2026-11-11T22:00:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T21:55:11+02:00"
+      "checked": "2026-11-11T22:00:11+02:00"
     }
   }
 }
