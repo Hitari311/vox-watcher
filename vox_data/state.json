@@ -685,7 +685,8 @@
       "seen_in": {
         "comingsoon": "2026-10-29T11:20:09+03:00",
         "whatson": "2026-11-10T19:00:11+02:00",
-        "showtimes:mall-of-egypt": "2026-11-10T19:20:10+02:00"
+        "showtimes:mall-of-egypt": "2026-11-10T19:20:10+02:00",
+        "showtimes:city-centre-almaza": "2026-11-11T16:20:09+02:00"
       }
     },
     "bts-world-tour-arirang-in-jakarta-live-viewing": {
@@ -783,7 +784,9 @@
       "title": "CIFF 2026: A Woman on the Road",
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T17:50:17+02:00"
+        "comingsoon": "2026-11-09T17:50:17+02:00",
+        "whatson": "2026-11-11T16:20:09+02:00",
+        "showtimes:city-centre-almaza": "2026-11-11T16:20:09+02:00"
       }
     },
     "ciff-2026-cairo-30-arabic": {
@@ -886,7 +889,9 @@
       "title": "CIFF 2026: The Impossible",
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T17:50:17+02:00"
+        "comingsoon": "2026-11-09T17:50:17+02:00",
+        "whatson": "2026-11-11T16:20:09+02:00",
+        "showtimes:city-centre-almaza": "2026-11-11T16:20:09+02:00"
       }
     },
     "ciff-2026-the-lamp-of-umm-hashim-arabic": {
@@ -998,12 +1003,13 @@
   },
   "sources": {
     "whatson": {
-      "hash": "be2ce1aebc377a8732e769ed99340357aae9ca67cf3c250434cf15b3ba45bd78",
+      "hash": "770a25d076ff87c5c43c645bf2a1fd87cbbbc5223b207f26756f294c5a372f5b",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "best-pancakes-in-the-county",
         "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic",
+        "ciff-2026-a-woman-on-the-road-arabic",
         "ciff-2026-cairo-30-arabic",
         "ciff-2026-dead-dogs-dont-bite-turkish",
         "ciff-2026-fleak-finnish",
@@ -1011,6 +1017,7 @@
         "ciff-2026-inherited-persian",
         "ciff-2026-khan-el-khalili-arabic",
         "ciff-2026-night-and-jail-bars-arabic",
+        "ciff-2026-the-impossible-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
         "ciff-2026-the-sin-arabic",
         "clayface",
@@ -1040,7 +1047,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-11T15:10:09+02:00"
+      "changed": "2026-11-11T16:20:09+02:00"
     },
     "comingsoon": {
       "hash": "a42c456c98a631f9844a4a17136b124d9c69bb5533be5f6efaf2d43b0a53fa8d",
@@ -1105,9 +1112,12 @@
       "changed": "2026-11-11T14:50:11+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "302029367a35bb917292b804f5f81383524e226f4045655dcb96d8ba68559337",
+      "hash": "078146f690bf29f812f16491636c9306c62e20cb00921ac6cb5af9eb45b071f7",
       "slugs": [
+        "ciff-2026-a-woman-on-the-road-arabic",
+        "ciff-2026-the-impossible-arabic",
         "clayface",
+        "ebenezer",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "idiots",
@@ -1125,7 +1135,7 @@
         "whalefall",
         "wildwood"
       ],
-      "changed": "2026-11-11T14:50:11+02:00"
+      "changed": "2026-11-11T16:20:09+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "c68132c40ec1167e566529935dd3226f1ae17f938703a428069461d9293a8993",
@@ -1169,15 +1179,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-15",
-      "checked": "2026-11-11T16:15:09+02:00"
+      "checked": "2026-11-11T16:20:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T16:15:09+02:00"
+      "checked": "2026-11-11T16:20:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T16:15:09+02:00"
+      "checked": "2026-11-11T16:20:09+02:00"
     }
   }
 }
