@@ -1110,18 +1110,17 @@
       "changed": "2026-11-11T22:00:11+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "abf04bd3978f63e1322d298e3a7ec7e6c3b4ba96a951bd15c3354ca629f29fad",
+      "hash": "68da82f055e57a20e1e1d839ea1fa966acde575ae6d73f9f74f0b9cb53fa8c83",
       "slugs": [
         "clayface",
         "ebenezer",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "matloub-3a2eleyain-arabic",
-        "naseeb-arabic",
         "the-cat-in-the-hat",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-11T23:35:10+02:00"
+      "changed": "2026-11-11T23:40:14+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "626bfe18d194e77700b4eb34d100c6588c2d0052e7819c702233ea39a0a649be",
@@ -1184,15 +1183,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T23:35:10+02:00"
+      "checked": "2026-11-11T23:40:14+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T23:35:10+02:00"
+      "checked": "2026-11-11T23:40:14+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-11T23:35:10+02:00"
+      "checked": "2026-11-11T23:40:14+02:00"
     }
   }
 }
