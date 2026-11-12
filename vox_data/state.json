@@ -1076,16 +1076,13 @@
       "changed": "2026-11-12T16:35:11+02:00"
     },
     "comingsoon": {
-      "hash": "8232cb24e8d8c37698c2b117f87fa8e1814eb8aca2e675709a2d412814831f56",
+      "hash": "bc4b3e8e2db61bea99b5443c7e90667e4ba9c9f77fb0fe60d653deedbd5bf696",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "bts-world-tour-arirang-in-jakarta-live-viewing",
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "children-of-blood-and-bone",
-        "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic",
-        "ciff-2026-a-woman-on-the-road-arabic",
-        "ciff-2026-cairo-30-arabic",
         "ciff-2026-dead-dogs-dont-bite-turkish",
         "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
         "ciff-2026-fleak-finnish",
@@ -1121,7 +1118,7 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-11-12T14:50:11+02:00"
+      "changed": "2026-11-12T22:05:11+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "ebe48073a6616cc82974c20e5858187538f9cf547808cbda9d3affa134977fc8",
@@ -1192,15 +1189,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T22:00:12+02:00"
+      "checked": "2026-11-12T22:05:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T22:00:12+02:00"
+      "checked": "2026-11-12T22:05:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T22:00:12+02:00"
+      "checked": "2026-11-12T22:05:11+02:00"
     }
   }
 }
