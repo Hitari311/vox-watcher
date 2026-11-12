@@ -975,7 +975,9 @@
       "title": "CIFF 2026: The Female Idol",
       "first_seen": "2026-11-09T18:50:09+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T18:50:09+02:00"
+        "comingsoon": "2026-11-09T18:50:09+02:00",
+        "whatson": "2026-11-12T12:55:10+02:00",
+        "showtimes:city-centre-almaza": "2026-11-12T12:55:10+02:00"
       }
     },
     "ciff-2026-the-mirage-arabic": {
@@ -1029,7 +1031,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "27c8085d54aa26fcd1199ff228f8d15fe3db62f5f652f324aa34966713863c1e",
+      "hash": "6435bb579940969777ccceb7e6f1ac7e780ce8a9e68f0a7d30fffc1d6d3c585d",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1039,7 +1041,10 @@
         "ciff-2026-fleak-finnish",
         "ciff-2026-my-wife-and-the-dog-arabic",
         "ciff-2026-my-wife-general-manager-arabic",
+        "ciff-2026-palace-of-desire-arabic",
         "ciff-2026-summer-meadow-french-arabic",
+        "ciff-2026-the-female-idol-arabic",
+        "ciff-2026-the-impossible-arabic",
         "ciff-2026-the-lamp-of-umm-hashim-arabic",
         "ciff-2026-the-mirage-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
@@ -1061,7 +1066,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-12T12:15:13+02:00"
+      "changed": "2026-11-12T12:55:10+02:00"
     },
     "comingsoon": {
       "hash": "fe5cbbb86265f75013373a8e19fd19cc0d31acf3b68f25155463bc1638d41924",
@@ -1125,13 +1130,15 @@
       "changed": "2026-11-12T09:45:10+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "6f25b6067c83b039ee011e72472a1940f5d87da5220ae2a7a2bfa0ee4f50fb3c",
+      "hash": "0558000a95db1c9e09aee1cbffa619a75e9d730a35946e1468fae4a63d121eee",
       "slugs": [
         "ciff-2026-a-woman-on-the-road-arabic",
         "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
         "ciff-2026-my-wife-and-the-dog-arabic",
         "ciff-2026-my-wife-general-manager-arabic",
+        "ciff-2026-palace-of-desire-arabic",
         "ciff-2026-summer-meadow-french-arabic",
+        "ciff-2026-the-female-idol-arabic",
         "ciff-2026-the-lamp-of-umm-hashim-arabic",
         "ciff-2026-the-mirage-arabic",
         "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
@@ -1148,7 +1155,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-12T12:50:10+02:00"
+      "changed": "2026-11-12T12:55:10+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "42fcd38a6c1eca040c547f250a5069c0c913a3f0f6ad406ccd8f23c7e56f48e0",
@@ -1176,15 +1183,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T12:50:10+02:00"
+      "checked": "2026-11-12T12:55:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T12:50:10+02:00"
+      "checked": "2026-11-12T12:55:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T12:50:10+02:00"
+      "checked": "2026-11-12T12:55:10+02:00"
     }
   }
 }
