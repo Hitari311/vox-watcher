@@ -770,7 +770,8 @@
         "comingsoon": "2026-11-05T10:15:10+02:00",
         "whatson": "2026-11-10T19:00:11+02:00",
         "showtimes:mall-of-egypt": "2026-11-10T19:20:10+02:00",
-        "showtimes:city-centre-alexandria": "2026-11-12T09:45:10+02:00"
+        "showtimes:city-centre-alexandria": "2026-11-12T09:45:10+02:00",
+        "showtimes:city-centre-almaza": "2026-11-12T12:50:10+02:00"
       }
     },
     "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic": {
@@ -1017,6 +1018,13 @@
         "whatson": "2026-11-10T19:00:11+02:00",
         "showtimes:mall-of-egypt": "2026-11-10T19:20:10+02:00"
       }
+    },
+    "ciff-2026-the-soft-hands-arabic": {
+      "title": "CIFF 2026: The Soft Hands",
+      "first_seen": "2026-11-12T12:50:10+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-12T12:50:10+02:00"
+      }
     }
   },
   "sources": {
@@ -1056,7 +1064,7 @@
       "changed": "2026-11-12T12:15:13+02:00"
     },
     "comingsoon": {
-      "hash": "b076edaac2b9d1cff96ee79c12e44c81c4b63110d9f93aff6c221492d118d627",
+      "hash": "fe5cbbb86265f75013373a8e19fd19cc0d31acf3b68f25155463bc1638d41924",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1087,6 +1095,7 @@
         "ciff-2026-the-people-and-the-nile-arabic",
         "ciff-2026-the-second-wife-arabic",
         "ciff-2026-the-sin-arabic",
+        "ciff-2026-the-soft-hands-arabic",
         "ciff-2026-the-violinist-english-japanese",
         "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
         "day-drinker",
@@ -1099,7 +1108,7 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-11-11T22:00:11+02:00"
+      "changed": "2026-11-12T12:50:10+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "ebe48073a6616cc82974c20e5858187538f9cf547808cbda9d3affa134977fc8",
@@ -1116,7 +1125,7 @@
       "changed": "2026-11-12T09:45:10+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "c310af9f6a1a8f0a048a780d5876740a3d253ae46cef814e6b7e3cbb4e0adb49",
+      "hash": "6f25b6067c83b039ee011e72472a1940f5d87da5220ae2a7a2bfa0ee4f50fb3c",
       "slugs": [
         "ciff-2026-a-woman-on-the-road-arabic",
         "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
@@ -1130,14 +1139,16 @@
         "ebenezer",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
+        "how-to-rob-a-bank",
         "matloub-3a2eleyain-arabic",
+        "naseeb-arabic",
         "sense-and-sensibility",
         "the-cat-in-the-hat",
         "the-odyssey",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-12T11:15:10+02:00"
+      "changed": "2026-11-12T12:50:10+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "42fcd38a6c1eca040c547f250a5069c0c913a3f0f6ad406ccd8f23c7e56f48e0",
@@ -1165,15 +1176,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T12:45:11+02:00"
+      "checked": "2026-11-12T12:50:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T12:45:11+02:00"
+      "checked": "2026-11-12T12:50:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T12:45:11+02:00"
+      "checked": "2026-11-12T12:50:10+02:00"
     }
   }
 }
