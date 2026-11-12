@@ -769,7 +769,8 @@
       "seen_in": {
         "comingsoon": "2026-11-05T10:15:10+02:00",
         "whatson": "2026-11-10T19:00:11+02:00",
-        "showtimes:mall-of-egypt": "2026-11-10T19:20:10+02:00"
+        "showtimes:mall-of-egypt": "2026-11-10T19:20:10+02:00",
+        "showtimes:city-centre-alexandria": "2026-11-12T09:45:10+02:00"
       }
     },
     "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic": {
@@ -1111,17 +1112,18 @@
       "changed": "2026-11-11T22:00:11+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "68da82f055e57a20e1e1d839ea1fa966acde575ae6d73f9f74f0b9cb53fa8c83",
+      "hash": "ebe48073a6616cc82974c20e5858187538f9cf547808cbda9d3affa134977fc8",
       "slugs": [
         "clayface",
         "ebenezer",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
+        "how-to-rob-a-bank",
         "matloub-3a2eleyain-arabic",
         "the-cat-in-the-hat",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-11T23:40:14+02:00"
+      "changed": "2026-11-12T09:45:10+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "ece2f48d20b63ae0c09b78d6dbf767984896eb19c30557b01ca0011123c9f3db",
@@ -1183,15 +1185,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T09:40:09+02:00"
+      "checked": "2026-11-12T09:45:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T09:40:09+02:00"
+      "checked": "2026-11-12T09:45:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T09:40:09+02:00"
+      "checked": "2026-11-12T09:45:10+02:00"
     }
   }
 }
