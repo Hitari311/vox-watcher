@@ -1027,6 +1027,13 @@
       "seen_in": {
         "comingsoon": "2026-11-12T12:50:10+02:00"
       }
+    },
+    "the-angry-birds-movie-3": {
+      "title": "The Angry Birds Movie 3",
+      "first_seen": "2026-11-12T14:50:11+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-12T14:50:11+02:00"
+      }
     }
   },
   "sources": {
@@ -1069,7 +1076,7 @@
       "changed": "2026-11-12T12:55:10+02:00"
     },
     "comingsoon": {
-      "hash": "fe5cbbb86265f75013373a8e19fd19cc0d31acf3b68f25155463bc1638d41924",
+      "hash": "8232cb24e8d8c37698c2b117f87fa8e1814eb8aca2e675709a2d412814831f56",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1110,10 +1117,11 @@
         "mamsous-arabic",
         "maserati-the-brothers",
         "narnia-the-magicians-nephew",
+        "the-angry-birds-movie-3",
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-11-12T12:50:10+02:00"
+      "changed": "2026-11-12T14:50:11+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "ebe48073a6616cc82974c20e5858187538f9cf547808cbda9d3affa134977fc8",
@@ -1184,15 +1192,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T14:45:13+02:00"
+      "checked": "2026-11-12T14:50:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T14:45:13+02:00"
+      "checked": "2026-11-12T14:50:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T14:45:13+02:00"
+      "checked": "2026-11-12T14:50:11+02:00"
     }
   }
 }
