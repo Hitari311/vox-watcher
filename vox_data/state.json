@@ -1021,25 +1021,20 @@
   },
   "sources": {
     "whatson": {
-      "hash": "6c1dcceb0baf43ad3453c5d8edb7de206e1016f980f7f9275055b99fb4e2b998",
+      "hash": "27c8085d54aa26fcd1199ff228f8d15fe3db62f5f652f324aa34966713863c1e",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "best-pancakes-in-the-county",
-        "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic",
         "ciff-2026-a-woman-on-the-road-arabic",
-        "ciff-2026-cairo-30-arabic",
         "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
         "ciff-2026-fleak-finnish",
-        "ciff-2026-khan-el-khalili-arabic",
         "ciff-2026-my-wife-and-the-dog-arabic",
         "ciff-2026-my-wife-general-manager-arabic",
-        "ciff-2026-night-and-jail-bars-arabic",
         "ciff-2026-summer-meadow-french-arabic",
         "ciff-2026-the-lamp-of-umm-hashim-arabic",
         "ciff-2026-the-mirage-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
-        "ciff-2026-the-sin-arabic",
         "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
         "clayface",
         "dune-part-three",
@@ -1058,7 +1053,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-12T12:05:13+02:00"
+      "changed": "2026-11-12T12:15:13+02:00"
     },
     "comingsoon": {
       "hash": "b076edaac2b9d1cff96ee79c12e44c81c4b63110d9f93aff6c221492d118d627",
@@ -1145,16 +1140,11 @@
       "changed": "2026-11-12T11:15:10+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "ba777887ffae38b645165eb748c0b9dd68762337b8db69ed4afeff8b276aba49",
+      "hash": "42fcd38a6c1eca040c547f250a5069c0c913a3f0f6ad406ccd8f23c7e56f48e0",
       "slugs": [
         "best-pancakes-in-the-county",
-        "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic",
-        "ciff-2026-cairo-30-arabic",
         "ciff-2026-fleak-finnish",
-        "ciff-2026-khan-el-khalili-arabic",
-        "ciff-2026-night-and-jail-bars-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
-        "ciff-2026-the-sin-arabic",
         "clayface",
         "ebenezer",
         "godzilla-minus-zero-japanese",
@@ -1169,21 +1159,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-12T11:50:09+02:00"
+      "changed": "2026-11-12T12:15:13+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T12:10:14+02:00"
+      "checked": "2026-11-12T12:15:13+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T12:10:14+02:00"
+      "checked": "2026-11-12T12:15:13+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T12:10:14+02:00"
+      "checked": "2026-11-12T12:15:13+02:00"
     }
   }
 }
