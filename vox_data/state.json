@@ -1140,11 +1140,14 @@
       "changed": "2026-11-12T11:15:10+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "42fcd38a6c1eca040c547f250a5069c0c913a3f0f6ad406ccd8f23c7e56f48e0",
+      "hash": "0229cacf5ab556a1fb0c965e1aad5c22ece4f60960348437f9d040c21a8dc1d8",
       "slugs": [
         "best-pancakes-in-the-county",
         "ciff-2026-fleak-finnish",
+        "ciff-2026-khan-el-khalili-arabic",
+        "ciff-2026-night-and-jail-bars-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
+        "ciff-2026-the-sin-arabic",
         "clayface",
         "ebenezer",
         "godzilla-minus-zero-japanese",
@@ -1159,21 +1162,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-12T11:00:17+02:00"
+      "changed": "2026-11-12T11:45:10+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T11:40:09+02:00"
+      "checked": "2026-11-12T11:45:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T11:40:09+02:00"
+      "checked": "2026-11-12T11:45:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-12T11:40:09+02:00"
+      "checked": "2026-11-12T11:45:10+02:00"
     }
   }
 }
