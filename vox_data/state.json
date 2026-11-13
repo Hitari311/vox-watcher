@@ -1134,9 +1134,8 @@
       "changed": "2026-11-12T09:45:10+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "cf5db8dbe6b4c81b1298fac6deb91b4de64b0131686b808639f0331489c0db84",
+      "hash": "89ce9a26e62c455b80b000536fbc8c5cff1bdea6a3b0a9042cc0692a6290fad2",
       "slugs": [
-        "ciff-2026-a-woman-on-the-road-arabic",
         "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
         "ciff-2026-my-wife-and-the-dog-arabic",
         "ciff-2026-my-wife-general-manager-arabic",
@@ -1160,7 +1159,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-12T13:00:11+02:00"
+      "changed": "2026-11-13T18:20:24+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "42fcd38a6c1eca040c547f250a5069c0c913a3f0f6ad406ccd8f23c7e56f48e0",
@@ -1188,15 +1187,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-13T18:15:11+02:00"
+      "checked": "2026-11-13T18:20:24+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-13T18:15:11+02:00"
+      "checked": "2026-11-13T18:20:24+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-13T18:15:11+02:00"
+      "checked": "2026-11-13T18:20:24+02:00"
     }
   }
 }
