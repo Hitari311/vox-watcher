@@ -1081,29 +1081,23 @@
       "changed": "2026-11-13T19:50:10+02:00"
     },
     "comingsoon": {
-      "hash": "bc4b3e8e2db61bea99b5443c7e90667e4ba9c9f77fb0fe60d653deedbd5bf696",
+      "hash": "c0fa003221396cc860f83b4fbdae8029e7576f11c1255f4f54f2160ae51a0831",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "bts-world-tour-arirang-in-jakarta-live-viewing",
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "children-of-blood-and-bone",
-        "ciff-2026-dead-dogs-dont-bite-turkish",
-        "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
         "ciff-2026-fleak-finnish",
         "ciff-2026-for-life-arabic",
         "ciff-2026-home-bitter-home-arabic",
         "ciff-2026-inherited-persian",
-        "ciff-2026-khan-el-khalili-arabic",
-        "ciff-2026-my-wife-and-the-dog-arabic",
         "ciff-2026-my-wife-general-manager-arabic",
-        "ciff-2026-night-and-jail-bars-arabic",
         "ciff-2026-palace-of-desire-arabic",
         "ciff-2026-shafika-the-copt-arabic",
         "ciff-2026-something-of-fear-arabic",
         "ciff-2026-summer-meadow-french-arabic",
         "ciff-2026-the-female-idol-arabic",
-        "ciff-2026-the-impossible-arabic",
         "ciff-2026-the-lamp-of-umm-hashim-arabic",
         "ciff-2026-the-mirage-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
@@ -1123,7 +1117,7 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-11-12T22:05:11+02:00"
+      "changed": "2026-11-13T22:00:10+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "ebe48073a6616cc82974c20e5858187538f9cf547808cbda9d3affa134977fc8",
@@ -1199,15 +1193,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-13T21:55:11+02:00"
+      "checked": "2026-11-13T22:00:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-13T21:55:11+02:00"
+      "checked": "2026-11-13T22:00:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-13T21:55:11+02:00"
+      "checked": "2026-11-13T22:00:10+02:00"
     }
   }
 }
