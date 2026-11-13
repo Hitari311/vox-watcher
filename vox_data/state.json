@@ -1038,7 +1038,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "c0b907cdc0be5206ff2971089ae99239d4a42ff83dd241720efe537b23e8a88f",
+      "hash": "b8829397c8e4433e41379814fcd26bd8ec403f718e925ebdaaf3a95dba1d603e",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1067,12 +1067,11 @@
         "resident-evil",
         "sense-and-sensibility",
         "the-cat-in-the-hat",
-        "the-cat-in-the-hat-arabic",
         "the-odyssey",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-13T16:20:10+02:00"
+      "changed": "2026-11-13T18:45:11+02:00"
     },
     "comingsoon": {
       "hash": "bc4b3e8e2db61bea99b5443c7e90667e4ba9c9f77fb0fe60d653deedbd5bf696",
@@ -1187,15 +1186,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-13T18:40:11+02:00"
+      "checked": "2026-11-13T18:45:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-13T18:40:11+02:00"
+      "checked": "2026-11-13T18:45:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-13T18:40:11+02:00"
+      "checked": "2026-11-13T18:45:11+02:00"
     }
   }
 }
