@@ -1038,12 +1038,11 @@
   },
   "sources": {
     "whatson": {
-      "hash": "6435bb579940969777ccceb7e6f1ac7e780ce8a9e68f0a7d30fffc1d6d3c585d",
+      "hash": "c0b907cdc0be5206ff2971089ae99239d4a42ff83dd241720efe537b23e8a88f",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "best-pancakes-in-the-county",
-        "ciff-2026-a-woman-on-the-road-arabic",
         "ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
         "ciff-2026-fleak-finnish",
         "ciff-2026-my-wife-and-the-dog-arabic",
@@ -1073,7 +1072,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-13T14:25:09+02:00"
+      "changed": "2026-11-13T16:20:10+02:00"
     },
     "comingsoon": {
       "hash": "bc4b3e8e2db61bea99b5443c7e90667e4ba9c9f77fb0fe60d653deedbd5bf696",
@@ -1189,15 +1188,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-13T16:15:09+02:00"
+      "checked": "2026-11-13T16:20:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-13T16:15:09+02:00"
+      "checked": "2026-11-13T16:20:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-13T16:15:09+02:00"
+      "checked": "2026-11-13T16:20:10+02:00"
     }
   }
 }
