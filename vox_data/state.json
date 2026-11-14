@@ -1128,13 +1128,12 @@
       "changed": "2026-11-12T09:45:10+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "efeceaaa0ee47451baa12fa023518e2ab525b6dac1d4088cd7a6fc7cefb3aa81",
+      "hash": "b8e568a2d71d4ee1a7fa8e9ced121380e2f47941a5f749a5210127f9367fbbed",
       "slugs": [
         "ciff-2026-my-wife-general-manager-arabic",
         "ciff-2026-palace-of-desire-arabic",
         "ciff-2026-summer-meadow-french-arabic",
         "ciff-2026-the-female-idol-arabic",
-        "ciff-2026-the-impossible-arabic",
         "ciff-2026-the-lamp-of-umm-hashim-arabic",
         "ciff-2026-the-mirage-arabic",
         "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
@@ -1151,7 +1150,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-14T18:30:10+02:00"
+      "changed": "2026-11-14T20:20:10+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "6596f42ae69aad849dfed0d984ca0261ce435d5b8e1754a37315a5bef6ff48c4",
@@ -1183,15 +1182,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-14T20:15:17+02:00"
+      "checked": "2026-11-14T20:20:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-14T20:15:17+02:00"
+      "checked": "2026-11-14T20:20:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-14T20:15:17+02:00"
+      "checked": "2026-11-14T20:20:10+02:00"
     }
   }
 }
