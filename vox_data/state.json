@@ -1038,7 +1038,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "e69b709df58f423ba905cc6e1d4406afae560910b53caca433b549013055f614",
+      "hash": "22ff9084ec3c94b1460154eb970e50d3bdecc1b7658e6ad8e387f1b0fd4eb60e",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1051,7 +1051,6 @@
         "ciff-2026-palace-of-desire-arabic",
         "ciff-2026-summer-meadow-french-arabic",
         "ciff-2026-the-female-idol-arabic",
-        "ciff-2026-the-impossible-arabic",
         "ciff-2026-the-lamp-of-umm-hashim-arabic",
         "ciff-2026-the-mirage-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
@@ -1074,7 +1073,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-14T16:30:11+02:00"
+      "changed": "2026-11-14T18:25:09+02:00"
     },
     "comingsoon": {
       "hash": "c0fa003221396cc860f83b4fbdae8029e7576f11c1255f4f54f2160ae51a0831",
@@ -1158,14 +1157,12 @@
       "changed": "2026-11-13T18:20:24+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "78c69ebdc6632a2b23f3d11a15f16724a588d972baef7ea28d36e67b939d2ab1",
+      "hash": "6596f42ae69aad849dfed0d984ca0261ce435d5b8e1754a37315a5bef6ff48c4",
       "slugs": [
         "best-pancakes-in-the-county",
-        "ciff-2026-dead-dogs-dont-bite-turkish",
         "ciff-2026-fleak-finnish",
         "ciff-2026-home-bitter-home-arabic",
         "ciff-2026-inherited-persian",
-        "ciff-2026-khan-el-khalili-arabic",
         "ciff-2026-night-and-jail-bars-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
         "ciff-2026-the-sin-arabic",
@@ -1183,21 +1180,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-13T19:25:09+02:00"
+      "changed": "2026-11-14T18:25:09+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-14T18:20:08+02:00"
+      "checked": "2026-11-14T18:25:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-14T18:20:08+02:00"
+      "checked": "2026-11-14T18:25:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-14T18:20:08+02:00"
+      "checked": "2026-11-14T18:25:09+02:00"
     }
   }
 }
