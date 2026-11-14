@@ -1075,7 +1075,7 @@
       "changed": "2026-11-14T19:30:18+02:00"
     },
     "comingsoon": {
-      "hash": "c0fa003221396cc860f83b4fbdae8029e7576f11c1255f4f54f2160ae51a0831",
+      "hash": "4e5507f58c782d6819c0545d84dcecc5ff4743fab6c3c739d1d18391bccc745f",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1085,9 +1085,6 @@
         "ciff-2026-fleak-finnish",
         "ciff-2026-for-life-arabic",
         "ciff-2026-home-bitter-home-arabic",
-        "ciff-2026-inherited-persian",
-        "ciff-2026-my-wife-general-manager-arabic",
-        "ciff-2026-palace-of-desire-arabic",
         "ciff-2026-shafika-the-copt-arabic",
         "ciff-2026-something-of-fear-arabic",
         "ciff-2026-summer-meadow-french-arabic",
@@ -1096,7 +1093,6 @@
         "ciff-2026-the-mirage-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
         "ciff-2026-the-second-wife-arabic",
-        "ciff-2026-the-sin-arabic",
         "ciff-2026-the-soft-hands-arabic",
         "ciff-2026-the-violinist-english-japanese",
         "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
@@ -1111,7 +1107,7 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-11-13T22:00:10+02:00"
+      "changed": "2026-11-14T22:05:10+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "ebe48073a6616cc82974c20e5858187538f9cf547808cbda9d3affa134977fc8",
@@ -1181,15 +1177,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-14T22:00:12+02:00"
+      "checked": "2026-11-14T22:05:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-14T22:00:12+02:00"
+      "checked": "2026-11-14T22:05:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-14T22:00:12+02:00"
+      "checked": "2026-11-14T22:05:10+02:00"
     }
   }
 }
