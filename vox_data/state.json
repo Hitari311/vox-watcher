@@ -824,7 +824,8 @@
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
         "comingsoon": "2026-11-09T17:50:17+02:00",
-        "showtimes:mall-of-egypt": "2026-11-15T18:15:09+02:00"
+        "showtimes:mall-of-egypt": "2026-11-15T18:15:09+02:00",
+        "whatson": "2026-11-15T18:20:10+02:00"
       }
     },
     "ciff-2026-home-bitter-home-arabic": {
@@ -895,7 +896,8 @@
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
         "comingsoon": "2026-11-09T17:50:17+02:00",
-        "showtimes:mall-of-egypt": "2026-11-15T18:15:09+02:00"
+        "showtimes:mall-of-egypt": "2026-11-15T18:15:09+02:00",
+        "whatson": "2026-11-15T18:20:10+02:00"
       }
     },
     "ciff-2026-the-impossible-arabic": {
@@ -1040,14 +1042,16 @@
   },
   "sources": {
     "whatson": {
-      "hash": "2e8e3f524ed16af5122d5fa9ffa275d5854da41fb1dbd9ffcc00cc21ea9ef727",
+      "hash": "08ad2bbdb0b8d46fba951619baa0f90640ec9c25e0d31672d5385bd79f3d071a",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "best-pancakes-in-the-county",
         "ciff-2026-fleak-finnish",
+        "ciff-2026-for-life-arabic",
         "ciff-2026-home-bitter-home-arabic",
         "ciff-2026-palace-of-desire-arabic",
+        "ciff-2026-something-of-fear-arabic",
         "ciff-2026-summer-meadow-french-arabic",
         "ciff-2026-the-female-idol-arabic",
         "ciff-2026-the-lamp-of-umm-hashim-arabic",
@@ -1071,7 +1075,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-15T18:05:09+02:00"
+      "changed": "2026-11-15T18:20:10+02:00"
     },
     "comingsoon": {
       "hash": "4e5507f58c782d6819c0545d84dcecc5ff4743fab6c3c739d1d18391bccc745f",
@@ -1123,9 +1127,8 @@
       "changed": "2026-11-12T09:45:10+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "b8e568a2d71d4ee1a7fa8e9ced121380e2f47941a5f749a5210127f9367fbbed",
+      "hash": "305a391fe32e6433a0ce87ce336c54bd30b807e850a54720c35f3baca07a3f1e",
       "slugs": [
-        "ciff-2026-my-wife-general-manager-arabic",
         "ciff-2026-palace-of-desire-arabic",
         "ciff-2026-summer-meadow-french-arabic",
         "ciff-2026-the-female-idol-arabic",
@@ -1145,19 +1148,17 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-14T20:20:10+02:00"
+      "changed": "2026-11-15T18:20:10+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "e0681740fdf2dcb9d29acd5e8d4cac67651d0bdeb547e64023276dbbf1b91233",
+      "hash": "9bda04fe631435c3134f08a377dee8fbb31289044d0f6abe39a7d1103a948cbc",
       "slugs": [
         "best-pancakes-in-the-county",
         "ciff-2026-fleak-finnish",
         "ciff-2026-for-life-arabic",
         "ciff-2026-home-bitter-home-arabic",
-        "ciff-2026-inherited-persian",
         "ciff-2026-something-of-fear-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
-        "ciff-2026-the-sin-arabic",
         "clayface",
         "ebenezer",
         "godzilla-minus-zero-japanese",
@@ -1172,21 +1173,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-15T18:15:09+02:00"
+      "changed": "2026-11-15T18:20:10+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-15T18:15:09+02:00"
+      "checked": "2026-11-15T18:20:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-15T18:15:09+02:00"
+      "checked": "2026-11-15T18:20:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-15T18:15:09+02:00"
+      "checked": "2026-11-15T18:20:10+02:00"
     }
   }
 }
