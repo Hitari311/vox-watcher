@@ -823,7 +823,8 @@
       "title": "CIFF 2026: For Life",
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T17:50:17+02:00"
+        "comingsoon": "2026-11-09T17:50:17+02:00",
+        "showtimes:mall-of-egypt": "2026-11-15T18:15:09+02:00"
       }
     },
     "ciff-2026-home-bitter-home-arabic": {
@@ -893,7 +894,8 @@
       "title": "CIFF 2026: Something of Fear",
       "first_seen": "2026-11-09T17:50:17+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T17:50:17+02:00"
+        "comingsoon": "2026-11-09T17:50:17+02:00",
+        "showtimes:mall-of-egypt": "2026-11-15T18:15:09+02:00"
       }
     },
     "ciff-2026-the-impossible-arabic": {
@@ -1146,12 +1148,14 @@
       "changed": "2026-11-14T20:20:10+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "40bc2e146caed2cfa0b5d9c4df659f151ec1621e197e856b9dfa730d674d0040",
+      "hash": "e0681740fdf2dcb9d29acd5e8d4cac67651d0bdeb547e64023276dbbf1b91233",
       "slugs": [
         "best-pancakes-in-the-county",
         "ciff-2026-fleak-finnish",
+        "ciff-2026-for-life-arabic",
         "ciff-2026-home-bitter-home-arabic",
         "ciff-2026-inherited-persian",
+        "ciff-2026-something-of-fear-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
         "ciff-2026-the-sin-arabic",
         "clayface",
@@ -1168,21 +1172,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-14T21:25:11+02:00"
+      "changed": "2026-11-15T18:15:09+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-15T18:10:10+02:00"
+      "checked": "2026-11-15T18:15:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-15T18:10:10+02:00"
+      "checked": "2026-11-15T18:15:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-15T18:10:10+02:00"
+      "checked": "2026-11-15T18:15:09+02:00"
     }
   }
 }
