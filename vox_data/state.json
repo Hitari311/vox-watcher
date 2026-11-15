@@ -1042,7 +1042,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "08ad2bbdb0b8d46fba951619baa0f90640ec9c25e0d31672d5385bd79f3d071a",
+      "hash": "83f3fdff5937514dd18bd621db329d7a9ced0215275201c1f47d1f04afea79b4",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1050,7 +1050,6 @@
         "ciff-2026-fleak-finnish",
         "ciff-2026-for-life-arabic",
         "ciff-2026-home-bitter-home-arabic",
-        "ciff-2026-palace-of-desire-arabic",
         "ciff-2026-something-of-fear-arabic",
         "ciff-2026-summer-meadow-french-arabic",
         "ciff-2026-the-female-idol-arabic",
@@ -1075,7 +1074,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-15T18:20:10+02:00"
+      "changed": "2026-11-15T18:55:10+02:00"
     },
     "comingsoon": {
       "hash": "4e5507f58c782d6819c0545d84dcecc5ff4743fab6c3c739d1d18391bccc745f",
@@ -1179,15 +1178,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-15T18:50:08+02:00"
+      "checked": "2026-11-15T18:55:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-15T18:50:08+02:00"
+      "checked": "2026-11-15T18:55:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-15T18:50:08+02:00"
+      "checked": "2026-11-15T18:55:10+02:00"
     }
   }
 }
