@@ -1038,22 +1038,19 @@
   },
   "sources": {
     "whatson": {
-      "hash": "cad18b82f70bb4f193fc5ff972af4acdaf014493496b00cebac87d33189f25f0",
+      "hash": "2e8e3f524ed16af5122d5fa9ffa275d5854da41fb1dbd9ffcc00cc21ea9ef727",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "best-pancakes-in-the-county",
         "ciff-2026-fleak-finnish",
         "ciff-2026-home-bitter-home-arabic",
-        "ciff-2026-inherited-persian",
-        "ciff-2026-my-wife-general-manager-arabic",
         "ciff-2026-palace-of-desire-arabic",
         "ciff-2026-summer-meadow-french-arabic",
         "ciff-2026-the-female-idol-arabic",
         "ciff-2026-the-lamp-of-umm-hashim-arabic",
         "ciff-2026-the-mirage-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
-        "ciff-2026-the-sin-arabic",
         "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
         "clayface",
         "dune-part-three",
@@ -1072,7 +1069,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-15T15:00:10+02:00"
+      "changed": "2026-11-15T16:20:09+02:00"
     },
     "comingsoon": {
       "hash": "4e5507f58c782d6819c0545d84dcecc5ff4743fab6c3c739d1d18391bccc745f",
@@ -1177,15 +1174,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-15T16:15:09+02:00"
+      "checked": "2026-11-15T16:20:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-15T16:15:09+02:00"
+      "checked": "2026-11-15T16:20:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-15T16:15:09+02:00"
+      "checked": "2026-11-15T16:20:09+02:00"
     }
   }
 }
