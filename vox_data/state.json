@@ -1015,7 +1015,8 @@
       "title": "CIFF 2026: The Violinist",
       "first_seen": "2026-11-10T15:50:15+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-10T15:50:15+02:00"
+        "comingsoon": "2026-11-10T15:50:15+02:00",
+        "showtimes:mall-of-egypt": "2026-11-16T18:35:30+02:00"
       }
     },
     "best-pancakes-in-the-county": {
@@ -1146,12 +1147,13 @@
       "changed": "2026-11-16T18:20:10+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "41d413e0cc19568a50a612bf5008f0d9c56b7394cf9c3c72a5d3f6a162c772d9",
+      "hash": "6a27236bc6ca80e03beb6b73b62cb7c4b3964e5832b63336eeb798cab1b7afdf",
       "slugs": [
         "best-pancakes-in-the-county",
         "ciff-2026-fleak-finnish",
         "ciff-2026-home-bitter-home-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
+        "ciff-2026-the-violinist-english-japanese",
         "clayface",
         "ebenezer",
         "godzilla-minus-zero-japanese",
@@ -1166,21 +1168,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-16T18:15:27+02:00"
+      "changed": "2026-11-16T18:35:30+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-16T18:30:10+02:00"
+      "checked": "2026-11-16T18:35:30+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-16T18:30:10+02:00"
+      "checked": "2026-11-16T18:35:30+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-16T18:30:10+02:00"
+      "checked": "2026-11-16T18:35:30+02:00"
     }
   }
 }
