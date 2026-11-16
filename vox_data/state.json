@@ -1016,7 +1016,8 @@
       "first_seen": "2026-11-10T15:50:15+02:00",
       "seen_in": {
         "comingsoon": "2026-11-10T15:50:15+02:00",
-        "showtimes:mall-of-egypt": "2026-11-16T18:35:30+02:00"
+        "showtimes:mall-of-egypt": "2026-11-16T18:35:30+02:00",
+        "whatson": "2026-11-16T18:40:10+02:00"
       }
     },
     "best-pancakes-in-the-county": {
@@ -1045,7 +1046,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "354adeaba4a129917e944b182b170109d7b46433a04be05a73aa1900a9a5f536",
+      "hash": "c7fed32a6b7b20912bd6747bdc6e7ed1c5afacdb3a7f2adf16fde0e0ab9f54ce",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1058,6 +1059,7 @@
         "ciff-2026-the-female-idol-arabic",
         "ciff-2026-the-mirage-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
+        "ciff-2026-the-violinist-english-japanese",
         "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
         "clayface",
         "dune-part-three",
@@ -1076,7 +1078,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-16T18:10:11+02:00"
+      "changed": "2026-11-16T18:40:10+02:00"
     },
     "comingsoon": {
       "hash": "f0146eac0a26b70374bb9767a043357f8a1440bd9e3a0f84da1deb33e4bc6d95",
@@ -1174,15 +1176,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-16T18:35:30+02:00"
+      "checked": "2026-11-16T18:40:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-16T18:35:30+02:00"
+      "checked": "2026-11-16T18:40:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-16T18:35:30+02:00"
+      "checked": "2026-11-16T18:40:10+02:00"
     }
   }
 }
