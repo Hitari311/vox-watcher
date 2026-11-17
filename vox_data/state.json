@@ -1042,6 +1042,20 @@
       "seen_in": {
         "comingsoon": "2026-11-12T14:50:11+02:00"
       }
+    },
+    "crypto-arabic": {
+      "title": "Crypto",
+      "first_seen": "2026-11-17T08:05:10+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-17T08:05:10+02:00"
+      }
+    },
+    "i-play-rocky": {
+      "title": "I Play Rocky",
+      "first_seen": "2026-11-17T08:05:10+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-17T08:05:10+02:00"
+      }
     }
   },
   "sources": {
@@ -1081,7 +1095,7 @@
       "changed": "2026-11-17T05:15:09+02:00"
     },
     "comingsoon": {
-      "hash": "9b56e2cbe1469f7572b7045c7704a3894fea89260ed1a1e96d6e960b26478e15",
+      "hash": "d36da34484a5a33c05633bab73cf99bd23f89866a6c05e2e3d6769c7c8312599",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1095,9 +1109,11 @@
         "ciff-2026-the-second-wife-arabic",
         "ciff-2026-the-soft-hands-arabic",
         "ciff-2026-the-violinist-english-japanese",
+        "crypto-arabic",
         "day-drinker",
         "dune-part-three",
         "hexed",
+        "i-play-rocky",
         "jumanji-open-world",
         "mamsous-arabic",
         "maserati-the-brothers",
@@ -1106,7 +1122,7 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-11-16T22:05:09+02:00"
+      "changed": "2026-11-17T08:05:10+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "ebe48073a6616cc82974c20e5858187538f9cf547808cbda9d3affa134977fc8",
@@ -1172,15 +1188,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-17T08:00:11+02:00"
+      "checked": "2026-11-17T08:05:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-17T08:00:11+02:00"
+      "checked": "2026-11-17T08:05:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-17T08:00:11+02:00"
+      "checked": "2026-11-17T08:05:10+02:00"
     }
   }
 }
