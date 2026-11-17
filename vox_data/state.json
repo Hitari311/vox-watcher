@@ -1104,13 +1104,14 @@
       "first_seen": "2026-11-17T19:15:25+02:00",
       "seen_in": {
         "comingsoon": "2026-11-17T19:15:25+02:00",
-        "showtimes:mall-of-egypt": "2026-11-17T19:15:25+02:00"
+        "showtimes:mall-of-egypt": "2026-11-17T19:15:25+02:00",
+        "whatson": "2026-11-17T19:30:22+02:00"
       }
     }
   },
   "sources": {
     "whatson": {
-      "hash": "5e4b02744a4c936824fa1966661b58a7ca0613d1c993110a1782af0d40907258",
+      "hash": "1678bf32069d6c51d2d72afe57fee12e3bcf270afafea023c09a5f54d9ab32e9",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1128,6 +1129,7 @@
         "crypto-arabic",
         "dune-part-three",
         "ebenezer",
+        "forgotten-island",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "how-to-rob-a-bank",
@@ -1145,7 +1147,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-17T17:00:13+02:00"
+      "changed": "2026-11-17T19:30:22+02:00"
     },
     "comingsoon": {
       "hash": "918884163f4d1e76100f9c933487eb82838df0aa30b7b27a30e191073dfb8b35",
@@ -1250,15 +1252,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-17T19:25:11+02:00"
+      "checked": "2026-11-17T19:30:22+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-17T19:25:11+02:00"
+      "checked": "2026-11-17T19:30:22+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-17T19:25:11+02:00"
+      "checked": "2026-11-17T19:30:22+02:00"
     }
   }
 }
