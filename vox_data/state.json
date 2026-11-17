@@ -1098,6 +1098,14 @@
       "seen_in": {
         "comingsoon": "2026-11-17T15:45:11+02:00"
       }
+    },
+    "forgotten-island": {
+      "title": "Forgotten Island",
+      "first_seen": "2026-11-17T19:15:25+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-17T19:15:25+02:00",
+        "showtimes:mall-of-egypt": "2026-11-17T19:15:25+02:00"
+      }
     }
   },
   "sources": {
@@ -1140,7 +1148,7 @@
       "changed": "2026-11-17T17:00:13+02:00"
     },
     "comingsoon": {
-      "hash": "c1d593f8f245c637f91a3a5886551d95ff61b8a9755a311a96e3713de9e2e0c7",
+      "hash": "918884163f4d1e76100f9c933487eb82838df0aa30b7b27a30e191073dfb8b35",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1159,6 +1167,7 @@
         "dune-part-one-re-release",
         "dune-part-three",
         "dune-part-two-re-release",
+        "forgotten-island",
         "hexed",
         "i-play-rocky",
         "jumanji-open-world",
@@ -1169,7 +1178,7 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "violent-night-2"
       ],
-      "changed": "2026-11-17T15:45:11+02:00"
+      "changed": "2026-11-17T19:15:25+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "ebe48073a6616cc82974c20e5858187538f9cf547808cbda9d3affa134977fc8",
@@ -1209,7 +1218,7 @@
       "changed": "2026-11-17T18:20:11+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "20212631aefcd1b8aa42396b03068023c09c9fd8a43cd453bf04098ed645b471",
+      "hash": "8330e749f8fb84502f0c49db9a2425afa2424474c76a83c2004c181f77ce462c",
       "slugs": [
         "belkis-turkish",
         "best-pancakes-in-the-county",
@@ -1219,6 +1228,7 @@
         "clayface",
         "crypto-arabic",
         "ebenezer",
+        "forgotten-island",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "how-to-rob-a-bank",
@@ -1234,21 +1244,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-17T12:55:09+02:00"
+      "changed": "2026-11-17T19:15:25+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-17T19:10:10+02:00"
+      "checked": "2026-11-17T19:15:25+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-17T19:10:10+02:00"
+      "checked": "2026-11-17T19:15:25+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-17T19:10:10+02:00"
+      "checked": "2026-11-17T19:15:25+02:00"
     }
   }
 }
