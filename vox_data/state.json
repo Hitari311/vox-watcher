@@ -703,7 +703,8 @@
       "first_seen": "2026-10-31T15:50:08+02:00",
       "seen_in": {
         "comingsoon": "2026-10-31T15:50:08+02:00",
-        "whatson": "2026-11-16T11:25:10+02:00"
+        "whatson": "2026-11-16T11:25:10+02:00",
+        "showtimes:mall-of-egypt": "2026-11-17T11:35:20+02:00"
       }
     },
     "a-talent-for-murder": {
@@ -1159,9 +1160,10 @@
       "changed": "2026-11-16T18:20:10+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "1f87b2abc4c04cce5b6c6c51ec3af7bee7ce22630bf559b9e46410019a71e099",
+      "hash": "3b452788abce4dae1fb688c5bd4515cd9446402ff280140d38ee7214601e86e8",
       "slugs": [
         "best-pancakes-in-the-county",
+        "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "ciff-2026-the-people-and-the-nile-arabic",
         "ciff-2026-the-violinist-english-japanese",
         "clayface",
@@ -1178,21 +1180,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-17T11:20:12+02:00"
+      "changed": "2026-11-17T11:35:20+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-17T11:30:11+02:00"
+      "checked": "2026-11-17T11:35:20+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-17T11:30:11+02:00"
+      "checked": "2026-11-17T11:35:20+02:00"
     },
     "mall-of-egypt": {
-      "last_date": "2026-11-18",
-      "checked": "2026-11-17T11:30:11+02:00"
+      "last_date": "2026-11-21",
+      "checked": "2026-11-17T11:35:20+02:00"
     }
   }
 }
