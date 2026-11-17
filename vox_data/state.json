@@ -358,7 +358,8 @@
       "title": "The Hunger Games: Sunrise on the Reaping",
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-07T21:48:25+03:00"
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00"
       }
     },
     "the-influencer-project": {
@@ -1053,14 +1054,30 @@
       "title": "Crypto",
       "first_seen": "2026-11-17T08:05:10+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-17T08:05:10+02:00"
+        "comingsoon": "2026-11-17T08:05:10+02:00",
+        "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00"
       }
     },
     "i-play-rocky": {
       "title": "I Play Rocky",
       "first_seen": "2026-11-17T08:05:10+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-17T08:05:10+02:00"
+        "comingsoon": "2026-11-17T08:05:10+02:00",
+        "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00"
+      }
+    },
+    "belkis-turkish": {
+      "title": "Belkis (Turkish)",
+      "first_seen": "2026-11-17T12:55:09+02:00",
+      "seen_in": {
+        "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00"
+      }
+    },
+    "les-mis-rables": {
+      "title": "Les Mis Rables",
+      "first_seen": "2026-11-17T12:55:09+02:00",
+      "seen_in": {
+        "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00"
       }
     }
   },
@@ -1170,41 +1187,46 @@
       "changed": "2026-11-17T12:35:12+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "3b452788abce4dae1fb688c5bd4515cd9446402ff280140d38ee7214601e86e8",
+      "hash": "20212631aefcd1b8aa42396b03068023c09c9fd8a43cd453bf04098ed645b471",
       "slugs": [
+        "belkis-turkish",
         "best-pancakes-in-the-county",
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "ciff-2026-the-people-and-the-nile-arabic",
         "ciff-2026-the-violinist-english-japanese",
         "clayface",
+        "crypto-arabic",
         "ebenezer",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "how-to-rob-a-bank",
+        "i-play-rocky",
+        "les-mis-rables",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "other-mommy",
         "resident-evil",
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
+        "the-hunger-games-sunrise-on-the-reaping",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-17T11:45:10+02:00"
+      "changed": "2026-11-17T12:55:09+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-17T12:50:09+02:00"
+      "checked": "2026-11-17T12:55:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-17T12:50:09+02:00"
+      "checked": "2026-11-17T12:55:09+02:00"
     },
     "mall-of-egypt": {
-      "last_date": "2026-11-21",
-      "checked": "2026-11-17T12:50:09+02:00"
+      "last_date": "2026-11-25",
+      "checked": "2026-11-17T12:55:09+02:00"
     }
   }
 }
