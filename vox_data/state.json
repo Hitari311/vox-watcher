@@ -704,7 +704,8 @@
       "seen_in": {
         "comingsoon": "2026-10-31T15:50:08+02:00",
         "whatson": "2026-11-16T11:25:10+02:00",
-        "showtimes:mall-of-egypt": "2026-11-17T11:35:20+02:00"
+        "showtimes:mall-of-egypt": "2026-11-17T11:35:20+02:00",
+        "showtimes:city-centre-almaza": "2026-11-17T12:35:12+02:00"
       }
     },
     "a-talent-for-murder": {
@@ -1009,7 +1010,8 @@
       "title": "CIFF 2026: The Second Wife",
       "first_seen": "2026-11-09T18:50:09+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-09T18:50:09+02:00"
+        "comingsoon": "2026-11-09T18:50:09+02:00",
+        "showtimes:city-centre-almaza": "2026-11-17T12:35:12+02:00"
       }
     },
     "ciff-2026-the-violinist-english-japanese": {
@@ -1034,7 +1036,8 @@
       "title": "CIFF 2026: The Soft Hands",
       "first_seen": "2026-11-12T12:50:10+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-12T12:50:10+02:00"
+        "comingsoon": "2026-11-12T12:50:10+02:00",
+        "showtimes:city-centre-almaza": "2026-11-17T12:35:12+02:00"
       }
     },
     "the-angry-birds-movie-3": {
@@ -1061,7 +1064,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "255c79e19bf40031c2de7354f92d2f0107b5545c2c3818de78fabf993134c60d",
+      "hash": "58343e2a126eacac2cf9b795553482c69909ae6cb288ea9d3f50a39191f20f25",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1086,11 +1089,12 @@
         "resident-evil",
         "sense-and-sensibility",
         "the-cat-in-the-hat",
+        "the-cat-in-the-hat-arabic",
         "the-odyssey",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-17T12:20:09+02:00"
+      "changed": "2026-11-17T12:35:12+02:00"
     },
     "comingsoon": {
       "hash": "d36da34484a5a33c05633bab73cf99bd23f89866a6c05e2e3d6769c7c8312599",
@@ -1137,11 +1141,14 @@
       "changed": "2026-11-12T09:45:10+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "91db41a51c62f8857db310b75897a23ca8ca8d3992293023292791691b1d00c3",
+      "hash": "019afb53b1c9e3adc2b0cfc5de08212f09989f6a4f65ae68f6d6f0a4ebdc81de",
       "slugs": [
+        "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "ciff-2026-summer-meadow-french-arabic",
         "ciff-2026-the-female-idol-arabic",
         "ciff-2026-the-mirage-arabic",
+        "ciff-2026-the-second-wife-arabic",
+        "ciff-2026-the-soft-hands-arabic",
         "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
         "clayface",
         "ebenezer",
@@ -1156,7 +1163,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-16T18:20:10+02:00"
+      "changed": "2026-11-17T12:35:12+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "3b452788abce4dae1fb688c5bd4515cd9446402ff280140d38ee7214601e86e8",
@@ -1185,15 +1192,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-17T12:30:11+02:00"
+      "checked": "2026-11-17T12:35:12+02:00"
     },
     "city-centre-almaza": {
-      "last_date": "2026-11-18",
-      "checked": "2026-11-17T12:30:11+02:00"
+      "last_date": "2026-11-21",
+      "checked": "2026-11-17T12:35:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-17T12:30:11+02:00"
+      "checked": "2026-11-17T12:35:12+02:00"
     }
   }
 }
