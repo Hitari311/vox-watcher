@@ -1186,15 +1186,13 @@
       "changed": "2026-11-12T09:45:10+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "019afb53b1c9e3adc2b0cfc5de08212f09989f6a4f65ae68f6d6f0a4ebdc81de",
+      "hash": "9c5c91817786a6e8a46c821b44cf3944bfa9f3c43c0cb99efcedd22b605450ec",
       "slugs": [
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "ciff-2026-summer-meadow-french-arabic",
         "ciff-2026-the-female-idol-arabic",
-        "ciff-2026-the-mirage-arabic",
         "ciff-2026-the-second-wife-arabic",
         "ciff-2026-the-soft-hands-arabic",
-        "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
         "clayface",
         "ebenezer",
         "godzilla-minus-zero-japanese",
@@ -1208,7 +1206,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-17T12:35:12+02:00"
+      "changed": "2026-11-17T18:20:11+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "20212631aefcd1b8aa42396b03068023c09c9fd8a43cd453bf04098ed645b471",
@@ -1242,15 +1240,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-17T18:15:13+02:00"
+      "checked": "2026-11-17T18:20:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-17T18:15:13+02:00"
+      "checked": "2026-11-17T18:20:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-17T18:15:13+02:00"
+      "checked": "2026-11-17T18:20:11+02:00"
     }
   }
 }
