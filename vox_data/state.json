@@ -1011,7 +1011,8 @@
       "first_seen": "2026-11-09T18:50:09+02:00",
       "seen_in": {
         "comingsoon": "2026-11-09T18:50:09+02:00",
-        "showtimes:city-centre-almaza": "2026-11-17T12:35:12+02:00"
+        "showtimes:city-centre-almaza": "2026-11-17T12:35:12+02:00",
+        "whatson": "2026-11-17T12:40:10+02:00"
       }
     },
     "ciff-2026-the-violinist-english-japanese": {
@@ -1037,7 +1038,8 @@
       "first_seen": "2026-11-12T12:50:10+02:00",
       "seen_in": {
         "comingsoon": "2026-11-12T12:50:10+02:00",
-        "showtimes:city-centre-almaza": "2026-11-17T12:35:12+02:00"
+        "showtimes:city-centre-almaza": "2026-11-17T12:35:12+02:00",
+        "whatson": "2026-11-17T12:40:10+02:00"
       }
     },
     "the-angry-birds-movie-3": {
@@ -1064,7 +1066,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "58343e2a126eacac2cf9b795553482c69909ae6cb288ea9d3f50a39191f20f25",
+      "hash": "8ab198011bef230721b9c14674e6ecc8a9e940f4347c8683ea52efaec116fa2d",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1075,6 +1077,8 @@
         "ciff-2026-the-female-idol-arabic",
         "ciff-2026-the-mirage-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
+        "ciff-2026-the-second-wife-arabic",
+        "ciff-2026-the-soft-hands-arabic",
         "ciff-2026-the-violinist-english-japanese",
         "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
         "clayface",
@@ -1094,7 +1098,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-17T12:35:12+02:00"
+      "changed": "2026-11-17T12:40:10+02:00"
     },
     "comingsoon": {
       "hash": "d36da34484a5a33c05633bab73cf99bd23f89866a6c05e2e3d6769c7c8312599",
@@ -1192,15 +1196,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-17T12:35:12+02:00"
+      "checked": "2026-11-17T12:40:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-17T12:35:12+02:00"
+      "checked": "2026-11-17T12:40:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-17T12:35:12+02:00"
+      "checked": "2026-11-17T12:40:10+02:00"
     }
   }
 }
