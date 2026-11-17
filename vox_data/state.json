@@ -359,7 +359,8 @@
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
-        "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00"
+        "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00",
+        "whatson": "2026-11-17T13:00:12+02:00"
       }
     },
     "the-influencer-project": {
@@ -1055,7 +1056,8 @@
       "first_seen": "2026-11-17T08:05:10+02:00",
       "seen_in": {
         "comingsoon": "2026-11-17T08:05:10+02:00",
-        "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00"
+        "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00",
+        "whatson": "2026-11-17T13:00:12+02:00"
       }
     },
     "i-play-rocky": {
@@ -1063,30 +1065,34 @@
       "first_seen": "2026-11-17T08:05:10+02:00",
       "seen_in": {
         "comingsoon": "2026-11-17T08:05:10+02:00",
-        "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00"
+        "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00",
+        "whatson": "2026-11-17T13:00:12+02:00"
       }
     },
     "belkis-turkish": {
-      "title": "Belkis (Turkish)",
+      "title": "Belkis",
       "first_seen": "2026-11-17T12:55:09+02:00",
       "seen_in": {
-        "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00"
+        "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00",
+        "whatson": "2026-11-17T13:00:12+02:00"
       }
     },
     "les-mis-rables": {
-      "title": "Les Mis Rables",
+      "title": "Les Misérables",
       "first_seen": "2026-11-17T12:55:09+02:00",
       "seen_in": {
-        "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00"
+        "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00",
+        "whatson": "2026-11-17T13:00:12+02:00"
       }
     }
   },
   "sources": {
     "whatson": {
-      "hash": "8ab198011bef230721b9c14674e6ecc8a9e940f4347c8683ea52efaec116fa2d",
+      "hash": "d03ba2877410f274059bcd4f0c17769c5d4826ceb45d0eed0d637282798a37d2",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
+        "belkis-turkish",
         "best-pancakes-in-the-county",
         "bts-world-tour-arirang-in-jakarta-live-viewing",
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
@@ -1099,11 +1105,14 @@
         "ciff-2026-the-violinist-english-japanese",
         "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
         "clayface",
+        "crypto-arabic",
         "dune-part-three",
         "ebenezer",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "how-to-rob-a-bank",
+        "i-play-rocky",
+        "les-mis-rables",
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "other-mommy",
@@ -1111,11 +1120,12 @@
         "sense-and-sensibility",
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
+        "the-hunger-games-sunrise-on-the-reaping",
         "the-odyssey",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-17T12:50:09+02:00"
+      "changed": "2026-11-17T13:00:12+02:00"
     },
     "comingsoon": {
       "hash": "d36da34484a5a33c05633bab73cf99bd23f89866a6c05e2e3d6769c7c8312599",
@@ -1218,15 +1228,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-17T12:55:09+02:00"
+      "checked": "2026-11-17T13:00:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-17T12:55:09+02:00"
+      "checked": "2026-11-17T13:00:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-17T12:55:09+02:00"
+      "checked": "2026-11-17T13:00:12+02:00"
     }
   }
 }
