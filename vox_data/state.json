@@ -1102,7 +1102,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "d03ba2877410f274059bcd4f0c17769c5d4826ceb45d0eed0d637282798a37d2",
+      "hash": "5e4b02744a4c936824fa1966661b58a7ca0613d1c993110a1782af0d40907258",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1112,12 +1112,10 @@
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "ciff-2026-summer-meadow-french-arabic",
         "ciff-2026-the-female-idol-arabic",
-        "ciff-2026-the-mirage-arabic",
         "ciff-2026-the-people-and-the-nile-arabic",
         "ciff-2026-the-second-wife-arabic",
         "ciff-2026-the-soft-hands-arabic",
         "ciff-2026-the-violinist-english-japanese",
-        "ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
         "clayface",
         "crypto-arabic",
         "dune-part-three",
@@ -1139,7 +1137,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-17T16:05:10+02:00"
+      "changed": "2026-11-17T16:30:13+02:00"
     },
     "comingsoon": {
       "hash": "c1d593f8f245c637f91a3a5886551d95ff61b8a9755a311a96e3713de9e2e0c7",
@@ -1244,15 +1242,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-18",
-      "checked": "2026-11-17T16:25:12+02:00"
+      "checked": "2026-11-17T16:30:13+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-17T16:25:12+02:00"
+      "checked": "2026-11-17T16:30:13+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-17T16:25:12+02:00"
+      "checked": "2026-11-17T16:30:13+02:00"
     }
   }
 }
