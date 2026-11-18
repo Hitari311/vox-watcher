@@ -360,7 +360,8 @@
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00",
-        "whatson": "2026-11-17T13:00:12+02:00"
+        "whatson": "2026-11-17T13:00:12+02:00",
+        "showtimes:city-centre-almaza": "2026-11-18T23:10:09+02:00"
       }
     },
     "the-influencer-project": {
@@ -1058,7 +1059,8 @@
       "seen_in": {
         "comingsoon": "2026-11-17T08:05:10+02:00",
         "showtimes:mall-of-egypt": "2026-11-17T12:55:09+02:00",
-        "whatson": "2026-11-17T13:00:12+02:00"
+        "whatson": "2026-11-17T13:00:12+02:00",
+        "showtimes:city-centre-almaza": "2026-11-18T23:10:09+02:00"
       }
     },
     "i-play-rocky": {
@@ -1179,23 +1181,26 @@
       "changed": "2026-11-18T22:35:09+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "a36dbd92e8971c36da196a13d8694fa3a83792a0d0ceb6c237644426bffe304e",
+      "hash": "28cf939a401ebddc333d51bf5f00d1ac92e2b900ee57873980e413fc693bb372",
       "slugs": [
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "ciff-2026-the-second-wife-arabic",
         "ciff-2026-the-soft-hands-arabic",
+        "crypto-arabic",
         "ebenezer",
         "forgotten-island",
+        "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "how-to-rob-a-bank",
         "i-play-rocky",
         "matloub-3a2eleyain-arabic",
         "sense-and-sensibility",
         "the-cat-in-the-hat",
+        "the-hunger-games-sunrise-on-the-reaping",
         "the-odyssey",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-18T20:20:09+02:00"
+      "changed": "2026-11-18T23:10:09+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "fc204a95ce4c0ade32fa8dba78b5109b18a09e3444654300573096fd6fc6f963",
@@ -1226,15 +1231,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-18T23:05:11+02:00"
+      "checked": "2026-11-18T23:10:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T23:05:11+02:00"
+      "checked": "2026-11-18T23:10:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T23:05:11+02:00"
+      "checked": "2026-11-18T23:10:09+02:00"
     }
   }
 }
