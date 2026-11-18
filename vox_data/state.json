@@ -707,7 +707,8 @@
         "comingsoon": "2026-10-31T15:50:08+02:00",
         "whatson": "2026-11-16T11:25:10+02:00",
         "showtimes:mall-of-egypt": "2026-11-17T11:35:20+02:00",
-        "showtimes:city-centre-almaza": "2026-11-17T12:35:12+02:00"
+        "showtimes:city-centre-almaza": "2026-11-17T12:35:12+02:00",
+        "showtimes:city-centre-alexandria": "2026-11-18T15:05:10+02:00"
       }
     },
     "a-talent-for-murder": {
@@ -1105,7 +1106,8 @@
       "seen_in": {
         "comingsoon": "2026-11-17T19:15:25+02:00",
         "showtimes:mall-of-egypt": "2026-11-17T19:15:25+02:00",
-        "whatson": "2026-11-17T19:30:22+02:00"
+        "whatson": "2026-11-17T19:30:22+02:00",
+        "showtimes:city-centre-alexandria": "2026-11-18T15:05:10+02:00"
       }
     }
   },
@@ -1178,10 +1180,12 @@
       "changed": "2026-11-17T22:00:11+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "ebe48073a6616cc82974c20e5858187538f9cf547808cbda9d3affa134977fc8",
+      "hash": "248cf27e5b266b1d8a5905fee19ef9b890df0aaa3f821fcb4e8a51896d57bd87",
       "slugs": [
+        "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "clayface",
         "ebenezer",
+        "forgotten-island",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "how-to-rob-a-bank",
@@ -1189,7 +1193,7 @@
         "the-cat-in-the-hat",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-12T09:45:10+02:00"
+      "changed": "2026-11-18T15:05:10+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "9c5c91817786a6e8a46c821b44cf3944bfa9f3c43c0cb99efcedd22b605450ec",
@@ -1246,16 +1250,16 @@
   },
   "schedule": {
     "city-centre-alexandria": {
-      "last_date": "2026-11-18",
-      "checked": "2026-11-18T15:00:12+02:00"
+      "last_date": "2026-11-21",
+      "checked": "2026-11-18T15:05:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-18T15:00:12+02:00"
+      "checked": "2026-11-18T15:05:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T15:00:12+02:00"
+      "checked": "2026-11-18T15:05:10+02:00"
     }
   }
 }
