@@ -1115,12 +1115,11 @@
   },
   "sources": {
     "whatson": {
-      "hash": "513b4d1f396e2c0458f7aa8b11605cecbbc66c7a6ed49c52c9810e6059b15b5d",
+      "hash": "14c23735dfebd55e5071c788565a57764000a95207bc81132ef374d100aea4ac",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "belkis-turkish",
-        "best-pancakes-in-the-county",
         "bts-world-tour-arirang-in-jakarta-live-viewing",
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "ciff-2026-the-second-wife-arabic",
@@ -1143,7 +1142,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-18T21:55:13+02:00"
+      "changed": "2026-11-18T22:05:12+02:00"
     },
     "comingsoon": {
       "hash": "201b16ea9bf5400f806275b72d5e1d08a9664930506c89fe29ede1cb0a9ac4f0",
@@ -1228,15 +1227,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-18T22:00:16+02:00"
+      "checked": "2026-11-18T22:05:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T22:00:16+02:00"
+      "checked": "2026-11-18T22:05:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T22:00:16+02:00"
+      "checked": "2026-11-18T22:05:12+02:00"
     }
   }
 }
