@@ -1213,7 +1213,7 @@
       "changed": "2026-11-18T18:25:10+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "2c63888a994383547a85b07ab251e3b0c02faa36c2d3b6df5457061e163579af",
+      "hash": "e7842259113388a4399b3d29da8dee7facdd03aa2ceb0e804a451c7dd33ca0c1",
       "slugs": [
         "belkis-turkish",
         "best-pancakes-in-the-county",
@@ -1230,28 +1230,27 @@
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "other-mommy",
-        "resident-evil",
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
         "the-hunger-games-sunrise-on-the-reaping",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-18T18:25:10+02:00"
+      "changed": "2026-11-18T19:20:10+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-18T19:15:11+02:00"
+      "checked": "2026-11-18T19:20:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T19:15:11+02:00"
+      "checked": "2026-11-18T19:20:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T19:15:11+02:00"
+      "checked": "2026-11-18T19:20:10+02:00"
     }
   }
 }
