@@ -1178,7 +1178,7 @@
       "changed": "2026-11-17T22:00:11+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "9b390513537f67008421f807d1371ee759ea36ca690c752e7cbe8dbafdffddd7",
+      "hash": "3df07c69c9c1bf0e1bd4938badee002e0808d61f28de611f46ebed962cf188c0",
       "slugs": [
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "clayface",
@@ -1186,11 +1186,10 @@
         "forgotten-island",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
-        "how-to-rob-a-bank",
         "matloub-3a2eleyain-arabic",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-18T16:15:11+02:00"
+      "changed": "2026-11-18T18:05:12+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "22d064a03614f4dc0aabb63b360d538fb71f13cc70b81df56884832d91bfd0ec",
@@ -1249,15 +1248,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-18T18:00:14+02:00"
+      "checked": "2026-11-18T18:05:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T18:00:14+02:00"
+      "checked": "2026-11-18T18:05:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T18:00:14+02:00"
+      "checked": "2026-11-18T18:05:12+02:00"
     }
   }
 }
