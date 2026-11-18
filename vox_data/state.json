@@ -1167,17 +1167,16 @@
       "changed": "2026-11-18T22:00:16+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "2e4dab5e2ef24ebbfef8194a4ba4a74efa8ca9493c76edf12ff8cca4b3ea38d4",
+      "hash": "8196a43baf324836cad9f6c10827b7d92e40fc9390aa17675af09341e2c442ad",
       "slugs": [
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "clayface",
         "ebenezer",
         "forgotten-island",
         "hadoota-arabic",
-        "matloub-3a2eleyain-arabic",
-        "wala-kan-ala-el-bal-arabic"
+        "matloub-3a2eleyain-arabic"
       ],
-      "changed": "2026-11-18T19:00:17+02:00"
+      "changed": "2026-11-18T22:35:09+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "a36dbd92e8971c36da196a13d8694fa3a83792a0d0ceb6c237644426bffe304e",
@@ -1227,15 +1226,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-18T22:30:09+02:00"
+      "checked": "2026-11-18T22:35:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T22:30:09+02:00"
+      "checked": "2026-11-18T22:35:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T22:30:09+02:00"
+      "checked": "2026-11-18T22:35:09+02:00"
     }
   }
 }
