@@ -1115,7 +1115,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "4d21c86e6c261f08f9f1bf58ccefada66db28cb47f4f41b5abff0fe708ad362c",
+      "hash": "e89d60f07ed9dde02237227f8f91f2f1939aac572c7e2a09d0ee8465bc7aa940",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1138,7 +1138,6 @@
         "matloub-3a2eleyain-arabic",
         "naseeb-arabic",
         "other-mommy",
-        "resident-evil",
         "sense-and-sensibility",
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
@@ -1147,7 +1146,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-18T17:25:19+02:00"
+      "changed": "2026-11-18T17:30:09+02:00"
     },
     "comingsoon": {
       "hash": "9dc0b9831aff99196ff03d8ae00a2a7a662e2f86a9908286e509a1390af6821d",
@@ -1194,7 +1193,7 @@
       "changed": "2026-11-18T16:15:11+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "0c41b1b4b3a7b38872b098dc7b5aef3811c0903d17eab9ba3a925301cc4c958f",
+      "hash": "22d064a03614f4dc0aabb63b360d538fb71f13cc70b81df56884832d91bfd0ec",
       "slugs": [
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "ciff-2026-summer-meadow-french-arabic",
@@ -1213,10 +1212,9 @@
         "sense-and-sensibility",
         "the-cat-in-the-hat",
         "the-odyssey",
-        "wala-kan-ala-el-bal-arabic",
-        "whalefall"
+        "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-18T16:25:13+02:00"
+      "changed": "2026-11-18T17:30:09+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "8330e749f8fb84502f0c49db9a2425afa2424474c76a83c2004c181f77ce462c",
@@ -1251,15 +1249,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-18T17:25:19+02:00"
+      "checked": "2026-11-18T17:30:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T17:25:19+02:00"
+      "checked": "2026-11-18T17:30:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T17:25:19+02:00"
+      "checked": "2026-11-18T17:30:09+02:00"
     }
   }
 }
