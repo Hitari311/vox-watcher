@@ -1193,7 +1193,7 @@
       "changed": "2026-11-18T16:15:11+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "0c41b1b4b3a7b38872b098dc7b5aef3811c0903d17eab9ba3a925301cc4c958f",
+      "hash": "22d064a03614f4dc0aabb63b360d538fb71f13cc70b81df56884832d91bfd0ec",
       "slugs": [
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "ciff-2026-summer-meadow-french-arabic",
@@ -1212,10 +1212,9 @@
         "sense-and-sensibility",
         "the-cat-in-the-hat",
         "the-odyssey",
-        "wala-kan-ala-el-bal-arabic",
-        "whalefall"
+        "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-18T17:40:12+02:00"
+      "changed": "2026-11-18T17:45:14+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "8330e749f8fb84502f0c49db9a2425afa2424474c76a83c2004c181f77ce462c",
@@ -1250,15 +1249,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-18T17:40:12+02:00"
+      "checked": "2026-11-18T17:45:14+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T17:40:12+02:00"
+      "checked": "2026-11-18T17:45:14+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T17:40:12+02:00"
+      "checked": "2026-11-18T17:45:14+02:00"
     }
   }
 }
