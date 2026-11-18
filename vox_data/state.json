@@ -1192,11 +1192,9 @@
       "changed": "2026-11-18T18:05:12+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "22d064a03614f4dc0aabb63b360d538fb71f13cc70b81df56884832d91bfd0ec",
+      "hash": "f7121a7030d1b06093793febc504122da986f10253deeb73c7fd907080e2fd87",
       "slugs": [
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
-        "ciff-2026-summer-meadow-french-arabic",
-        "ciff-2026-the-female-idol-arabic",
         "ciff-2026-the-second-wife-arabic",
         "ciff-2026-the-soft-hands-arabic",
         "clayface",
@@ -1213,16 +1211,14 @@
         "the-odyssey",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-18T17:45:14+02:00"
+      "changed": "2026-11-18T18:25:10+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "8330e749f8fb84502f0c49db9a2425afa2424474c76a83c2004c181f77ce462c",
+      "hash": "2c63888a994383547a85b07ab251e3b0c02faa36c2d3b6df5457061e163579af",
       "slugs": [
         "belkis-turkish",
         "best-pancakes-in-the-county",
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
-        "ciff-2026-the-people-and-the-nile-arabic",
-        "ciff-2026-the-violinist-english-japanese",
         "clayface",
         "crypto-arabic",
         "ebenezer",
@@ -1242,21 +1238,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-17T19:15:25+02:00"
+      "changed": "2026-11-18T18:25:10+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-18T18:20:12+02:00"
+      "checked": "2026-11-18T18:25:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T18:20:12+02:00"
+      "checked": "2026-11-18T18:25:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T18:20:12+02:00"
+      "checked": "2026-11-18T18:25:10+02:00"
     }
   }
 }
