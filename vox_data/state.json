@@ -1181,7 +1181,7 @@
       "changed": "2026-11-18T22:35:09+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "28cf939a401ebddc333d51bf5f00d1ac92e2b900ee57873980e413fc693bb372",
+      "hash": "01519d2cccce47fed0b96ea30a8525aace58e40fe91ab7a4e0dd32a2ec3b1174",
       "slugs": [
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "ciff-2026-the-second-wife-arabic",
@@ -1194,13 +1194,12 @@
         "how-to-rob-a-bank",
         "i-play-rocky",
         "matloub-3a2eleyain-arabic",
-        "sense-and-sensibility",
         "the-cat-in-the-hat",
         "the-hunger-games-sunrise-on-the-reaping",
         "the-odyssey",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-18T23:10:09+02:00"
+      "changed": "2026-11-18T23:15:21+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "fc204a95ce4c0ade32fa8dba78b5109b18a09e3444654300573096fd6fc6f963",
@@ -1231,15 +1230,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-18T23:10:09+02:00"
+      "checked": "2026-11-18T23:15:21+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T23:10:09+02:00"
+      "checked": "2026-11-18T23:15:21+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-18T23:10:09+02:00"
+      "checked": "2026-11-18T23:15:21+02:00"
     }
   }
 }
