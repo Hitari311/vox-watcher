@@ -1113,6 +1113,27 @@
         "showtimes:city-centre-alexandria": "2026-11-18T15:05:10+02:00",
         "showtimes:city-centre-almaza": "2026-11-18T16:25:13+02:00"
       }
+    },
+    "leila-bazet-khales-arabic": {
+      "title": "Leila Bazet Khales",
+      "first_seen": "2026-11-19T07:20:09+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-19T07:20:09+02:00"
+      }
+    },
+    "lela-bazit-khalis-arabic": {
+      "title": "Lela Bazit Khalis",
+      "first_seen": "2026-11-19T07:20:09+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-19T07:20:09+02:00"
+      }
+    },
+    "sophia-arabic": {
+      "title": "Sophia",
+      "first_seen": "2026-11-19T07:20:09+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-19T07:20:09+02:00"
+      }
     }
   },
   "sources": {
@@ -1147,7 +1168,7 @@
       "changed": "2026-11-19T04:45:12+02:00"
     },
     "comingsoon": {
-      "hash": "201b16ea9bf5400f806275b72d5e1d08a9664930506c89fe29ede1cb0a9ac4f0",
+      "hash": "4b1676f0d070d80996738084df15c30a40476c149a26c82684c75d6e01d2dbbc",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1160,13 +1181,16 @@
         "dune-part-two-re-release",
         "hexed",
         "jumanji-open-world",
+        "leila-bazet-khales-arabic",
+        "lela-bazit-khalis-arabic",
         "mamsous-arabic",
         "maserati-the-brothers",
         "narnia-the-magicians-nephew",
+        "sophia-arabic",
         "the-angry-birds-movie-3",
         "violent-night-2"
       ],
-      "changed": "2026-11-18T22:00:16+02:00"
+      "changed": "2026-11-19T07:20:09+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "2e4dab5e2ef24ebbfef8194a4ba4a74efa8ca9493c76edf12ff8cca4b3ea38d4",
@@ -1229,15 +1253,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-19T07:15:12+02:00"
+      "checked": "2026-11-19T07:20:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-19T07:15:12+02:00"
+      "checked": "2026-11-19T07:20:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-19T07:15:12+02:00"
+      "checked": "2026-11-19T07:20:09+02:00"
     }
   }
 }
