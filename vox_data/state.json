@@ -1170,15 +1170,13 @@
   },
   "sources": {
     "whatson": {
-      "hash": "14c23735dfebd55e5071c788565a57764000a95207bc81132ef374d100aea4ac",
+      "hash": "1c73bd2c292b70e80ad91acc43f0537a0b0c8684bae214c79347f7efa0d4b435",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "belkis-turkish",
         "bts-world-tour-arirang-in-jakarta-live-viewing",
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
-        "ciff-2026-the-second-wife-arabic",
-        "ciff-2026-the-soft-hands-arabic",
         "clayface",
         "crypto-arabic",
         "dune-part-three",
@@ -1197,7 +1195,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-19T15:10:09+02:00"
+      "changed": "2026-11-19T16:20:13+02:00"
     },
     "comingsoon": {
       "hash": "91d4ca81c94d979d16ca3d21e152139a9b57a45ca4cf78a16ca556589f6d3cac",
@@ -1290,15 +1288,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-19T16:15:09+02:00"
+      "checked": "2026-11-19T16:20:13+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-19T16:15:09+02:00"
+      "checked": "2026-11-19T16:20:13+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-19T16:15:09+02:00"
+      "checked": "2026-11-19T16:20:13+02:00"
     }
   }
 }
