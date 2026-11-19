@@ -1198,7 +1198,7 @@
       "changed": "2026-11-19T16:45:10+02:00"
     },
     "comingsoon": {
-      "hash": "91d4ca81c94d979d16ca3d21e152139a9b57a45ca4cf78a16ca556589f6d3cac",
+      "hash": "d27053fdcd67ab089f4d9c4388ad7c7a9f24b4dde59dd0cb009bfe2918faa1a2",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1212,7 +1212,6 @@
         "dune-part-two-re-release",
         "hexed",
         "jumanji-open-world",
-        "leila-bazet-khales-arabic",
         "lela-bazit-khalis-arabic",
         "mamsous-arabic",
         "maserati-the-brothers",
@@ -1222,7 +1221,7 @@
         "the-angry-birds-movie-3",
         "violent-night-2"
       ],
-      "changed": "2026-11-19T15:05:12+02:00"
+      "changed": "2026-11-19T17:05:11+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "4ad1b420cab9f51234232624f9d5dd2178bf2e4888fbf386bca39cff502a001f",
@@ -1288,15 +1287,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-19T17:00:19+02:00"
+      "checked": "2026-11-19T17:05:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-19T17:00:19+02:00"
+      "checked": "2026-11-19T17:05:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-19T17:00:19+02:00"
+      "checked": "2026-11-19T17:05:11+02:00"
     }
   }
 }
