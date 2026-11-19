@@ -1159,6 +1159,13 @@
       "seen_in": {
         "comingsoon": "2026-11-19T14:05:10+02:00"
       }
+    },
+    "dune-part-three-preview-screening": {
+      "title": "Dune: Part Three -Preview Screening",
+      "first_seen": "2026-11-19T15:05:12+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-19T15:05:12+02:00"
+      }
     }
   },
   "sources": {
@@ -1193,7 +1200,7 @@
       "changed": "2026-11-19T14:15:12+02:00"
     },
     "comingsoon": {
-      "hash": "8171444c08e9385b507a50cb57b48454cdc28f0b29fb65c97960b11d1482ed76",
+      "hash": "91d4ca81c94d979d16ca3d21e152139a9b57a45ca4cf78a16ca556589f6d3cac",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1202,8 +1209,8 @@
         "children-of-blood-and-bone",
         "day-drinker",
         "dune-part-one-re-release",
-        "dune-part-thre-preview-screening",
         "dune-part-three",
+        "dune-part-three-preview-screening",
         "dune-part-two-re-release",
         "hexed",
         "jumanji-open-world",
@@ -1217,7 +1224,7 @@
         "the-angry-birds-movie-3",
         "violent-night-2"
       ],
-      "changed": "2026-11-19T15:00:12+02:00"
+      "changed": "2026-11-19T15:05:12+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "4ad1b420cab9f51234232624f9d5dd2178bf2e4888fbf386bca39cff502a001f",
@@ -1283,15 +1290,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-19T15:00:12+02:00"
+      "checked": "2026-11-19T15:05:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-19T15:00:12+02:00"
+      "checked": "2026-11-19T15:05:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-19T15:00:12+02:00"
+      "checked": "2026-11-19T15:05:12+02:00"
     }
   }
 }
