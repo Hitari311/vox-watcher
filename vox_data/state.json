@@ -1137,11 +1137,32 @@
       "seen_in": {
         "comingsoon": "2026-11-19T07:20:09+02:00"
       }
+    },
+    "dune-part-thre": {
+      "title": "Dune: Part Thre",
+      "first_seen": "2026-11-19T14:05:10+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-19T14:05:10+02:00"
+      }
+    },
+    "dune-part-thre-preview-screening": {
+      "title": "Dune: Part Thre-Preview Screening",
+      "first_seen": "2026-11-19T14:05:10+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-19T14:05:10+02:00"
+      }
+    },
+    "sales-booking-ashar": {
+      "title": "Sales Booking - Ashar",
+      "first_seen": "2026-11-19T14:05:10+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-19T14:05:10+02:00"
+      }
     }
   },
   "sources": {
     "whatson": {
-      "hash": "e8602148d5f913fccdca26e7ce50dea2dcd0829a3ec6dcea13289552e76ea068",
+      "hash": "14c23735dfebd55e5071c788565a57764000a95207bc81132ef374d100aea4ac",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1162,15 +1183,16 @@
         "les-mis-rables",
         "matloub-3a2eleyain-arabic",
         "the-cat-in-the-hat",
+        "the-cat-in-the-hat-arabic",
         "the-hunger-games-sunrise-on-the-reaping",
         "the-odyssey",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-19T14:00:12+02:00"
+      "changed": "2026-11-19T14:05:10+02:00"
     },
     "comingsoon": {
-      "hash": "4b1676f0d070d80996738084df15c30a40476c149a26c82684c75d6e01d2dbbc",
+      "hash": "21087b79aa23ac220cf3e8a2afab5d450d746951f31aeaebe249250a37353508",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1179,7 +1201,8 @@
         "children-of-blood-and-bone",
         "day-drinker",
         "dune-part-one-re-release",
-        "dune-part-three",
+        "dune-part-thre",
+        "dune-part-thre-preview-screening",
         "dune-part-two-re-release",
         "hexed",
         "jumanji-open-world",
@@ -1188,11 +1211,12 @@
         "mamsous-arabic",
         "maserati-the-brothers",
         "narnia-the-magicians-nephew",
+        "sales-booking-ashar",
         "sophia-arabic",
         "the-angry-birds-movie-3",
         "violent-night-2"
       ],
-      "changed": "2026-11-19T07:20:09+02:00"
+      "changed": "2026-11-19T14:05:10+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "4ad1b420cab9f51234232624f9d5dd2178bf2e4888fbf386bca39cff502a001f",
@@ -1258,15 +1282,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-19T14:00:12+02:00"
+      "checked": "2026-11-19T14:05:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-19T14:00:12+02:00"
+      "checked": "2026-11-19T14:05:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-19T14:00:12+02:00"
+      "checked": "2026-11-19T14:05:10+02:00"
     }
   }
 }
