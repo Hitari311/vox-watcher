@@ -1240,11 +1240,9 @@
       "changed": "2026-11-19T10:20:10+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "01519d2cccce47fed0b96ea30a8525aace58e40fe91ab7a4e0dd32a2ec3b1174",
+      "hash": "ef30332b08b0accbdcc29c6eb2d735db09dcf89c699f7566a1c0157bd00ddba2",
       "slugs": [
         "bts-world-tour-arirang-in-kaohsiung-live-viewin",
-        "ciff-2026-the-second-wife-arabic",
-        "ciff-2026-the-soft-hands-arabic",
         "crypto-arabic",
         "ebenezer",
         "forgotten-island",
@@ -1258,7 +1256,7 @@
         "the-odyssey",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-18T23:15:21+02:00"
+      "changed": "2026-11-19T18:25:14+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "1e9f93607a2d6fe66a857d8183be016bb774344d3cff8ca673b662f049c24ec0",
@@ -1287,15 +1285,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-19T18:20:09+02:00"
+      "checked": "2026-11-19T18:25:14+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-19T18:20:09+02:00"
+      "checked": "2026-11-19T18:25:14+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-19T18:20:09+02:00"
+      "checked": "2026-11-19T18:25:14+02:00"
     }
   }
 }
