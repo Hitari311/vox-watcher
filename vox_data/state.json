@@ -1142,7 +1142,8 @@
       "title": "Dune: Part Thre",
       "first_seen": "2026-11-19T14:05:10+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-19T14:05:10+02:00"
+        "comingsoon": "2026-11-19T14:05:10+02:00",
+        "whatson": "2026-11-19T14:15:12+02:00"
       }
     },
     "dune-part-thre-preview-screening": {
@@ -1162,7 +1163,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "14c23735dfebd55e5071c788565a57764000a95207bc81132ef374d100aea4ac",
+      "hash": "2b3bc37539ad3b6f2540bc962b1ae6e439a02c325cdaa98575b1faa1dd577863",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1173,7 +1174,7 @@
         "ciff-2026-the-soft-hands-arabic",
         "clayface",
         "crypto-arabic",
-        "dune-part-three",
+        "dune-part-thre",
         "ebenezer",
         "forgotten-island",
         "godzilla-minus-zero-japanese",
@@ -1189,7 +1190,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-19T14:05:10+02:00"
+      "changed": "2026-11-19T14:15:12+02:00"
     },
     "comingsoon": {
       "hash": "21087b79aa23ac220cf3e8a2afab5d450d746951f31aeaebe249250a37353508",
@@ -1282,15 +1283,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-21",
-      "checked": "2026-11-19T14:10:09+02:00"
+      "checked": "2026-11-19T14:15:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-19T14:10:09+02:00"
+      "checked": "2026-11-19T14:15:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-19T14:10:09+02:00"
+      "checked": "2026-11-19T14:15:12+02:00"
     }
   }
 }
