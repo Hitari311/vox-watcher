@@ -1166,6 +1166,13 @@
       "seen_in": {
         "comingsoon": "2026-11-19T15:05:12+02:00"
       }
+    },
+    "the-beekeeper-2": {
+      "title": "The Beekeeper 2",
+      "first_seen": "2026-11-20T07:20:12+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-20T07:20:12+02:00"
+      }
     }
   },
   "sources": {
@@ -1198,7 +1205,7 @@
       "changed": "2026-11-20T05:30:10+02:00"
     },
     "comingsoon": {
-      "hash": "d27053fdcd67ab089f4d9c4388ad7c7a9f24b4dde59dd0cb009bfe2918faa1a2",
+      "hash": "46d0d190ebd82d83cdeb4d1f79f6ddccece6f93c74026d16511afc689281bc6c",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1216,12 +1223,12 @@
         "mamsous-arabic",
         "maserati-the-brothers",
         "narnia-the-magicians-nephew",
-        "sales-booking-ashar",
         "sophia-arabic",
         "the-angry-birds-movie-3",
+        "the-beekeeper-2",
         "violent-night-2"
       ],
-      "changed": "2026-11-19T17:05:11+02:00"
+      "changed": "2026-11-20T07:20:12+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "4ad1b420cab9f51234232624f9d5dd2178bf2e4888fbf386bca39cff502a001f",
@@ -1285,15 +1292,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-20T07:15:09+02:00"
+      "checked": "2026-11-20T07:20:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-20T07:15:09+02:00"
+      "checked": "2026-11-20T07:20:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-20T07:15:09+02:00"
+      "checked": "2026-11-20T07:20:12+02:00"
     }
   }
 }
