@@ -1212,12 +1212,11 @@
       "changed": "2026-11-20T14:15:16+02:00"
     },
     "comingsoon": {
-      "hash": "7485902e50891d4bd3d6aa360147f3525331b156505206603ff038eee5af79bc",
+      "hash": "13f7477d2f168dd3750654fbb8bc2c51cffe1fd43c3c4d766b7bc60adad83eb2",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "bts-world-tour-arirang-in-jakarta-live-viewing",
-        "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "children-of-blood-and-bone",
         "day-drinker",
         "dune-part-one-re-release",
@@ -1236,7 +1235,7 @@
         "the-beekeeper-2",
         "violent-night-2"
       ],
-      "changed": "2026-11-20T08:05:09+02:00"
+      "changed": "2026-11-20T22:00:14+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "4ad1b420cab9f51234232624f9d5dd2178bf2e4888fbf386bca39cff502a001f",
@@ -1300,15 +1299,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-20T21:55:10+02:00"
+      "checked": "2026-11-20T22:00:14+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-20T21:55:10+02:00"
+      "checked": "2026-11-20T22:00:14+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-20T21:55:10+02:00"
+      "checked": "2026-11-20T22:00:14+02:00"
     }
   }
 }
