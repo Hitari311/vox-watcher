@@ -1237,9 +1237,8 @@
       "changed": "2026-11-20T22:00:14+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "4ad1b420cab9f51234232624f9d5dd2178bf2e4888fbf386bca39cff502a001f",
+      "hash": "ab291d96018c20c6887e9b136c5a853d3378343a0954c27b9cd6f45813a91c42",
       "slugs": [
-        "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "clayface",
         "crypto-arabic",
         "ebenezer",
@@ -1250,7 +1249,7 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-21T13:10:09+02:00"
+      "changed": "2026-11-21T13:15:10+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "d6b6b57380435065f860efcdfb9ea5e3dae5657112d703c4e192384a392bb3a1",
@@ -1271,10 +1270,9 @@
       "changed": "2026-11-21T13:10:09+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "1e9f93607a2d6fe66a857d8183be016bb774344d3cff8ca673b662f049c24ec0",
+      "hash": "17abe8551a263e1de8f563d106bf13d33e6aea7ca02722f9a54a7dc56fe04eec",
       "slugs": [
         "belkis-turkish",
-        "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "clayface",
         "crypto-arabic",
         "ebenezer",
@@ -1291,21 +1289,21 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-21T13:10:09+02:00"
+      "changed": "2026-11-21T13:15:10+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-21T13:10:09+02:00"
+      "checked": "2026-11-21T13:15:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-21T13:10:09+02:00"
+      "checked": "2026-11-21T13:15:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-21T13:10:09+02:00"
+      "checked": "2026-11-21T13:15:10+02:00"
     }
   }
 }
