@@ -1237,9 +1237,8 @@
       "changed": "2026-11-20T22:00:14+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "4ad1b420cab9f51234232624f9d5dd2178bf2e4888fbf386bca39cff502a001f",
+      "hash": "ab291d96018c20c6887e9b136c5a853d3378343a0954c27b9cd6f45813a91c42",
       "slugs": [
-        "bts-world-tour-arirang-in-kaohsiung-live-viewin",
         "clayface",
         "crypto-arabic",
         "ebenezer",
@@ -1250,7 +1249,7 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-19T10:20:10+02:00"
+      "changed": "2026-11-21T13:00:12+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "ef30332b08b0accbdcc29c6eb2d735db09dcf89c699f7566a1c0157bd00ddba2",
@@ -1298,15 +1297,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-21T12:55:09+02:00"
+      "checked": "2026-11-21T13:00:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-21T12:55:09+02:00"
+      "checked": "2026-11-21T13:00:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-21T12:55:09+02:00"
+      "checked": "2026-11-21T13:00:12+02:00"
     }
   }
 }
