@@ -1129,7 +1129,8 @@
       "first_seen": "2026-11-19T07:20:09+02:00",
       "seen_in": {
         "comingsoon": "2026-11-19T07:20:09+02:00",
-        "whatson": "2026-11-23T19:55:09+02:00"
+        "whatson": "2026-11-23T19:55:09+02:00",
+        "showtimes:mall-of-egypt": "2026-11-23T20:00:12+02:00"
       }
     },
     "sophia-arabic": {
@@ -1137,7 +1138,8 @@
       "first_seen": "2026-11-19T07:20:09+02:00",
       "seen_in": {
         "comingsoon": "2026-11-19T07:20:09+02:00",
-        "whatson": "2026-11-23T19:55:09+02:00"
+        "whatson": "2026-11-23T19:55:09+02:00",
+        "showtimes:mall-of-egypt": "2026-11-23T20:00:12+02:00"
       }
     },
     "dune-part-thre": {
@@ -1274,7 +1276,7 @@
       "changed": "2026-11-21T13:10:09+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "17abe8551a263e1de8f563d106bf13d33e6aea7ca02722f9a54a7dc56fe04eec",
+      "hash": "9afd59b7ebe37fa69a3dde5f966cd4f23791e470068c003a415c19fa923b48a9",
       "slugs": [
         "belkis-turkish",
         "clayface",
@@ -1285,29 +1287,31 @@
         "hadoota-arabic",
         "how-to-rob-a-bank",
         "i-play-rocky",
+        "lela-bazit-khalis-arabic",
         "les-mis-rables",
         "matloub-3a2eleyain-arabic",
+        "sophia-arabic",
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
         "the-hunger-games-sunrise-on-the-reaping",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-21T13:15:10+02:00"
+      "changed": "2026-11-23T20:00:12+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-23T19:55:09+02:00"
+      "checked": "2026-11-23T20:00:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-23T19:55:09+02:00"
+      "checked": "2026-11-23T20:00:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-23T19:55:09+02:00"
+      "checked": "2026-11-23T20:00:12+02:00"
     }
   }
 }
