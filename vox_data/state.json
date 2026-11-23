@@ -1128,14 +1128,16 @@
       "title": "Lela Bazit Khalis",
       "first_seen": "2026-11-19T07:20:09+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-19T07:20:09+02:00"
+        "comingsoon": "2026-11-19T07:20:09+02:00",
+        "whatson": "2026-11-23T19:55:09+02:00"
       }
     },
     "sophia-arabic": {
       "title": "Sophia",
       "first_seen": "2026-11-19T07:20:09+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-19T07:20:09+02:00"
+        "comingsoon": "2026-11-19T07:20:09+02:00",
+        "whatson": "2026-11-23T19:55:09+02:00"
       }
     },
     "dune-part-thre": {
@@ -1184,7 +1186,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "23c538293d582932360ca3ae03de2db27126e313f65ec6d584a5d63f40f3965b",
+      "hash": "d8f68437201d938ab1dfd34e4ac79136cf10949fbd8f383d59c82021c033b2bf",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1199,8 +1201,10 @@
         "hadoota-arabic",
         "how-to-rob-a-bank",
         "i-play-rocky",
+        "lela-bazit-khalis-arabic",
         "les-mis-rables",
         "matloub-3a2eleyain-arabic",
+        "sophia-arabic",
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
         "the-hunger-games-sunrise-on-the-reaping",
@@ -1208,7 +1212,7 @@
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-23T19:05:10+02:00"
+      "changed": "2026-11-23T19:55:09+02:00"
     },
     "comingsoon": {
       "hash": "13f7477d2f168dd3750654fbb8bc2c51cffe1fd43c3c4d766b7bc60adad83eb2",
@@ -1295,15 +1299,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-23T19:50:10+02:00"
+      "checked": "2026-11-23T19:55:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-23T19:50:10+02:00"
+      "checked": "2026-11-23T19:55:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-23T19:50:10+02:00"
+      "checked": "2026-11-23T19:55:09+02:00"
     }
   }
 }
