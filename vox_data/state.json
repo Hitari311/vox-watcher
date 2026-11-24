@@ -1202,7 +1202,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "d8f68437201d938ab1dfd34e4ac79136cf10949fbd8f383d59c82021c033b2bf",
+      "hash": "aef5b6001f9ea80d3f3713650cdf19811d99390481450320c6ba6c1d4e68a56e",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1222,13 +1222,12 @@
         "matloub-3a2eleyain-arabic",
         "sophia-arabic",
         "the-cat-in-the-hat",
-        "the-cat-in-the-hat-arabic",
         "the-hunger-games-sunrise-on-the-reaping",
         "the-odyssey",
         "wala-kan-ala-el-bal-arabic",
         "whalefall"
       ],
-      "changed": "2026-11-24T14:05:10+02:00"
+      "changed": "2026-11-24T16:00:14+02:00"
     },
     "comingsoon": {
       "hash": "4bcc6aff72933450e30bba54f0a39a8c9e41d85402aaa6af105b2793dc32fb04",
@@ -1259,9 +1258,8 @@
       "changed": "2026-11-24T13:25:11+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "284d65bb7a592ad04b3cc1df71392fd321abb30999d8bead8d016c83bdf1bf61",
+      "hash": "366d5db63b17e9243f98ebec03019b5df354466b608d50a5425de021fac2548b",
       "slugs": [
-        "clayface",
         "crypto-arabic",
         "ebenezer",
         "hadoota-arabic",
@@ -1270,7 +1268,7 @@
         "the-hunger-games-sunrise-on-the-reaping",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-24T14:05:10+02:00"
+      "changed": "2026-11-24T16:00:14+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "d6b6b57380435065f860efcdfb9ea5e3dae5657112d703c4e192384a392bb3a1",
@@ -1318,15 +1316,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-24T15:55:11+02:00"
+      "checked": "2026-11-24T16:00:14+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-24T15:55:11+02:00"
+      "checked": "2026-11-24T16:00:14+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-24T15:55:11+02:00"
+      "checked": "2026-11-24T16:00:14+02:00"
     }
   }
 }
