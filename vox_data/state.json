@@ -1184,6 +1184,13 @@
       "seen_in": {
         "comingsoon": "2026-11-20T08:05:09+02:00"
       }
+    },
+    "focker-in-law": {
+      "title": "Focker In-Law",
+      "first_seen": "2026-11-24T13:15:10+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-24T13:15:10+02:00"
+      }
     }
   },
   "sources": {
@@ -1217,7 +1224,7 @@
       "changed": "2026-11-24T10:50:10+02:00"
     },
     "comingsoon": {
-      "hash": "13f7477d2f168dd3750654fbb8bc2c51cffe1fd43c3c4d766b7bc60adad83eb2",
+      "hash": "378f4cd00bed9ea4d9862da4a051d903e522b36cfd853d98a77c245793664338",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1228,6 +1235,7 @@
         "dune-part-three",
         "dune-part-three-preview-screening",
         "dune-part-two-re-release",
+        "focker-in-law",
         "hexed",
         "jumanji-open-world",
         "lela-bazit-khalis-arabic",
@@ -1240,7 +1248,7 @@
         "the-beekeeper-2",
         "violent-night-2"
       ],
-      "changed": "2026-11-20T22:00:14+02:00"
+      "changed": "2026-11-24T13:15:10+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "ab291d96018c20c6887e9b136c5a853d3378343a0954c27b9cd6f45813a91c42",
@@ -1303,15 +1311,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-24T13:05:10+02:00"
+      "checked": "2026-11-24T13:15:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-24T13:05:10+02:00"
+      "checked": "2026-11-24T13:15:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-24T13:05:10+02:00"
+      "checked": "2026-11-24T13:15:10+02:00"
     }
   }
 }
