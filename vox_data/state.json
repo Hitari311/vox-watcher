@@ -1257,17 +1257,15 @@
       "changed": "2026-11-24T22:05:09+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "577c91cc41037736fbe382f964ad107f3bd22e17ff389253792b6e1c0e8c74d9",
+      "hash": "a80ccea2f04d7fa37caaee20791a3dbef2015d1ec67ccdc549dcbe3f49ce494a",
       "slugs": [
         "crypto-arabic",
         "ebenezer",
-        "forgotten-island",
         "hadoota-arabic",
-        "matloub-3a2eleyain-arabic",
         "the-hunger-games-sunrise-on-the-reaping",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-24T23:05:11+02:00"
+      "changed": "2026-11-24T23:10:12+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "d6b6b57380435065f860efcdfb9ea5e3dae5657112d703c4e192384a392bb3a1",
@@ -1315,15 +1313,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-24T23:05:11+02:00"
+      "checked": "2026-11-24T23:10:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-24T23:05:11+02:00"
+      "checked": "2026-11-24T23:10:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-24T23:05:11+02:00"
+      "checked": "2026-11-24T23:10:12+02:00"
     }
   }
 }
