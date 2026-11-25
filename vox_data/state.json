@@ -1229,13 +1229,12 @@
   },
   "sources": {
     "whatson": {
-      "hash": "1273964679c9f76acc66cad98a69853ba0008b3b8201c6dea0187e83cd473678",
+      "hash": "3cb308b8b66d9dbb977700102893d4a10cdcaac9976d414245c2318a573d86b8",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
         "belkis-turkish",
         "bts-world-tour-arirang-in-jakarta-live-viewing",
-        "clayface",
         "crypto-arabic",
         "dune-part-three",
         "ebenezer",
@@ -1256,7 +1255,7 @@
         "wala-kan-ala-el-bal-arabic",
         "you-can-see-everything"
       ],
-      "changed": "2026-11-25T21:15:11+02:00"
+      "changed": "2026-11-25T21:45:10+02:00"
     },
     "comingsoon": {
       "hash": "243766374477f4e00c997b42c7ae152d6b761825f165537ab5c00e2837bc4e1a",
@@ -1347,15 +1346,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T21:40:10+02:00"
+      "checked": "2026-11-25T21:45:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-12-02",
-      "checked": "2026-11-25T21:40:10+02:00"
+      "checked": "2026-11-25T21:45:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-25T21:40:10+02:00"
+      "checked": "2026-11-25T21:45:10+02:00"
     }
   }
 }
