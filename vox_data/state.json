@@ -1312,14 +1312,13 @@
       "changed": "2026-11-25T22:55:10+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "68d0c84305629ac5f442c3de471cd8febd8edbf9b31346e4241d85488165aa04",
+      "hash": "daf9d7766094f787f30b1f3e086e2cb31abb984a1483b89a37082c15bd77a776",
       "slugs": [
         "belkis-turkish",
         "clayface",
         "crypto-arabic",
         "ebenezer",
         "focker-in-law",
-        "forgotten-island",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "hexed",
@@ -1335,21 +1334,21 @@
         "wala-kan-ala-el-bal-arabic",
         "you-can-see-everything"
       ],
-      "changed": "2026-11-25T21:05:10+02:00"
+      "changed": "2026-11-25T23:00:12+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T22:55:10+02:00"
+      "checked": "2026-11-25T23:00:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-12-02",
-      "checked": "2026-11-25T22:55:10+02:00"
+      "checked": "2026-11-25T23:00:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-25T22:55:10+02:00"
+      "checked": "2026-11-25T23:00:12+02:00"
     }
   }
 }
