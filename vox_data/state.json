@@ -1298,12 +1298,11 @@
       "changed": "2026-11-25T18:05:23+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "4a05f9029e5e06a7faf99337225834568f697e7bcd07ef4b9048f826ccb54fcf",
+      "hash": "ab34eda1a6b74c5324716e27a998d60bd2893631c8430583a7fc8d1ce95cdce0",
       "slugs": [
         "crypto-arabic",
         "ebenezer",
         "focker-in-law",
-        "forgotten-island",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "hexed",
@@ -1318,10 +1317,10 @@
         "wala-kan-ala-el-bal-arabic",
         "you-can-see-everything"
       ],
-      "changed": "2026-11-25T19:30:12+02:00"
+      "changed": "2026-11-25T20:00:11+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "18c2b675667b68f15448994d0565d67f7d0493e37236fe63130d66006e094d69",
+      "hash": "82da1c2c66cd23ab8ccc6f247d0aaed22667c3f1904678afd53b518cab49e71c",
       "slugs": [
         "belkis-turkish",
         "clayface",
@@ -1335,7 +1334,6 @@
         "how-to-rob-a-bank",
         "i-play-rocky",
         "lela-bazit-khalis-arabic",
-        "les-mis-rables",
         "matloub-3a2eleyain-arabic",
         "paper-tiger",
         "sophia-arabic",
@@ -1346,21 +1344,21 @@
         "whalefall",
         "you-can-see-everything"
       ],
-      "changed": "2026-11-25T11:25:10+02:00"
+      "changed": "2026-11-25T20:00:11+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T19:55:15+02:00"
+      "checked": "2026-11-25T20:00:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-12-02",
-      "checked": "2026-11-25T19:55:15+02:00"
+      "checked": "2026-11-25T20:00:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-25T19:55:15+02:00"
+      "checked": "2026-11-25T20:00:11+02:00"
     }
   }
 }
