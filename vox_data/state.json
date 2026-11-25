@@ -1286,15 +1286,14 @@
       "changed": "2026-11-25T13:15:11+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "eb739ff6275bed0290970e4b3d3ebc9bf072f76394ec2789155732a92bea6680",
+      "hash": "27a43fd9abf11723c1aedf31a7f9778f8684a370a92b99298a09822cb3effc35",
       "slugs": [
-        "crypto-arabic",
         "ebenezer",
         "hadoota-arabic",
         "lela-bazit-khalis-arabic",
         "the-hunger-games-sunrise-on-the-reaping"
       ],
-      "changed": "2026-11-25T18:05:23+02:00"
+      "changed": "2026-11-25T21:30:10+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "ab34eda1a6b74c5324716e27a998d60bd2893631c8430583a7fc8d1ce95cdce0",
@@ -1348,15 +1347,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T21:25:13+02:00"
+      "checked": "2026-11-25T21:30:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-12-02",
-      "checked": "2026-11-25T21:25:13+02:00"
+      "checked": "2026-11-25T21:30:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-25T21:25:13+02:00"
+      "checked": "2026-11-25T21:30:10+02:00"
     }
   }
 }
