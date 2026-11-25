@@ -280,7 +280,9 @@
       "title": "Hexed",
       "first_seen": "2026-10-07T21:48:25+03:00",
       "seen_in": {
-        "comingsoon": "2026-10-07T21:48:25+03:00"
+        "comingsoon": "2026-10-07T21:48:25+03:00",
+        "whatson": "2026-11-25T11:25:10+02:00",
+        "showtimes:mall-of-egypt": "2026-11-25T11:25:10+02:00"
       }
     },
     "hybe-cheering-party": {
@@ -1191,20 +1193,32 @@
       "title": "Focker In-Law",
       "first_seen": "2026-11-24T13:15:10+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-24T13:15:10+02:00"
+        "comingsoon": "2026-11-24T13:15:10+02:00",
+        "whatson": "2026-11-25T11:25:10+02:00",
+        "showtimes:mall-of-egypt": "2026-11-25T11:25:10+02:00"
       }
     },
     "paper-tiger": {
       "title": "Paper Tiger",
       "first_seen": "2026-11-24T13:25:11+02:00",
       "seen_in": {
-        "comingsoon": "2026-11-24T13:25:11+02:00"
+        "comingsoon": "2026-11-24T13:25:11+02:00",
+        "whatson": "2026-11-25T11:25:10+02:00",
+        "showtimes:mall-of-egypt": "2026-11-25T11:25:10+02:00"
+      }
+    },
+    "you-can-see-everything": {
+      "title": "You Can See Everything",
+      "first_seen": "2026-11-25T11:25:10+02:00",
+      "seen_in": {
+        "whatson": "2026-11-25T11:25:10+02:00",
+        "showtimes:mall-of-egypt": "2026-11-25T11:25:10+02:00"
       }
     }
   },
   "sources": {
     "whatson": {
-      "hash": "d8f68437201d938ab1dfd34e4ac79136cf10949fbd8f383d59c82021c033b2bf",
+      "hash": "294027da65184ea39270bd3f7824d1194bb1eb8dd747f20ed838a3026dfb1872",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1214,23 +1228,27 @@
         "crypto-arabic",
         "dune-part-three",
         "ebenezer",
+        "focker-in-law",
         "forgotten-island",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
+        "hexed",
         "how-to-rob-a-bank",
         "i-play-rocky",
         "lela-bazit-khalis-arabic",
         "les-mis-rables",
         "matloub-3a2eleyain-arabic",
+        "paper-tiger",
         "sophia-arabic",
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
         "the-hunger-games-sunrise-on-the-reaping",
         "the-odyssey",
         "wala-kan-ala-el-bal-arabic",
-        "whalefall"
+        "whalefall",
+        "you-can-see-everything"
       ],
-      "changed": "2026-11-25T10:05:12+02:00"
+      "changed": "2026-11-25T11:25:10+02:00"
     },
     "comingsoon": {
       "hash": "6cce1d0d8146c622facb3251407f9f73abea1a53084883ae5c7430e2cc21fc9c",
@@ -1292,42 +1310,46 @@
       "changed": "2026-11-25T00:50:10+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "9afd59b7ebe37fa69a3dde5f966cd4f23791e470068c003a415c19fa923b48a9",
+      "hash": "18c2b675667b68f15448994d0565d67f7d0493e37236fe63130d66006e094d69",
       "slugs": [
         "belkis-turkish",
         "clayface",
         "crypto-arabic",
         "ebenezer",
+        "focker-in-law",
         "forgotten-island",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
+        "hexed",
         "how-to-rob-a-bank",
         "i-play-rocky",
         "lela-bazit-khalis-arabic",
         "les-mis-rables",
         "matloub-3a2eleyain-arabic",
+        "paper-tiger",
         "sophia-arabic",
         "the-cat-in-the-hat",
         "the-cat-in-the-hat-arabic",
         "the-hunger-games-sunrise-on-the-reaping",
         "wala-kan-ala-el-bal-arabic",
-        "whalefall"
+        "whalefall",
+        "you-can-see-everything"
       ],
-      "changed": "2026-11-23T20:00:12+02:00"
+      "changed": "2026-11-25T11:25:10+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T11:20:12+02:00"
+      "checked": "2026-11-25T11:25:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T11:20:12+02:00"
+      "checked": "2026-11-25T11:25:10+02:00"
     },
     "mall-of-egypt": {
-      "last_date": "2026-11-25",
-      "checked": "2026-11-25T11:20:12+02:00"
+      "last_date": "2026-11-27",
+      "checked": "2026-11-25T11:25:10+02:00"
     }
   }
 }
