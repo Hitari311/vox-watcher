@@ -1310,13 +1310,12 @@
       "changed": "2026-11-25T22:55:10+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "4d830f8864fdd185a8ed115c4d12db19fdca61e3c8d6fe39edf29941173a32df",
+      "hash": "fc3239874320cc94708615dbadabe45806c058cd4e0c48eee7d34e5ad06a0606",
       "slugs": [
         "belkis-turkish",
         "crypto-arabic",
         "ebenezer",
         "focker-in-law",
-        "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "hexed",
         "how-to-rob-a-bank",
@@ -1331,21 +1330,21 @@
         "wala-kan-ala-el-bal-arabic",
         "you-can-see-everything"
       ],
-      "changed": "2026-11-25T23:40:09+02:00"
+      "changed": "2026-11-25T23:45:14+02:00"
     }
   },
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T23:40:09+02:00"
+      "checked": "2026-11-25T23:45:14+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-12-02",
-      "checked": "2026-11-25T23:40:09+02:00"
+      "checked": "2026-11-25T23:45:14+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-25T23:40:09+02:00"
+      "checked": "2026-11-25T23:45:14+02:00"
     }
   }
 }
