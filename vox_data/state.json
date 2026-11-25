@@ -1229,7 +1229,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "3009cb61d9f1f34060b9925c17871237783b9d08bd226ed67ee1fa67e6ce241e",
+      "hash": "1273964679c9f76acc66cad98a69853ba0008b3b8201c6dea0187e83cd473678",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1240,7 +1240,6 @@
         "dune-part-three",
         "ebenezer",
         "focker-in-law",
-        "forgotten-island",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
         "hexed",
@@ -1257,7 +1256,7 @@
         "wala-kan-ala-el-bal-arabic",
         "you-can-see-everything"
       ],
-      "changed": "2026-11-25T20:35:11+02:00"
+      "changed": "2026-11-25T21:15:11+02:00"
     },
     "comingsoon": {
       "hash": "243766374477f4e00c997b42c7ae152d6b761825f165537ab5c00e2837bc4e1a",
@@ -1349,15 +1348,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T21:10:22+02:00"
+      "checked": "2026-11-25T21:15:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-12-02",
-      "checked": "2026-11-25T21:10:22+02:00"
+      "checked": "2026-11-25T21:15:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-25T21:10:22+02:00"
+      "checked": "2026-11-25T21:15:11+02:00"
     }
   }
 }
