@@ -282,7 +282,8 @@
       "seen_in": {
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "whatson": "2026-11-25T11:25:10+02:00",
-        "showtimes:mall-of-egypt": "2026-11-25T11:25:10+02:00"
+        "showtimes:mall-of-egypt": "2026-11-25T11:25:10+02:00",
+        "showtimes:city-centre-almaza": "2026-11-25T19:30:12+02:00"
       }
     },
     "hybe-cheering-party": {
@@ -1196,7 +1197,8 @@
       "seen_in": {
         "comingsoon": "2026-11-24T13:15:10+02:00",
         "whatson": "2026-11-25T11:25:10+02:00",
-        "showtimes:mall-of-egypt": "2026-11-25T11:25:10+02:00"
+        "showtimes:mall-of-egypt": "2026-11-25T11:25:10+02:00",
+        "showtimes:city-centre-almaza": "2026-11-25T19:30:12+02:00"
       }
     },
     "paper-tiger": {
@@ -1213,7 +1215,8 @@
       "first_seen": "2026-11-25T11:25:10+02:00",
       "seen_in": {
         "whatson": "2026-11-25T11:25:10+02:00",
-        "showtimes:mall-of-egypt": "2026-11-25T11:25:10+02:00"
+        "showtimes:mall-of-egypt": "2026-11-25T11:25:10+02:00",
+        "showtimes:city-centre-almaza": "2026-11-25T19:30:12+02:00"
       }
     },
     "gun-maaster-g9-hindi": {
@@ -1295,13 +1298,15 @@
       "changed": "2026-11-25T18:05:23+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "a3bbc99592742c82e507667a68ce940b29e94e4f063f3e251e7546a3c38018d0",
+      "hash": "4a05f9029e5e06a7faf99337225834568f697e7bcd07ef4b9048f826ccb54fcf",
       "slugs": [
         "crypto-arabic",
         "ebenezer",
+        "focker-in-law",
         "forgotten-island",
         "godzilla-minus-zero-japanese",
         "hadoota-arabic",
+        "hexed",
         "how-to-rob-a-bank",
         "i-play-rocky",
         "lela-bazit-khalis-arabic",
@@ -1309,9 +1314,11 @@
         "sophia-arabic",
         "the-cat-in-the-hat",
         "the-hunger-games-sunrise-on-the-reaping",
-        "wala-kan-ala-el-bal-arabic"
+        "the-odyssey",
+        "wala-kan-ala-el-bal-arabic",
+        "you-can-see-everything"
       ],
-      "changed": "2026-11-25T18:35:12+02:00"
+      "changed": "2026-11-25T19:30:12+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "18c2b675667b68f15448994d0565d67f7d0493e37236fe63130d66006e094d69",
@@ -1345,15 +1352,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T19:25:12+02:00"
+      "checked": "2026-11-25T19:30:12+02:00"
     },
     "city-centre-almaza": {
-      "last_date": "2026-11-25",
-      "checked": "2026-11-25T19:25:12+02:00"
+      "last_date": "2026-12-02",
+      "checked": "2026-11-25T19:30:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-25T19:25:12+02:00"
+      "checked": "2026-11-25T19:30:12+02:00"
     }
   }
 }
