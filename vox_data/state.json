@@ -1214,6 +1214,13 @@
         "whatson": "2026-11-25T11:25:10+02:00",
         "showtimes:mall-of-egypt": "2026-11-25T11:25:10+02:00"
       }
+    },
+    "gun-maaster-g9-hindi": {
+      "title": "Gun Maaster G9",
+      "first_seen": "2026-11-25T13:15:11+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-25T13:15:11+02:00"
+      }
     }
   },
   "sources": {
@@ -1251,7 +1258,7 @@
       "changed": "2026-11-25T11:25:10+02:00"
     },
     "comingsoon": {
-      "hash": "6cce1d0d8146c622facb3251407f9f73abea1a53084883ae5c7430e2cc21fc9c",
+      "hash": "243766374477f4e00c997b42c7ae152d6b761825f165537ab5c00e2837bc4e1a",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1263,6 +1270,7 @@
         "dune-part-three-preview-screening",
         "dune-part-two-re-release",
         "focker-in-law",
+        "gun-maaster-g9-hindi",
         "hexed",
         "jumanji-open-world",
         "mamsous-arabic",
@@ -1274,7 +1282,7 @@
         "the-beekeeper-2",
         "violent-night-2"
       ],
-      "changed": "2026-11-24T22:05:09+02:00"
+      "changed": "2026-11-25T13:15:11+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "72f3183a226a7d529514773ee9a188758fcff1de1fe264b640d817865b100eb1",
@@ -1340,15 +1348,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T13:10:10+02:00"
+      "checked": "2026-11-25T13:15:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T13:10:10+02:00"
+      "checked": "2026-11-25T13:15:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-25T13:10:10+02:00"
+      "checked": "2026-11-25T13:15:11+02:00"
     }
   }
 }
