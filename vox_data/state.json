@@ -1143,7 +1143,8 @@
       "seen_in": {
         "comingsoon": "2026-11-19T07:20:09+02:00",
         "whatson": "2026-11-23T19:55:09+02:00",
-        "showtimes:mall-of-egypt": "2026-11-23T20:00:12+02:00"
+        "showtimes:mall-of-egypt": "2026-11-23T20:00:12+02:00",
+        "showtimes:city-centre-almaza": "2026-11-25T13:20:10+02:00"
       }
     },
     "dune-part-thre": {
@@ -1298,7 +1299,7 @@
       "changed": "2026-11-25T11:55:11+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "227a4532b21916fd9b319658e10b3fc8c20edf566cf46fc6d7a5bfa6eb68f978",
+      "hash": "d118cfedfdf39d7ec0e7418d02313542d5cd0fae4b3b797414a4b6f5b80aaead",
       "slugs": [
         "crypto-arabic",
         "ebenezer",
@@ -1309,12 +1310,13 @@
         "i-play-rocky",
         "lela-bazit-khalis-arabic",
         "matloub-3a2eleyain-arabic",
+        "sophia-arabic",
         "the-cat-in-the-hat",
         "the-hunger-games-sunrise-on-the-reaping",
         "the-odyssey",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-25T00:50:10+02:00"
+      "changed": "2026-11-25T13:20:10+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "18c2b675667b68f15448994d0565d67f7d0493e37236fe63130d66006e094d69",
@@ -1348,15 +1350,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T13:15:11+02:00"
+      "checked": "2026-11-25T13:20:10+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T13:15:11+02:00"
+      "checked": "2026-11-25T13:20:10+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-25T13:15:11+02:00"
+      "checked": "2026-11-25T13:20:10+02:00"
     }
   }
 }
