@@ -1295,7 +1295,7 @@
       "changed": "2026-11-25T18:05:23+02:00"
     },
     "showtimes:city-centre-almaza": {
-      "hash": "d118cfedfdf39d7ec0e7418d02313542d5cd0fae4b3b797414a4b6f5b80aaead",
+      "hash": "a3bbc99592742c82e507667a68ce940b29e94e4f063f3e251e7546a3c38018d0",
       "slugs": [
         "crypto-arabic",
         "ebenezer",
@@ -1309,10 +1309,9 @@
         "sophia-arabic",
         "the-cat-in-the-hat",
         "the-hunger-games-sunrise-on-the-reaping",
-        "the-odyssey",
         "wala-kan-ala-el-bal-arabic"
       ],
-      "changed": "2026-11-25T13:20:10+02:00"
+      "changed": "2026-11-25T18:35:12+02:00"
     },
     "showtimes:mall-of-egypt": {
       "hash": "18c2b675667b68f15448994d0565d67f7d0493e37236fe63130d66006e094d69",
@@ -1346,15 +1345,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T18:30:15+02:00"
+      "checked": "2026-11-25T18:35:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T18:30:15+02:00"
+      "checked": "2026-11-25T18:35:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-25T18:30:15+02:00"
+      "checked": "2026-11-25T18:35:12+02:00"
     }
   }
 }
