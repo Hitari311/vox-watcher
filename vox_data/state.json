@@ -1310,9 +1310,8 @@
       "changed": "2026-11-25T22:55:10+02:00"
     },
     "showtimes:mall-of-egypt": {
-      "hash": "fc3239874320cc94708615dbadabe45806c058cd4e0c48eee7d34e5ad06a0606",
+      "hash": "be8965778e2119f7fa0c787369c2cf660c00f20c81dcb82260aa64c82de7a180",
       "slugs": [
-        "belkis-turkish",
         "crypto-arabic",
         "ebenezer",
         "focker-in-law",
@@ -1330,7 +1329,7 @@
         "wala-kan-ala-el-bal-arabic",
         "you-can-see-everything"
       ],
-      "changed": "2026-11-25T23:45:14+02:00"
+      "changed": "2026-11-26T00:00:13+02:00"
     }
   },
   "schedule": {
@@ -1340,11 +1339,11 @@
     },
     "city-centre-almaza": {
       "last_date": "2026-12-02",
-      "checked": "2026-11-25T23:55:18+02:00"
+      "checked": "2026-11-26T00:00:13+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-25T23:55:18+02:00"
+      "checked": "2026-11-26T00:00:13+02:00"
     }
   }
 }
