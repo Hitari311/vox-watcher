@@ -1229,7 +1229,7 @@
   },
   "sources": {
     "whatson": {
-      "hash": "3009cb61d9f1f34060b9925c17871237783b9d08bd226ed67ee1fa67e6ce241e",
+      "hash": "634d38fb7c0e7a3e119cee1978dc8440061bb274ef905278e125d54056b0a27a",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1251,13 +1251,12 @@
         "paper-tiger",
         "sophia-arabic",
         "the-cat-in-the-hat",
-        "the-cat-in-the-hat-arabic",
         "the-hunger-games-sunrise-on-the-reaping",
         "the-odyssey",
         "wala-kan-ala-el-bal-arabic",
         "you-can-see-everything"
       ],
-      "changed": "2026-11-25T19:20:12+02:00"
+      "changed": "2026-11-25T20:30:12+02:00"
     },
     "comingsoon": {
       "hash": "243766374477f4e00c997b42c7ae152d6b761825f165537ab5c00e2837bc4e1a",
@@ -1350,15 +1349,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-25",
-      "checked": "2026-11-25T20:25:10+02:00"
+      "checked": "2026-11-25T20:30:12+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-12-02",
-      "checked": "2026-11-25T20:25:10+02:00"
+      "checked": "2026-11-25T20:30:12+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-25T20:25:10+02:00"
+      "checked": "2026-11-25T20:30:12+02:00"
     }
   }
 }
