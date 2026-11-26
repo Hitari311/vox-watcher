@@ -1259,7 +1259,7 @@
       "changed": "2026-11-26T12:05:11+02:00"
     },
     "comingsoon": {
-      "hash": "a37aaa874fef69dfd8ea54fbb0836e00ae356929d95d4e08ad4d4ff30822f064",
+      "hash": "6cac1247001f3374fcd003a1497253b9b8343b63b9eac43717ee026e9fcc1640",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1274,13 +1274,12 @@
         "mamsous-arabic",
         "maserati-the-brothers",
         "narnia-the-magicians-nephew",
-        "sophia-arabic",
         "spider-man-brand-new-brand-new-day",
         "the-angry-birds-movie-3",
         "the-beekeeper-2",
         "violent-night-2"
       ],
-      "changed": "2026-11-26T10:20:10+02:00"
+      "changed": "2026-11-26T12:10:11+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "bee42fb59edfa0ea983575049be00f0fc4f73f1e71a1050752acdf9003da85e9",
@@ -1345,15 +1344,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-26T12:05:11+02:00"
+      "checked": "2026-11-26T12:10:11+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-12-02",
-      "checked": "2026-11-26T12:05:11+02:00"
+      "checked": "2026-11-26T12:10:11+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-26T12:05:11+02:00"
+      "checked": "2026-11-26T12:10:11+02:00"
     }
   }
 }
