@@ -1228,6 +1228,13 @@
       "seen_in": {
         "comingsoon": "2026-11-25T13:15:11+02:00"
       }
+    },
+    "k-pop-the-debut": {
+      "title": "K-Pop: The Debut",
+      "first_seen": "2026-11-26T13:20:09+02:00",
+      "seen_in": {
+        "comingsoon": "2026-11-26T13:20:09+02:00"
+      }
     }
   },
   "sources": {
@@ -1260,7 +1267,7 @@
       "changed": "2026-11-26T12:20:12+02:00"
     },
     "comingsoon": {
-      "hash": "6cac1247001f3374fcd003a1497253b9b8343b63b9eac43717ee026e9fcc1640",
+      "hash": "82d46b1feb983e51fcde29d262b20cee0a42dd2cd46d29ea22cc47014945c109",
       "slugs": [
         "avengers-doomsday",
         "avengers-doomsday-infinity-vision",
@@ -1272,6 +1279,7 @@
         "dune-part-three-preview-screening",
         "dune-part-two-re-release",
         "jumanji-open-world",
+        "k-pop-the-debut",
         "mamsous-arabic",
         "maserati-the-brothers",
         "narnia-the-magicians-nephew",
@@ -1280,7 +1288,7 @@
         "the-beekeeper-2",
         "violent-night-2"
       ],
-      "changed": "2026-11-26T12:10:11+02:00"
+      "changed": "2026-11-26T13:20:09+02:00"
     },
     "showtimes:city-centre-alexandria": {
       "hash": "bee42fb59edfa0ea983575049be00f0fc4f73f1e71a1050752acdf9003da85e9",
@@ -1345,15 +1353,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-26T13:15:11+02:00"
+      "checked": "2026-11-26T13:20:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-12-02",
-      "checked": "2026-11-26T13:15:11+02:00"
+      "checked": "2026-11-26T13:20:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-26T13:15:11+02:00"
+      "checked": "2026-11-26T13:20:09+02:00"
     }
   }
 }
