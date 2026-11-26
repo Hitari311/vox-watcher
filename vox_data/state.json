@@ -283,7 +283,8 @@
         "comingsoon": "2026-10-07T21:48:25+03:00",
         "whatson": "2026-11-25T11:25:10+02:00",
         "showtimes:mall-of-egypt": "2026-11-25T11:25:10+02:00",
-        "showtimes:city-centre-almaza": "2026-11-25T19:30:12+02:00"
+        "showtimes:city-centre-almaza": "2026-11-25T19:30:12+02:00",
+        "showtimes:city-centre-alexandria": "2026-11-26T02:20:09+02:00"
       }
     },
     "hybe-cheering-party": {
@@ -1198,7 +1199,8 @@
         "comingsoon": "2026-11-24T13:15:10+02:00",
         "whatson": "2026-11-25T11:25:10+02:00",
         "showtimes:mall-of-egypt": "2026-11-25T11:25:10+02:00",
-        "showtimes:city-centre-almaza": "2026-11-25T19:30:12+02:00"
+        "showtimes:city-centre-almaza": "2026-11-25T19:30:12+02:00",
+        "showtimes:city-centre-alexandria": "2026-11-26T02:20:09+02:00"
       }
     },
     "paper-tiger": {
@@ -1216,7 +1218,8 @@
       "seen_in": {
         "whatson": "2026-11-25T11:25:10+02:00",
         "showtimes:mall-of-egypt": "2026-11-25T11:25:10+02:00",
-        "showtimes:city-centre-almaza": "2026-11-25T19:30:12+02:00"
+        "showtimes:city-centre-almaza": "2026-11-25T19:30:12+02:00",
+        "showtimes:city-centre-alexandria": "2026-11-26T02:20:09+02:00"
       }
     },
     "gun-maaster-g9-hindi": {
@@ -1281,16 +1284,19 @@
       "changed": "2026-11-25T22:00:19+02:00"
     },
     "showtimes:city-centre-alexandria": {
-      "hash": "cca66363684b3d75c502f49b19875e3c691a4e1715057332b0ab13703dc5738d",
+      "hash": "bee42fb59edfa0ea983575049be00f0fc4f73f1e71a1050752acdf9003da85e9",
       "slugs": [
         "ebenezer",
+        "focker-in-law",
         "hadoota-arabic",
+        "hexed",
         "lela-bazit-khalis-arabic",
         "matloub-3a2eleyain-arabic",
         "the-hunger-games-sunrise-on-the-reaping",
-        "wala-kan-ala-el-bal-arabic"
+        "wala-kan-ala-el-bal-arabic",
+        "you-can-see-everything"
       ],
-      "changed": "2026-11-26T01:25:10+02:00"
+      "changed": "2026-11-26T02:20:09+02:00"
     },
     "showtimes:city-centre-almaza": {
       "hash": "6a3fb5f77c55ca667e601a3db37377038e63dca1c9a9f6b416723120dc768061",
@@ -1339,15 +1345,15 @@
   "schedule": {
     "city-centre-alexandria": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-26T02:15:11+02:00"
+      "checked": "2026-11-26T02:20:09+02:00"
     },
     "city-centre-almaza": {
       "last_date": "2026-12-02",
-      "checked": "2026-11-26T02:15:11+02:00"
+      "checked": "2026-11-26T02:20:09+02:00"
     },
     "mall-of-egypt": {
       "last_date": "2026-11-27",
-      "checked": "2026-11-26T02:15:11+02:00"
+      "checked": "2026-11-26T02:20:09+02:00"
     }
   }
 }
